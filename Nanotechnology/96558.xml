@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <page>
+    <title>Maxwell's demon</title>
+    <ns>0</ns>
+    <id>96558</id>
+    <revision>
+      <id>795905339</id>
+      <parentid>795905225</parentid>
+      <timestamp>2017-08-17T07:18:56Z</timestamp>
+      <contributor>
+        <ip>76.6.136.205</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{refimprove|date=March 2012}}
+
+[[Image:Maxwell's demon.svg|right|310px|thumb|Schematic figure of Maxwell's demon]]
+
+In the [[philosophy of thermal and statistical physics]], '''Maxwell's demon''' is a [[thought experiment]] created by the [[physicist]] [[James Clerk Maxwell]] in which he suggested how the [[second law of thermodynamics]] might hypothetically be violated.&lt;ref&gt;{{cite book |author=Cargill Gilston Knott |title=Life and Scientific Work of Peter Guthrie Tait |publisher=[[Cambridge University Press]] |year=1911 |pages=213–215 |chapter=Quote from undated letter from Maxwell to Tait | url=https://archive.org/stream/lifescientificwo00knotuoft#page/212/mode/2up}}&lt;/ref&gt; In the thought experiment, a [[Demon (thought experiment)|demon]] controls a small door between two chambers of gas. As individual gas molecules approach the door, the demon quickly opens and shuts the door so that fast molecules pass into the other chamber, while slow molecules remain in the first chamber. Because faster molecules are hotter, the demon's behavior causes one chamber to warm up as the other cools, thus decreasing [[entropy]] and violating the second law of thermodynamics.
+
+== Origin and history of the idea ==
+The [[thought experiment]] first appeared in a letter [[James Clerk Maxwell|Maxwell]] wrote to [[Peter Guthrie Tait]] on 11 December 1867. It appeared again in a letter to [[John William Strutt]] in 1871, before it was presented to the public in Maxwell's 1872 book on [[thermodynamics]] titled ''Theory of Heat''.&lt;ref name=Leff&gt;[[#Leff Rex 02|Leff &amp; Rex (2002)]], p. 370.&lt;/ref&gt;
+
+In his letters and books, Maxwell described the agent opening the door between the chambers as a "finite being." [[William Thomson, 1st Baron Kelvin|William Thomson (Lord Kelvin)]] was the first to use the word "demon" for Maxwell's concept, in the journal ''[[Nature (journal)|Nature]]'' in 1874, and implied that he intended the mediating, rather than malevolent, connotation of the word.&lt;ref&gt;{{cite journal |author=[[William Thomson, 1st Baron Kelvin|William Thomson]] |year=1874 |title=Kinetic theory of the dissipation of energy |journal=[[Nature (journal)|Nature]] |volume=9 |issue=232 |pages=441–444 |doi=10.1038/009441c0 |bibcode=1874Natur...9..441T}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |year=1879 |title=The sorting demon Of Maxwell |journal=Proceedings of the Royal Institution|volume=ix |page=113}}&lt;/ref&gt;&lt;ref name=Weber&gt;{{cite book |author=Alan S. Weber |year=2000 |title=Nineteenth Century Science: a Selection of Original Texts |publisher=[[Broadview Press]] |page=300}}&lt;/ref&gt;
+
+== Original thought experiment ==
+The second law of thermodynamics ensures (through statistical probability) that two bodies of different [[temperature]], when brought into contact with each other and isolated from the rest of the Universe, will evolve to a thermodynamic equilibrium in which both bodies have approximately the same temperature.&lt;ref name="Bennett87"&gt;{{cite journal
+  | last = Bennett
+  | first = Charles H.
+  | title = Demons, Engines, and the Second Law
+  | journal = Scientific American
+  | volume = 257
+  | issue = 5
+  | pages = 108–116
+  | publisher = Scientific American Inc.
+  | location = 
+  | date = November 1987
+  | url = https://ecee.colorado.edu/~ecen5555/SourceMaterial/DemonsEnginesAndSecondLaw87.pdf
+  | issn = 
+  | doi = 10.1038/scientificamerican1187-108
+  | id = 
+  | accessdate = November 13, 2014}}&lt;/ref&gt; The second law is also expressed as the assertion that in an [[isolated system]], [[entropy]] never decreases.&lt;ref name="Bennett87" /&gt;
+
+Maxwell conceived a thought experiment as a way of furthering the understanding of the second law. His description of the experiment is as follows:&lt;ref name="Bennett87" /&gt;&lt;ref&gt;Maxwell (1871), reprinted in [[#Leff Rex 90|Leff &amp; Rex (1990)]] on p. 4.&lt;/ref&gt;
+
+{{quote|... if we conceive of a being whose faculties are so sharpened that he can follow every molecule in its course, such a being, whose attributes are as essentially finite as our own, would be able to do what is impossible to us. For we have seen that molecules in a vessel full of air at uniform temperature are moving with velocities by no means uniform, though the mean velocity of any great number of them, arbitrarily selected, is almost exactly uniform. Now let us suppose that such a vessel is divided into two portions, A and B, by a division in which there is a small hole, and that a being, who can see the individual molecules, opens and closes this hole, so as to allow only the swifter molecules to pass from A to B, and only the slower molecules to pass from B to A. He will thus, without expenditure of work, raise the temperature of B and lower that of A, in contradiction to the second law of thermodynamics.}}In other words, Maxwell imagines one container divided into two parts, ''A'' and ''B''.&lt;ref name="Bennett87" /&gt;&lt;ref name="Sagawa"&gt;{{cite book
+ | last1  = Sagawa
+ | first1 = Takahiro 
+ | title  = Thermodynamics of Information Processing in Small Systems
+ | publisher = Springer Science and Business Media
+ | date   = 2012
+ | location = 
+ | pages  = 9–14
+ | language = 
+ | url    = https://books.google.com/books?id=oKWi-J6LOsEC&amp;pg=PA13
+ | doi    = 
+ | id     = 
+ | isbn   = 4431541675
+ }}&lt;/ref&gt; Both parts are filled with the same [[gas]] at equal temperatures and placed next to each other. Observing the [[molecule]]s on both sides, an imaginary [[demon]] guards a trapdoor between the two parts. When a faster-than-average molecule from ''A'' flies towards the trapdoor, the demon opens it, and the molecule will fly from ''A'' to ''B''. Likewise, when a slower-than-average molecule from ''B'' flies towards the trapdoor, the demon will let it pass from ''B'' to ''A''. The average [[speed]] of the molecules in ''B'' will have increased while in ''A'' they will have slowed down on average. Since average molecular speed corresponds to temperature, the temperature decreases in ''A'' and increases in ''B'', contrary to the second law of thermodynamics.  A [[heat engine]] operating between the thermal reservoirs ''A'' and ''B'' could extract useful [[work (physics)|work]] from this temperature difference.
+
+The demon must allow molecules to pass in both directions in order to produce only a temperature difference; one-way passage only of faster-than-average molecules from ''A'' to ''B'' will cause higher temperature ''and'' pressure to develop on the ''B'' side.
+
+== Criticism and development ==
+Several physicists have presented calculations that show that the [[second law of thermodynamics]] will not actually be violated, if a more complete analysis is made of the whole system including the demon.&lt;ref name="Bennett87" /&gt;&lt;ref name="Sagawa" /&gt;&lt;ref name="BennettSchumacher"&gt;{{cite journal
+  | last1 = Bennett
+  | first1 = Charles H.
+  | last2 = Schumacher
+  | first2 = Benjamin
+  | title = Maxwell's demons appear in the lab
+  | journal = Nikkei Science
+  | volume = 
+  | issue = 
+  | pages = 3–6
+  | publisher = Scientific American Inc.
+  | location = 
+  | date = August 2011
+  | url = http://www.nikkei-science.com/wp-content/uploads/2011/08/201108_032.pdf
+  | issn = 
+  | doi = 
+  | id = 
+  | accessdate = November 13, 2014}}&lt;/ref&gt; The essence of the physical argument is to show, by calculation, that any demon must "generate" more entropy segregating the molecules than it could ever eliminate by the method described. That is, it would take more thermodynamic work to gauge the speed of the molecules and selectively allow them to pass through the opening between ''A'' and ''B'' than the amount of [[energy]] gained by the difference of temperature caused by this.
+
+One of the most famous responses to this question was suggested in 1929 by [[Leó Szilárd]],&lt;ref name="Szilard"&gt;{{cite journal
+  | last = Szilard
+  | first = Leo
+  | title = Über die Entropieverminderung in einem thermodynamischen System bei Eingriffen intelligenter Wesen (On the reduction of entropy in a thermodynamic system by the intervention of intelligent beings)
+  | journal = Zeitschrift für Physik
+  | volume = 53
+  | issue = 
+  | pages = 840–856
+  | publisher = 
+  | location = 
+  | date = 1929
+  | url = 
+  | issn = 
+  | doi = 10.1007/bf01341281
+  | id = 
+  | accessdate = |bibcode = 1929ZPhy...53..840S }} cited in Bennett 1987.  English translation available as [http://aurellem.org/jaynes/sources/Szilard.pdf  NASA document TT F-16723] published 1976&lt;/ref&gt; and later by [[Léon Brillouin]].&lt;ref name="Bennett87" /&gt;&lt;ref name="Sagawa" /&gt;  Szilárd pointed out that a real-life Maxwell's demon would need to have some means of measuring molecular speed, and that the act of acquiring information would require an expenditure of energy. Since the demon and the gas are interacting, we must consider the total entropy of the gas and the demon combined. The expenditure of energy by the demon will cause an increase in the entropy of the demon, which will be larger than the lowering of the entropy of the gas.
+
+In 1960, [[Rolf Landauer]] raised an exception to this argument.&lt;ref name="Bennett87" /&gt;&lt;ref name="Sagawa" /&gt;&lt;ref name="Landauer"&gt;{{cite journal
+  | last = Landauer
+  | first = R.
+  | title = Irreversibility and heat generation in the computing process
+  | journal = IBM Jour. of Research and Development
+  | volume = 5
+  | issue = 3
+  | pages = 183–191
+  | publisher = International Business Machines
+  | location = 
+  | date = 1961
+  | url = http://www.pitt.edu/~jdnorton/lectures/Rotman_Summer_School_2013/thermo_computing_docs/Landauer_1961.pdf
+  | issn = 
+  | doi = 10.1147/rd.53.0183
+  | id = 
+  | accessdate = November 13, 2014}} reprinted in [http://domino.research.ibm.com/tchjr/journalindex.nsf/c469af92ea9eceac85256bd50048567c/8a9d4b4e96887b8385256bfa0067fba2?OpenDocument  Vol. 44, No. 1, January 2000, p. 261]&lt;/ref&gt;  He realized that some measuring processes need not increase thermodynamic entropy as long as they were [[Reversible process (thermodynamics)|thermodynamically reversible]]. He suggested these "reversible" measurements could be used to sort the molecules, violating the Second Law. However, due to [[Entropy in thermodynamics and information theory|the connection between]] thermodynamic entropy and [[information entropy]], this also meant that the recorded measurement must not be erased. In other words, to determine whether to let a molecule through, the demon must acquire information about the state of the molecule and either discard it or store it. Discarding it leads to immediate increase in entropy but the demon cannot store it indefinitely: In 1982, [[Charles H. Bennett (computer scientist)|Charles Bennett]] showed that, however well prepared, eventually the demon will run out of information storage space and must begin to erase the information it has previously gathered.&lt;ref name="Sagawa" /&gt;&lt;ref name="Bennett82" &gt;{{Cite journal | last1 = Bennett | first1 = C. H. | title = The thermodynamics of computation—a review | doi = 10.1007/BF02084158 | journal = International Journal of Theoretical Physics | volume = 21 | issue = 12 | pages = 905–940 | year = 1982 | pmid =  | pmc = |bibcode = 1982IJTP...21..905B }}&lt;/ref&gt; Erasing information is a thermodynamically irreversible process that increases the entropy of a system. Although Bennett had reached the same conclusion as Szilard’s 1929 paper, that a Maxwellian demon could not violate the second law because entropy would be created, he had reached it for different reasons.  Regarding [[Landauer's principle]], the minimum energy dissipated by deleting information was experimentally measured by Eric Lutz ''et al.'' in 2012. Furthermore, Lutz ''et al.'' confirmed that in order to approach the Landauer's limit, the system must asymptotically approach zero processing speed.&lt;ref&gt;{{cite web|author=jobs |url=http://www.nature.com/news/the-unavoidable-cost-of-computation-revealed-1.10186 |title=The unavoidable cost of computation revealed : Nature News &amp; Comment |publisher=Nature.com |date=2012-03-07 |accessdate=2012-09-07}}&lt;/ref&gt;
+
+[[John Earman]] and John D. Norton have argued that Szilárd and Landauer's explanations of Maxwell's demon begin by assuming that the [[second law of thermodynamics]] cannot be violated by the demon, and derive further properties of the demon from this assumption, including the necessity of consuming energy when erasing information, etc.&lt;ref&gt;{{cite journal |author1=John Earman  |author2=John D. Norton |lastauthoramp=yes |year=1998 |title=Exorcist XIV: The Wrath of Maxwell's Demon. Part I. From Maxwell to Szilard|url=http://www.pitt.edu/~jdnorton/papers/ExorcistXIV/Exorcist1.pdf|journal=Studies in the History and Philosophy of Modern Physics|pages=435|volume=29 |format=PDF |doi=10.1016/s1355-2198(98)00023-9}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author1=John Earman  |author2=John D. Norton |lastauthoramp=yes |year=1999 |title=Exorcist XIV: The Wrath of Maxwell’s Demon. Part II. From Szilard to Landauer and Beyond |url=http://www.pitt.edu/~jdnorton/papers/ExorcistXIV/Exorcist2.pdf|journal=Studies in the History and Philosophy of Modern Physics|pages=1|volume=30 |format=PDF |doi=10.1016/s1355-2198(98)00026-4}}&lt;/ref&gt; It would therefore be circular to invoke these derived properties to defend the second law from the demonic argument. Bennett later acknowledged the validity of Earman and Norton's argument, while maintaining that [[Landauer's principle]] explains the mechanism by which real systems do not violate the second law of thermodynamics.&lt;ref&gt;{{cite journal |author=Charles H. Bennett |year=2002–2003 |title=Notes on Landauer's principle, reversible computation, and Maxwell's demon |url=http://arxiv.org/pdf/physics/0210005v2.pdf |arxiv=physics/0210005 |format=PDF|bibcode = 2002physics..10005B }}&lt;/ref&gt;
+
+== Recent progress ==
+Although the argument by Landauer and Bennett only answers the consistency between the second law of thermodynamics and the whole cyclic process of the entire system of a [[Szilard engine]] (a composite system of the engine and the demon), a recent approach based on the [[non-equilibrium thermodynamics]] for small fluctuating systems has provided deeper insight on each information process with each subsystem. From this viewpoint, the measurement process is regarded as a process where the correlation ([[mutual information]]) between the engine and the demon increases, and the feedback process is regarded as a process where the correlation decreases. If the correlation changes, thermodynamic relations as the second law of thermodynamics and the [[fluctuation theorem]] for each subsystem should be modified, and for the case of external control a second-law like inequality&lt;ref&gt;{{cite journal |author1=Hugo Touchette  |author2=Seth Lloyd  |lastauthoramp=yes |year=2000 |title=Information-Theoretic Limits of Control |journal=Physical Review Letters |volume=84 |pages=1156–1159 |doi=10.1103/PhysRevLett.84.1156|bibcode = 2000PhRvL..84.1156T |pmid=11017467}}&lt;/ref&gt; and a generalized fluctuation theorem&lt;ref&gt;{{cite journal |author1=Takahiro Sagawa  |author2=Masahito Ueda   |lastauthoramp=yes |year=2010 |title=Generalized Jarzynski Equality under Nonequilibrium Feedback Control |journal=Physical Review Letters |volume=104 |pages=090602 |doi=10.1103/PhysRevLett.104.090602|arxiv = 0907.4914 |bibcode = 2010PhRvL.104i0602S }}&lt;/ref&gt; with mutual information are satisfied. These relations suggest that we need extra thermodynamic cost to increase correlation (measurement case), and in contrast we can apparently violate the second law up to the consumption of correlation (feedback case). For more general information processes including biological information processing, both inequality&lt;ref&gt;{{cite journal |author=Armen E Allahverdyan, Dominik Janzing and Guenter Mahler |year=2009 |title=Thermodynamic efficiency of information and heat flow |journal=Journal of Statistical Mechanics |volume=2009 |pages=P09011 |doi=10.1088/1742-5468/2009/09/P09011|arxiv = 0907.3320 |bibcode = 2009JSMTE..09..011A }}&lt;/ref&gt; and equality&lt;ref&gt;{{cite journal |author1=Naoto Shiraishi  |author2=Takahiro Sagawa  |lastauthoramp=yes |year=2015 |title=Fluctuation theorem for partially masked nonequilibrium dynamics |journal=Physical Review E |volume=91 |pages=012130 |doi=10.1103/PhysRevE.91.012130|arxiv = 1403.4018 |bibcode = 2015PhRvE..91a2130S }}&lt;/ref&gt; with mutual information hold.
+
+== Applications ==
+Real-life versions of Maxwellian demons occur, but all such "real demons" have their entropy-lowering effects duly balanced by increase of entropy elsewhere. Molecular-sized mechanisms are no longer found only in biology; they are also the subject of the emerging field of [[nanotechnology]]. Single-atom traps used by particle physicists allow an experimenter to control the state of individual quanta in a way similar to Maxwell's demon.
+
+If hypothetical [[mirror matter]] exists, Zurab Silagadze proposes that demons can be envisaged, "which can act like perpetuum mobiles of the second kind: extract heat energy from only one reservoir, use it to do work and be isolated from the rest of ordinary world. Yet the Second Law is not violated because the demons pay their entropy cost in the hidden (mirror) sector of the world by emitting mirror photons."&lt;ref&gt;{{cite web|url=http://uk.arxiv.org/abs/physics/0608114 |title=[physics/0608114&amp;#93; Maxwell's demon through the looking glass |publisher=Uk.arxiv.org |date=2006-08-10 |accessdate=2013-02-18}}&lt;/ref&gt;
+
+== Experimental work ==
+In the February 2007 issue of ''[[Nature (journal)|Nature]]'', [[David Leigh (scientist)|David Leigh]], a professor at the [[University of Edinburgh]], announced the creation of a nano-device based on the  [[Brownian ratchet]] popularized by [[Richard Feynman]]. Leigh's device is able to drive a chemical system out of [[Chemical equilibrium|equilibrium]], but it must be powered by an external source ([[light]] in this case) and therefore does not violate thermodynamics.&lt;ref&gt;{{cite journal | doi = 10.1038/nature05452 | volume=445 | title=A molecular information ratchet | journal=Nature | pages=523–527 | pmid=17268466 | date=February 2007 | last1 = Serreli | first1 = V | last2 = Lee | first2 = CF | last3 = Kay | first3 = ER | last4 = Leigh | first4 = DA}}&lt;/ref&gt;
+
+Previously, other researchers{{who|date=November 2012}} created a ring-shaped molecule which could be placed on an axle connecting two sites, ''A'' and ''B''. Particles from either site would bump into the ring and move it from end to end. If a large collection of these devices were placed in a system, half of the devices had the ring at site ''A'' and half at ''B'', at any given moment in time.
+
+Leigh made a minor change to the axle so that if a light is shone on the device, the center of the axle will thicken, restricting the motion of the ring. It only keeps the ring from moving, however, if it is at ''A''. Over time, therefore, the rings will be bumped from ''B'' to ''A'' and get stuck there, creating an imbalance in the system. In his experiments, Leigh was able to take a pot of "billions of these devices" from 50:50 equilibrium to a 70:30 imbalance within a few minutes.&lt;ref&gt;{{cite news |author=Katharine Sanderson |date=31 January 2007 |title=A demon of a device |publisher=[[Nature (journal)|Nature]] |volume= |doi=10.1038/news070129-10 }}&lt;/ref&gt;
+
+In 2009 [[Mark G. Raizen]] developed a laser atomic cooling technique which realizes the process Maxwell envisioned of sorting individual atoms in a gas into different containers based on their energy.&lt;ref name="Bennett87" /&gt;&lt;ref name="Raizen2009"&gt;{{cite journal
+  | last = Raizen
+  | first = Mark G. 
+  | title = Comprehensive Control of Atomic Motion
+  | journal = Science
+  | volume = 324
+  | issue = 5933
+  | pages = 1403–1406
+  | publisher = American Assoc. for the Advancement of Science
+  | location = 
+  | date = June 12, 2009
+  | url = http://www.sciencemag.org/content/324/5933/1403.full?ijkey=tNbam7G0GTa1w&amp;keytype=ref&amp;siteid=sci
+  | issn = 
+  | doi = 10.1126/science.1171506
+  | id = 
+  | accessdate = November 14, 2014|bibcode = 2009Sci...324.1403R }}&lt;/ref&gt;&lt;ref name="Raizen2011"&gt;{{cite journal
+  | last = Raizen
+  | first =  Mark G. 
+  | title = Demons, Entropy, and the Quest for Absolute Zero
+  | journal = Scientific American
+  | volume = 304
+  | issue = 3
+  | pages = 54–59
+  | publisher = Scientific American Inc.
+  | location = 
+  | date = March 2011
+  | url = http://www.scientificamerican.com/article/demons-entropy-and-the-quest/
+  | issn = 
+  | doi = 10.1038/scientificamerican0311-54
+  | id = 
+  | accessdate = November 14, 2014}}&lt;/ref&gt; The new concept is a one-way wall for atoms or molecules that allows them to move in one direction, but not go back. The operation of the one-way wall relies on an irreversible atomic and molecular process of absorption of a photon at a specific wavelength, followed by spontaneous emission to a different internal state. The irreversible process is coupled to a conservative force created by magnetic fields and/or light. Raizen and collaborators proposed to use the one-way wall in order to reduce the entropy of an ensemble of atoms. In parallel, Gonzalo Muga and Andreas Ruschhaupt independently developed a similar concept. Their "atom diode" was not proposed for cooling, but rather to regulate flow of atoms. The Raizen Group demonstrated significant cooling of atoms with the one-way wall in a series of experiments in 2008. Subsequently, the operation of a one-way wall for atoms was demonstrated by Daniel Steck and collaborators later in 2008. Their experiment was based on the 2005 scheme for the one-way wall, and was not used for cooling. The cooling method realized by the Raizen Group was called "Single-Photon Cooling," because only one photon on average is required in order to bring an atom to near-rest. This is in contrast to other laser cooling techniques which uses the momentum of the photon and requires a two-level cycling transition.
+
+In 2006 Raizen, Muga, and Ruschhaupt showed in a theoretical paper that as each atom crosses the one-way wall, it scatters one photon, and information is provided about the turning point and hence the energy of that particle. The entropy increase of the radiation field scattered from a directional laser into a random direction is exactly balanced by the entropy reduction of the atoms as they are trapped with the one-way wall.
+
+This technique is widely described as a "Maxwell's demon" because it realizes Maxwell's process of creating a temperature difference by sorting high and low energy atoms into different containers.  However scientists have pointed out that it is not a true Maxwell's demon in the sense that it does not violate the [[second law of thermodynamics]];&lt;ref name="Bennett87" /&gt;&lt;ref name="Orzel"&gt;{{cite web
+  | last =  Orzel
+  | first =  Chad
+  | title = Single-Photon Cooling: Making Maxwell’s Demon
+  | work = Uncertain Principles
+  | publisher = [http://scienceblogs.com/ ScienceBlogs] website
+  | date =  January 25, 2010
+  | url = http://scienceblogs.com/principles/2010/01/25/single-photon-cooling-making-m/
+  | format = 
+  | doi = 
+  | accessdate = November 14, 2014}}&lt;/ref&gt; it does not result in a net decrease in entropy&lt;ref name="Bennett87" /&gt;&lt;ref name="Orzel" /&gt; and cannot be used to produce useful energy.  This is because the process requires more energy from the laser beams than could be produced by the temperature difference generated.  The atoms absorb low entropy photons from the laser beam and emit them in a random direction, thus increasing the entropy of the environment.&lt;ref name="Bennett87" /&gt;&lt;ref name="Orzel" /&gt;
+
+Over the last 20 years macroscopic alternatives to Maxwell's Demon, known as [[Maxwell's Zombie]]s, have been explored by a number of experiments worldwide.&lt;ref&gt;Čápek, V. and D.P. Sheehan, Challenges to the  Second Law of Thermodynamics (Theory and Experiment); Vol.  146 in Fundamental Theories of Physics Series, (Springer,  Dordrecht, Netherlands, 2005) {{ISBN|1-4020-3015-0}}.&lt;/ref&gt;&lt;ref&gt;First International Conference on Quantum Limits to 
+the Second Law, San Diego, CA, July 2002, AIP Conference 
+Volume 643; Sheehan, D.P., ed. (American Institute of 
+Physics, Melville, NY, 2002) {{ISBN|0-7354-0098-9}}.&lt;/ref&gt;&lt;ref&gt;The Second Law of Thermodynamics: Foundations and Status, Special  Issue of Foundations of Physics, (Vol. 37.12); Proceedings of AAAS  Symposium, June 19–22, 2006, University of San Diego, CA (2007).&lt;/ref&gt;&lt;ref&gt;Second Law of Thermodynamics: Status and Challenges, Proceedings of  symposium at 92nd Annual Meeting of Pacific Division of AAAS, 14–15  June 2011, University of San Diego; AIP Conference Volume 1411; Sheehan,  D.P., ed. (American Institute of Physics, Melville, NY, 2011) {{ISBN|978-0-7354-0985-9}}.&lt;/ref&gt;
+
+== As metaphor ==
+[[Daemon (computing)|Daemons in computing]], generally processes that run on servers to respond to users, are named for Maxwell's demon.&lt;ref&gt;{{Cite web|url=http://www.takeourword.com/TOW146/page4.html|author=[[Fernando J. Corbató]]|title=Take Our Word for It|date=2002-01-23|accessdate=2006-08-20}}&lt;/ref&gt;  A machine powered by Maxwell's demon plays a role in [[Thomas Pynchon]]'s novel ''[[The Crying of Lot 49]]''.
+
+Historian [[Henry Brooks Adams]] in his manuscript ''[[The Rule of Phase Applied to History]]'' attempted to use Maxwell's demon as a historical [[metaphor]], though he misunderstood and misapplied the original principle.&lt;ref&gt;[[#Cater|Cater (1947)]], pp. 640–647; see also Daub (1970), reprinted in [[#Leff Rex 90|Leff &amp; Rex (1990)]], pp. 37–51.&lt;/ref&gt; Adams interpreted [[history]] as a process moving towards "equilibrium", but he saw [[militarism|militaristic]] nations (he felt [[Germany]] pre-eminent in this class) as tending to reverse this process, a Maxwell's demon of history. Adams made many attempts to respond to the criticism of his formulation from his scientific colleagues, but the work remained incomplete at Adams' death in 1918. It was only published posthumously.&lt;ref&gt;[[#Adams|Adams (1919)]], p. 267.&lt;/ref&gt;
+
+Sociologist [[Pierre Bourdieu]] incorporated Maxwell's demon into his work, "[[Raisons Pratiques]]" as a metaphor for the socioeconomic inequality among students, as maintained by the school system, the economy, and families.
+
+The demon is mentioned several times in ''[[The Cyberiad]]'', a series of short stories by the noted science fiction writer [[Stanisław Lem]]. In the book the demon appears both in its original form and in a modified form where it uses its knowledge of all particles in the box in order to surmise general (but unfocused and random) facts about the rest of the universe.
+
+The demon is implied in [[Larry Niven]]'s short story "[[Unfinished Story Nr 2]]", within the context of a world of magic, depending on local concentrations of 'manna', a prerequirement for magic such that magic is no longer possible after manna has been locally depleted.
+
+The titular character in the webcomic [[Alice Grove]] (by [[Jeph Jacques]]) is the physical manifestation of a Maxwell's Demon. As such, she is capable of things considered impossible—move faster than humanly possible, survive in total vacuum, and impervious to most damage except when dealt by others of her type.
+
+== See also ==
+{{div col|colwidth=18em}}
+*[[Brownian ratchet]]
+*''[[Chance and Necessity]]''
+*[[Catalysis]]
+*[[Dispersive mass transfer]]
+*[[Evaporation]]
+*[[Gibbs paradox]]
+*[[Hall effect]]
+*[[Heisenberg's Uncertainty Principle]]
+*[[Joule–Thomson effect]]
+*[[Laplace's demon]]
+*[[Laws of thermodynamics]]
+*[[Mass spectrometry]]
+*''[[Maxwell's Maniac]]''
+*[[Photoelectric effect]]
+*[[Quantum tunnelling]]
+*[[Schrödinger's cat]]
+*[[Thermionic emission]]
+*[[Vortex tube]]
+*[[Epicatalysis]]
+*[[Second Law of Thermodynamics]]
+*[[Duncan's Paradox]]
+*[[Maxwell's Zombie]]
+*[[Entropy]]
+{{div col end}}
+
+==Notes==
+{{Reflist|colwidth=30em}}
+
+==References==
+{{refbegin}}
+* {{cite book |editor=Cater, H. D. | title=Henry Adams and his Friends | publisher=Boston | year=1947 |ref=Cater}}
+* {{cite journal |author=Daub, E. E. | year=1967 | title=Atomism and Thermodynamics | journal=[[Isis (journal)|Isis]] | volume=58 | issue=3 | pages=293–303 | doi=10.1086/350264 |ref=Daub}}
+* {{cite book |editor=Leff, Harvey S. &amp; Andrew F. Rex |year=1990 |title=Maxwell's Demon: Entropy, Information, Computing | location=Bristol | publisher=Adam-Hilger |isbn=0-7503-0057-4 |ref=Leff_Rex_90}}
+* {{cite book |editor=Leff, Harvey S. &amp; Andrew F. Rex |year=2002 |title=Maxwell's Demon 2: Entropy, Classical and Quantum Information, Computing |publisher=[[CRC Press]] |isbn=0-7503-0759-5 |ref=Leff_Rex_02}}
+* {{cite book |author=Adams, H. | title=The Degradation of the Democratic Dogma | location=New York | publisher=Kessinger | year=1919 | isbn=1-4179-1598-6 |ref=Adams}}
+* {{cite book |author1=Vladislav Cápek  |author2=Daniel P. Sheehan  |lastauthoramp=yes | title=Challenges to the Second Law of Thermodynamics | location=The Netherlands | publisher=Springer | year=2005 | isbn=1-4020-3016-9 |ref=Cápek}}
+{{refend}}
+
+== External links ==
+* Bennett, C. H. (1987) "Demons, Engines and the Second Law", ''[[Scientific American]]'', November, ''pp''108-116
+* {{cite journal| author=Binder, P.-M.| year=2008| pages= 1334–1335| issue=5906 | title=Reflections on a Wall of Light| volume=322| journal=Science | doi=10.1126/science.1166681}}
+* {{cite journal|author1=Earman, J.  |author2=Norton, J.  |lastauthoramp=yes | year=1998 | title=Exorcist XIV: The Wrath of Maxwell's Demon. Part I. From Maxwell to Szilard | journal=Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics | volume=29| issue=4 | pages=435–471 | doi=10.1016/S1355-2198(98)00023-9 | url=http://www.pitt.edu/~jdnorton/papers/ExorcistXIV/Exorcist1.pdf | format=PDF}}
+* {{cite journal |author1=Earman, J.  |author2=Norton, J.  |lastauthoramp=yes | year=1999 | title=Exorcist XIV: The Wrath of Maxwell's Demon. Part II. From Szilard to Landauer and Beyond | journal=Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics | volume=30 | pages=1–40 | doi=10.1016/S1355-2198(98) | url=http://www.pitt.edu/~jdnorton/papers/ExorcistXIV/Exorcist2.pdf | format=PDF}}
+* {{cite book | author=Feynman, R. P.| title=Feynman Lectures on Computation | publisher=Addison-Wesley | year=1996 | isbn=0-14-028451-6 |pages=148–150|display-authors=etal}}
+* {{cite book | author=Jordy, W. H. | title=Henry Adams: Scientific Historian | publisher=New Haven | year=1952 | isbn=0-685-26683-4 }}
+*{{cite web |url=http://khanexercises.appspot.com/video?v=aKRDvSZ-igA |title=Maxwell's Demon |author=Khan, Salman}}
+* Maroney, O. J. E. (2009) "[http://plato.stanford.edu/entries/information-entropy/ "Information Processing and Thermodynamic Entropy]" The Stanford Encyclopedia of Philosophy (Autumn 2009 Edition)
+* {{cite book | author=Maxwell, J. C.| title=Theory of Heat| url=https://archive.org/details/theoryofheat00maxwrich| publisher= | year=1871 }}, reprinted (2001) New York: Dover, {{ISBN|0-486-41735-2}}
+* {{cite journal | author=Norton, J. | year=2005 | title=Eaters of the lotus: Landauer's principle and the return of Maxwell's demon | journal=Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics | volume=36 | issue=2 | pages=375–411 | doi=10.1016/j.shpsb.2004.12.002 | url=http://philsci-archive.pitt.edu/archive/00001729/02/Norton.pdf | format=PDF}}
+* Raizen, Mark G. (2011) "Demons, Entropy, and the Quest for Absolute Zero", ''[[Scientific American]], ''March, ''pp''54-59
+* Reaney, Patricia. [http://www.iol.co.za/index.php?set_id=1&amp;click_id=116&amp;art_id=qw1170340561317B216 "Scientists build nanomachine"], ''Reuters'', February 1, 2007
+* Rubi, J Miguel, "[http://www.sciam.com/article.cfm?id=how-nature-breaks-the-second-law&amp;sc=SA_20081020 Does Nature Break the Second Law of Thermodynamics?]"; Scientific American, October 2008 :
+* Splasho (2008) - [http://splasho.com/blog/essays/maxwell-thermodynamics-meets-the-demon/ Historical development of Maxwell's demon]
+* Weiss, Peter. [https://web.archive.org/web/20070621222301/http://www.sciencenews.org/articles/20001007/bob9.asp "Breaking the Law - Can quantum mechanics + thermodynamics = perpetual motion?"], ''Science News'', October 7, 2000
+
+[[Category:Philosophy of thermal and statistical physics]]
+[[Category:Concepts in physics]]
+[[Category:Nanotechnology]]
+[[Category:James Clerk Maxwell]]
+[[Category:Fictional demons and devils]]
+[[Category:Thought experiments in physics]]
+[[Category:Perpetual motion]]</text>
+      <sha1>b3vtsc75cbkstw2acarho00stb87j1f</sha1>
+    </revision>
+  </page>
+</mediawiki>

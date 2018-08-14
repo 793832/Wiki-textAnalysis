@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <page>
+    <title>Gene knockout</title>
+    <ns>0</ns>
+    <id>89242</id>
+    <revision>
+      <id>783340762</id>
+      <parentid>774644772</parentid>
+      <timestamp>2017-06-01T17:06:15Z</timestamp>
+      <contributor>
+        <ip>132.177.238.77</ip>
+      </contributor>
+      <comment>/* Use */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">A '''gene knockout''' (abbreviation: '''KO''') is a [[genetics|genetic]] technique in which one of an [[organism]]'s [[gene]]s is made inoperative ("knocked out" of the organism). Also known as '''knockout organisms''' or simply '''knockouts''', they are used in learning about a gene that has been [[sequencing|sequenced]], but which has an unknown or incompletely known function. Researchers draw inferences from the difference between the knockout organism and normal individuals.
+
+The term also refers to the process of creating such an organism, as in "knocking out" a gene. The technique is essentially the opposite of a [[gene knockin]]. Knocking out two genes simultaneously in an organism is known as a '''double knockout''' ('''DKO'''). Similarly the terms '''triple knockout''' ('''TKO''') and '''quadruple knockouts''' ('''QKO''') are used to describe three or four knocked out genes, respectively.
+
+==Method==
+[[File:Knockout Mice5006-300.jpg|thumb|A laboratory mouse in which a gene affecting hair growth has been knocked out (left), is shown next to a normal lab mouse.]]
+Knockout is accomplished through a combination of techniques, beginning in the test tube with a [[plasmid]], a [[bacterial artificial chromosome]] or other [[DNA construct]], and proceeding to [[cell culture]]. Individual [[cell (biology)|cells]] are genetically [[Transfection|transfected]] with the DNA construct. Often the goal is to create a [[Genetically modified organism#Transgenic animals|transgenic animal]] that has the altered gene. If so, [[embryonic stem cell]]s are genetically transformed and inserted into early [[embryo]]s. Resulting animals with the genetic change in their [[germline]] cells can then often pass the gene knockout to future generations.
+
+To create [[knockout moss]], [[transfection]] of [[protoplast]]s is the preferred method. Such transformed ''[[Physcomitrella patens|Physcomitrella]]''-protoplasts directly [[Regeneration (biology)|regenerate]] into fertile moss plants. Eight weeks after transfection, the plants can be screened for [[gene targeting]] via [[PCR]].&lt;ref&gt;[[Ralf Reski]] (1998): Physcomitrella and Arabidopsis: the David and Goliath of reverse genetics. Trends Plant in Science 3, 209-210&lt;/ref&gt;
+
+[[Image:Physcomitrella knockout mutants.JPG|thumb|''Wild-type [[Physcomitrella patens|Physcomitrella]] and [[knockout moss]]es'': Deviating [[phenotype]]s induced in gene-disruption library transformants. Physcomitrella wild-type and transformed plants were grown on minimal Knop medium to induce differentiation and development of [[gametophore]]s. For each plant, an overview (upper row; scale bar corresponds to 1 mm) and a close-up (bottom row; scale bar equals 0.5 mm) are shown. A: Haploid wild-type moss plant completely covered with leafy gametophores and close-up of wild-type leaf. B–D: Different mutants.&lt;ref&gt;Egener et al. BMC Plant Biology 2002 2:6  {{DOI|10.1186/1471-2229-2-6}}&lt;/ref&gt;]]
+
+The construct is engineered to [[Genetic recombination|recombine]] with the target gene, which is accomplished by incorporating [[DNA sequence|sequences]] from the gene itself into the construct. Recombination then occurs in the region of that sequence within the gene, resulting in the insertion of a foreign sequence to disrupt the gene. With its sequence interrupted, the altered gene in most cases will be [[translation (genetics)|translated]] into a nonfunctional [[protein]], if it is translated at all.
+[[File:Knockoutmouse80-72.jpg|thumb|left|A [[knockout mouse]] (left) that is a model of obesity, compared with a normal mouse.]]
+A [[conditional gene knockout|conditional knockout]] allows gene deletion in a tissue or time specific manner. This is done by introducing short sequences called loxP sites around the gene. These sequences will be introduced into the germ-line via the same mechanism as a knock-out. This germ-line can then be crossed to another germline containing [[Cre recombinase|Cre-recombinase]] which is a viral enzyme that can recognize these sequences, recombines them and deletes the gene flanked by these sites.
+
+Because the desired type of DNA [[Homologous recombination|recombination]] is a rare event in the case of most cells and most constructs, the foreign sequence chosen for insertion usually includes a [[reporter gene|reporter]]. This enables easy selection of cells or individuals in which knockout was successful. Sometimes the DNA construct inserts into a chromosome without the desired [[homologous recombination]] with the target gene. To eliminate such cells, the DNA construct often contains a second region of DNA that allows such cells to be identified and discarded.
+
+In [[diploid]] organisms, which contain two [[allele]]s for most genes, and may as well contain several related genes that collaborate in the same role, additional rounds of transformation and selection are performed until every targeted gene is knocked out.  [[Selective breeding]] may be required to produce [[homozygous]] knockout animals.
+
+[[Gene knockin]] is similar to gene knockout, but it replaces a gene with another instead of deleting it.
+
+==Use==
+Knockouts are primarily used to understand the role of a specific [[gene]] or [[DNA]] region by comparing the knockout [[organism]] to a [[wildtype]] with a similar [[Heredity|genetic]] background.
+
+Knockout [[organisms]] are also used as [[Screening (medicine)|screening]] tools in the development of [[drugs]], to target specific [[biological processes]] or [[Deficiency (medicine)|deficiencies]] by using a specific knockout, or to understand the [[mechanism of action]] of a [[drug]] by using a [[library]] of knockout [[organisms]] spanning the entire [[genome]], such as in ''[[Saccharomyces cerevisiae]]''.&lt;ref&gt;{{cite web|url=http://www-sequence.stanford.edu/group/yeast_deletion_project/deletions3.html|title=YeastDeletionWebPages|publisher=|accessdate=21 February 2017}}&lt;/ref&gt;
+
+==See also==
+*[[Gene knockdown]]
+*[[Conditional gene knockout]]
+*[[Germline]]
+*[[Gene silencing]]
+*[[Extinction#Planned extinction|Planned extinction]]
+*[[Recombineering]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=iga.figgrp.2286 Diagram of targeted gene replacement]
+*[https://web.archive.org/web/20111026040816/http://www.bioscience.org/knockout/knochome.htm Frontiers in Bioscience Gene Knockout Database (available on archive only)]
+*[http://www.knockoutmouse.org International Knockout Mouse Consortium]
+*[https://www.komp.org KOMP Repository]
+
+{{genetic engineering}}
+
+{{DEFAULTSORT:Gene Knockout}}
+[[Category:Genetically modified organisms]]
+[[Category:Molecular biology techniques]]
+[[Category:Genetics]]
+[[Category:Molecular genetics]]
+[[Category:Laboratory techniques]]
+[[Category:Gene expression]]
+[[Category:Biotechnology]]</text>
+      <sha1>oqt0rfmhm6vxmjm59whccrfbvppyvn3</sha1>
+    </revision>
+  </page>
+</mediawiki>

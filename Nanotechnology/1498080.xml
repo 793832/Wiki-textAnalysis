@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <page>
+    <title>Picotechnology</title>
+    <ns>0</ns>
+    <id>1498080</id>
+    <revision>
+      <id>727985364</id>
+      <parentid>678871466</parentid>
+      <timestamp>2016-07-02T11:05:19Z</timestamp>
+      <contributor>
+        <username>BarunH</username>
+        <id>20953199</id>
+      </contributor>
+      <comment>portmanteau description</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{For|the company|Pico Technology}}
+The term '''picotechnology''' is a [[portmanteau]] of [[picometer]] and [[technology]], intended to parallel the term [[nanotechnology]]. 
+
+==Overview==
+It is a hypothetical future level of technological manipulation of matter, on the scale of trillionths of a meter or picoscale (10&lt;sup&gt;&amp;minus;12&lt;/sup&gt;). This is three orders of magnitude smaller than a [[nanometer]] (and thus most [[nanotechnology]]) and two orders of magnitude smaller than most [[chemistry]] transformations and measurements. Picotechnology would involve the manipulation of matter at the [[atom]]ic level. A further hypothetical development, [[femtotechnology]], would involve working with matter at the subatomic level.
+
+==Applications==
+Picoscience is a term used by some [[future studies|futurists]] to refer to structuring of matter on a true picometer scale. Picotechnology was described as involving the alteration of the structure and chemical properties of individual atoms, typically through the manipulation of energy states of electrons within an atom to produce metastable (or otherwise stabilized) states with unusual properties, producing some form of [[exotic atom]].&lt;ref&gt;{{cite journal |first1=Rakesh |last1=Sharma1 |first2=Avdhesh |last2=Sharma |first3=Ching J. |last3=Chen |date=14 November 2011 |url=http://precedings.nature.com/documents/4525/version/1 |title=Emerging Trends of Nanotechnology towards Picotechnology: Energy and Biomolecules |work=[[Nature Precedings]] |doi=10.1038/npre.2010.4525.1 |accessdate=4 November 2012}}&lt;/ref&gt; Analogous transformations known to exist in the real world are [[redox chemistry]], which can manipulate the [[oxidation states]] of atoms; excitation of electrons to metastable [[excited state]]s as with [[laser]]s and some forms of [[saturable absorption]]; and the manipulation of the states of excited electrons in [[Rydberg atom]]s to encode information. However, none of these processes produces the types of exotic atoms described by futurists.
+
+Alternatively, picotechnology is used by some researchers in [[nanotechnology]] to refer to the fabrication of structures where atoms and devices are positioned with sub-nanometer accuracy. This is important where interaction with a single atom or [[molecule]] is desired, because of the strength of the interaction between two atoms which are very close. For example, the force between an atom in an [[atomic force microscope]] probe tip and an atom in a sample being studied varies [[exponential function|exponentially]] with separation distance, and is sensitive to changes in position on the order of 50 to 100 picometers (due to [[Pauli exclusion]] at short ranges and [[van der Waals force]]s at long ranges).
+
+==See also==
+* [[Femtotechnology]]
+* [[IBM (atoms)]]
+* [[Technological singularity]]
+* [[There's Plenty of Room at the Bottom]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.cemes.fr/r2_rech/r2_sr2_gns/th1_3_pico.htm Picotechnology] at the [http://www.cemes.fr/r7_english/r2_rech/r2_sr2_gns/ Nanosciences group] at [http://www.cemes.fr/r7_english/index.htm CEMES], [[France]].
+* Weinacht, T.C., Ahn, J., and Bucksbaum, P.H. (22 June 1998) [http://prola.aps.org/abstract/PRL/v80/i25/p5508_1 Measurement of the Amplitude and Phase of a Sculpted Rydberg Wave Packet]. ''Physical Review Letters'' pp.&amp;nbsp;5508–5511 v. 80 no. 25
+
+{{Levels of technological manipulation of matter}}
+{{Emerging technologies}}
+
+[[Category:Emerging technologies]]
+[[Category:Nanotechnology]]</text>
+      <sha1>nhb59sghq6r8g64sq9fd78bn35dki4l</sha1>
+    </revision>
+  </page>
+</mediawiki>

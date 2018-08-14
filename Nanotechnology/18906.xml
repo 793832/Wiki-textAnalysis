@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <page>
+    <title>Microfluidics</title>
+    <ns>0</ns>
+    <id>18906</id>
+    <revision>
+      <id>794419847</id>
+      <parentid>794419728</parentid>
+      <timestamp>2017-08-07T22:36:59Z</timestamp>
+      <contributor>
+        <username>Me, Myself, and I are Here</username>
+        <id>17619453</id>
+      </contributor>
+      <minor></minor>
+      <comment>/* See also */ cap</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Microfluidics''' deals with the behaviour, precise control and manipulation of [[fluids]] that are geometrically constrained to a small, typically sub-millimeter, scale. It is a multidisciplinary field at the intersection of [[engineering]], [[physics]], [[chemistry]], [[biochemistry]], [[nanotechnology]], and [[biotechnology]], with practical applications in the design of systems in which low volumes of fluids are processed to achieve [[multiplexing]], automation, and [[high-throughput screening]]. Microfluidics emerged in the beginning of the 1980s and is used in the development of [[inkjet]] printheads, [[DNA chip]]s, [[lab-on-a-chip]] technology, micro-propulsion, and micro-thermal technologies.
+
+Typically, '''micro''' means one of the following features:
+* small volumes (μL, nL, pL, fL)
+* small size
+* low energy consumption
+* effects of the microdomain
+
+Typically fluids are moved, mixed, separated or otherwise processed. Numerous applications employ passive fluid control techniques like [[capillary force]]s. In some applications, external actuation means are additionally used for a directed transport of the media. Examples are rotary drives applying centrifugal forces for the fluid transport on the passive chips. '''Active microfluidics''' refers to the defined manipulation of the working fluid by active (micro) components such as [[micropump]]s or microvalves. Micropumps supply fluids in a continuous manner or are used for dosing. Microvalves determine the flow direction or the mode of movement of pumped liquids. Often processes which are normally carried out in a lab are miniaturised on a single chip in order to enhance efficiency and mobility as well as reducing sample and reagent volumes.
+
+==Microscale behaviour of fluids==
+[[File:Microfluidics.jpg|250px|thumb|right|Silicone rubber and glass microfluidic devices. Top: a photograph of the devices. Bottom: [[Phase contrast]] [[micrograph]]s of a serpentine channel ~15 [[μm]] wide.]]
+The behaviour of fluids at the microscale can differ from "macrofluidic" behaviour in that factors such as [[surface tension]], energy dissipation, and fluidic resistance start to dominate the system. Microfluidics studies how these behaviours change, and how they can be worked around, or exploited for new uses.&lt;ref&gt;S.C.Terry, J.H.Jerman and J.B.Angell:A Gas Chromatographic Air Analyzer Fabricated on a Silicon Wafer, IEEE Trans.Electron Devices, ED-26,12(1979)1880-1886.&lt;/ref&gt;&lt;ref name=Kirby&gt;{{cite book | author=Kirby, B.J. | title=Micro- and Nanoscale Fluid Mechanics: Transport in Microfluidic Devices | url=http://www.kirbyresearch.com/textbook | year=2010 | publisher=[[Cambridge University Press]]}}&lt;/ref&gt;&lt;ref name=Karniadakis&gt;{{cite book | author=Karniadakis, G.M., Beskok, A., Aluru, N. | title=Microflows and Nanoflows | year=2005 | publisher =[[Springer Verlag]] }}&lt;/ref&gt;&lt;ref name=Bruus&gt;{{cite book | author=Bruus, H. | title=Theoretical Microfluidics | year=2007 | publisher =[[Oxford University Press]] }}&lt;/ref&gt;
+
+At small scales (channel size of around 100 [[nanometers]] to 500 [[micrometers]]) some interesting and sometimes unintuitive properties appear. In particular, the [[Reynolds number]] (which compares the effect of the momentum of a fluid to the effect of [[viscosity]]) can become very low. A key consequence is co-flowing fluids do not necessarily mix in the traditional sense, as flow becomes [[laminar flow|laminar]] rather than [[turbulent flow|turbulent]]; molecular transport between them must often be through [[diffusion]].&lt;ref name=Tabeling&gt;{{cite book | author=Tabeling, P. | title=Introduction to Microfluidics | year=2005 | publisher =[[Oxford University Press]] }}&lt;/ref&gt;
+
+High specificity of chemical and physical properties (concentration, pH, temperature, shear force, etc.) can also be ensured resulting in more uniform reaction conditions and higher grade products in single and multi-step reactions.&lt;ref name="microreactors"&gt;{{cite journal | last1 = Chokkalingam | first1 = V. | last2 = Weidenhof | first2 = B. | last3 = Kraemer | first3 = M. | last4 = Maier | first4 = W. F. | last5 = Herminghaus | first5 = S. | last6 = Seemann | first6 = R. | year = 2010 | title = Optimized droplet-based microfluidics scheme for sol–gel reactions | url = http://www.rsc.org/Publishing/Journals/LC/article.asp?doi=b926976b | journal = Lab Chip | volume =  10| issue = | page =  1700| doi = 10.1039/b926976b }}&lt;/ref&gt;&lt;ref name="microfluidic reactions"&gt;{{cite journal | last1 = Shestopalov | first1 = J | last2 = Tice | first2 = J. D. | last3 = Ismagilov | first3 = R. F. | year = 2004 | title = Multi-step synthesis of nanoparticles performed on millisecond time scale in a microfluidic droplet-based system | url = http://www.rsc.org/publishing/journals/LC/article.asp?doi=b403378g | journal = Lab Chip | volume = 4 | issue = | pages = 316–321 | doi = 10.1039/b403378g }}&lt;/ref&gt;
+
+==Key application areas==
+
+Microfluidic structures include micropneumatic systems, i.e. microsystems for the handling of off-chip fluids (liquid pumps, gas valves, etc.), and microfluidic structures for the on-chip handling of nanoliter (nl) and picoliter (pl) volumes.&lt;ref name=Nguyen&gt;{{cite book | author=Nguyen, N.T., Wereley, S. | title=Fundamentals and Applications of Microfluidics | year=2006 | publisher =[[Artech House]] }}&lt;/ref&gt;  To date, the most successful commercial application of microfluidics is the [[Inkjet printer|inkjet printhead]].&lt;ref name="microfluidics1"&gt;{{cite journal | last1 = Andrew | year = 2006 | title = Control and detection of chemical reactions in microfluidic systems | url = http://www.nature.com/nature/journal/v442/n7101/full/nature05062.html | journal = Nature | volume = 442 | issue = 7101| pages = 394–402 | doi = 10.1038/nature05062 |bibcode = 2006Natur.442..394D }}&lt;/ref&gt; &lt;!-- and other industrially relevant materials (e.g., polymer particles).&lt;ref name="modular microfluidics"&gt;{{cite journal | last1 = Li | first1 = Wei | last2 = Greener | first2 = Jesse | last3 = Voicu | first3 = Dan | last4 = Kumacheva | first4 = Eugenia | year = 2009 | title = Multiple modular microfluidic (M3) reactors for the synthesis of polymer particles | url = http://www.rsc.org/Publishing/Journals/LC/article.asp?doi=b906626h | journal = Lab Chip | volume = 9 | issue = | pages = 2715–2721 | doi = 10.1039/b906626h }}&lt;/ref&gt; --&gt;Additionally, advances in microfluidic manufacturing allow the devices to be produced in low-cost plastics&lt;ref name="researchgate.net"&gt;Ryan S. Pawell, David W. Inglis, Tracie J. Barber, and Robert A. Taylor, ''[http://www.researchgate.net/publication/256487052_Manufacturing_and_wetting_low-cost_microfluidic_cell_separation_devices Manufacturing and wetting low-cost microfluidic cell separation devices]'', Biomicrofluidics 7, 056501 (2013); {{DOI|10.1063/1.4821315}}&lt;/ref&gt; and part quality may be verified automatically.&lt;ref&gt;[http://link.springer.com/article/10.1007/s10404-014-1464-1?sa_campaign=email/event/articleAuthor/onlineFirst Automating microfluidic part verification - Online First - Springer&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+[[File:MF QD.png|thumb|480px|left|Microfluidic synthesis of functionalized quantum dots for bioimaging.&lt;ref name="microfluidics"&gt;{{cite journal | last1 = Hu | first1 = S. | last2 = Zeng | first2 = S. | last3 = Zhang | first3 = B. | last4 = Yang | first4 = C. | last5 = Song | first5 = P. | last6 = Tng | first6 = D.J.H. | last7 = Lin | first7 = G. | last8 = Wang | first8 = Y. | last9 = Anderson | first9 = T. | last10 = Coquet | first10 = P. | last11 = Liu | first11 = L. | last12 = Zhang | first12 = X. | last13 = Yong | first13 = K.-T. | year = | title = Preparation of biofunctionalized quantum dots using microfluidic chips for bioimaging | url = http://dr.ntu.edu.sg/bitstream/handle/10220/19982/c4an00773e.pdf?sequence=1 | journal = Analyst | volume = 2014 | issue = | pages = 1–21 | doi = 10.1039/c4an00773e }}&lt;/ref&gt;]]
+
+Advances in microfluidics technology are revolutionizing [[molecular biology]] procedures for enzymatic analysis (e.g.,  [[glucose]] and [[lactic acid|lactate]] [[assay]]s), [[DNA]] analysis (e.g., [[polymerase chain reaction]] and high-throughput [[sequencing]]), and [[proteomics]]. The basic idea of microfluidic biochips is to integrate [[assay]] operations such as detection, as well as sample pre-treatment and sample preparation on one chip.&lt;ref name= Herold1&gt;{{cite book |author= Herold, KE; Rasooly, A (editor)| year=2009 |title=Lab-on-a-Chip Technology: Fabrication and Microfluidics | publisher=Caister Academic Press | isbn= 978-1-904455-46-2}}&lt;/ref&gt;&lt;ref name= Herold2&gt;{{cite book |author= Herold, KE; Rasooly, A (editor)| year=2009 |title=Lab-on-a-Chip Technology: Biomolecular Separation and Analysis | publisher=Caister Academic Press | isbn= 978-1-904455-47-9}}&lt;/ref&gt;
+
+An emerging application area for biochips is [[clinical pathology]], especially the immediate point-of-care diagnosis of [[diseases]]. In addition, microfluidics-based devices, capable of continuous sampling and real-time testing of air/water samples for biochemical [[toxins]] and other dangerous [[pathogens]], can serve as an always-on [[smoke alarm|"bio-smoke alarm"]] for early warning.
+
+Microfluidic technology has led to the creation of powerful tools for biologists to control the complete cellular environment, leading to new questions and discoveries. Many diverse advantages of this technology for microbiology are listed below:
+* General single cell studies including growth &lt;ref name="pmid20537537"/&gt;&lt;ref name="pubs.rsc.org"/&gt;
+* Cellular aging: microfluidic devices such as the "mother machine" allow tracking of thousands of individual cells for many generations until they die.&lt;ref name="pmid20537537"&gt;{{Cite journal | pmid = 20537537 | year = 2010 | author1 = Wang| first1 = P | title = Robust growth of Escherichia coli | journal = Current Biology| volume = 20| issue = 12| pages = 1099–1103 | last2 = Robert| first2 = L| last3 = Dang| first3 = WL| last4 = Taddei| first4 = F| last5 = Wright| first5 = A| last6 = Jun| first6 = S | doi = 10.1016/j.cub.2010.04.045 | pmc =2902570 }}&lt;/ref&gt;
+* Microenvironmental control: ranging from mechanical environment &lt;ref&gt;{{cite journal |author1=Amir Manbachi |author2=Shamit Shrivastava |author3=Margherita Cioffi |author4=Bong Geun Chung |author5=Matteo Moretti |author6=Utkan Demirci |author7=Marjo Yliperttula |author8=Ali Khademhosseini |title=Microcirculation within grooved substrates regulates cell positioning and cell docking inside microfluidic channels  |journal= Lab Chip |volume=8 |issue= 5|pages= 747–754 |year=2008 |pmid=18432345 |doi= 10.1039/B718212K |url=http://pubs.rsc.org/en/Content/ArticleLanding/2008/LC/b718212k |pmc=2668874}}&lt;/ref&gt; to chemical environment &lt;ref&gt;{{cite journal |author= Marjo Yliperttulaa, Bong Geun Chunga, Akshay Navaladia, Amir Manbachi, Arto Urtt|title=High-throughput screening of cell responses to biomaterials |journal= European Journal of Pharmaceutical Sciences |volume=35 |issue=3 |pages= 151–160  |date=October 2008 |pmid=18586092 |doi= 10.1016/j.ejps.2008.04.012 |url=http://www.sciencedirect.com/science/article/pii/S0928098708002558}}&lt;/ref&gt;
+* Precise spatiotemporal concentration gradients by incorporating multiple chemical inputs to a single device &lt;ref&gt;{{cite journal |vauthors=Chung BG, Manbachi A, Saadi W, Lin F, Jeon NL, Khademhosseini A |title=A gradient-generating microfluidic device for cell biology. |journal= J Vis Exp. |volume=7 |issue= 7|page= 271 |year=2007 |pmid=18989442  |doi= 10.3791/271|pmc=2565846}}&lt;/ref&gt;
+* Force measurements of adherent cells or confined chromosomes: objects trapped in a microfluidic device can be directly manipulated using [[optical tweezers]] or other force-generating methods &lt;ref name="pmid22984156"&gt;{{Cite journal | pmid = 22984156 | year = 2012 | author1 = Pelletier| first1 = J | title = Physical manipulation of the Escherichia coli chromosome reveals its soft nature | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 109| issue = 40| pages = E2649-E2656 | last2 = Halvorsen| first2 = K| last3 = Ha| first3 = BY| last4 = Paparcone| first4 = R| last5 = Sandler| first5 = S| last6 = Woldringh| first6 = CL| last7 = Wong| first7 = WP| last8 = Jun| first8 = S | doi = 10.1073/pnas.1208689109 | pmc =3479577 }}&lt;/ref&gt;
+* Confining cells and exerting controlled forces by coupling with external force-generation methods such as [[Stokes flow]], [[optical tweezer]], or controlled deformation of the PDMS device &lt;ref name="pmid22984156" /&gt;&lt;ref name="pmid24711421"&gt;{{Cite journal | pmid = 24711421 | year = 2014 | author1 = Amir| first1 = A | title = Bending forces plastically deform growing bacterial cell walls | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 111| issue = 16| pages = 5778–5783 | last2 = Babaeipour| first2 = F| last3 = McIntosh| first3 = D| last4 = Nelson| first4 = D| last5 = Jun| first5 = S | doi = 10.1073/pnas.1317497111 | pmc =4000856 }}&lt;/ref&gt;&lt;ref name="jw"&gt;Choi, J.W., Rosset, S., Niklaus, M., Adleman, J.R., Shea, H., Psaltis, D. "3-dimensional electrode patterning within a microfluidic channel using a metal ion implantation", Lab on a Chip 10, 738-788, 2010. {{DOI|10.1039/B917719A}}&lt;/ref&gt;&lt;ref&gt;[http://www.sciencedirect.com/science/article/B82X8-4Y34G8D-1/2/ea1d82f514b29565b6802589be564c8c "Nano today 2010"]&lt;/ref&gt;
+* Fast and precise temperature control &lt;ref&gt;[http://pubs.rsc.org/en/content/articlelanding/2011/lc/c0lc00222d "Lab on a Chip 2011"]&lt;/ref&gt;&lt;ref&gt;[http://www.cherrybiotech.com/ "CherryTemp temperature control system on chip"]&lt;/ref&gt;
+* Electric field integration &lt;ref name="jw" /&gt;
+* Plant on a chip and plant tissue culture &lt;ref&gt;{{cite journal |author1=AK Yetisen |author2=L Jiang |author3=J R Cooper |author4=Y Qin |author5=R Palanivelu |author6=Y Zohar |title=A microsystem-based assay for studying pollen tube guidance in plant reproduction. |journal= J. Micromech. Microeng. |volume=25 |issue= |pages= |date=May 2011 |pmid=  |doi= |url=http://iopscience.iop.org/0960-1317/21/5/054018}}&lt;/ref&gt;
+* Antibiotic resistance: microfluidic devices can be used as heterogeneous environments for microorganisms. In a heterogeneous environment, it is easier for a microorganism to evolve. This can be useful for testing the acceleration of evolution of a microorganism / for testing the development of antibiotic resistance.
+
+Some of these areas are further elaborated in the sections below.
+
+===Continuous-flow microfluidics===
+
+These technologies are based on the manipulation of continuous [[steady flow|liquid flow]] through microfabricated channels. Actuation of [[steady flow|liquid flow]] is implemented either by external [[pressure]] sources, external mechanical [[pump]]s, integrated mechanical [[micropump]]s, or by combinations of capillary forces and [[electrokinetic]] mechanisms.&lt;ref name=Chang&gt;{{cite book | author=Chang, H.C., Yeo, Leslie | title=Electrokinetically Driven Microfluidics and Nanofluidics | year=2009 | publisher =[[Cambridge University Press]] }}&lt;/ref&gt;&lt;ref&gt;[http://www.cytonix.com/fluid%20transistor.html fluid transistor&lt;!-- Bot generated title --&gt;] {{webarchive |url=https://web.archive.org/web/20110708215908/http://www.cytonix.com/fluid%20transistor.html |date=July 8, 2011 }}&lt;/ref&gt;  Continuous-flow microfluidic operation is the mainstream approach because it is easy to implement and less sensitive to protein fouling problems. Continuous-flow devices are adequate for many well-defined and simple biochemical applications, and for certain tasks such as chemical separation, but they are less suitable for tasks requiring a high degree of flexibility or fluid manipulations. These closed-channel systems are inherently difficult to integrate and scale because the parameters that govern flow field vary along the flow path making the fluid flow at any one location dependent on the properties of the entire system. Permanently etched microstructures also lead to limited reconfigurability and poor fault tolerance capability.
+
+Process monitoring capabilities in continuous-flow systems can be achieved with highly sensitive microfluidic flow sensors based on [[Microelectromechanical systems|MEMS]] technology which offers resolutions down to the nanoliter range.
+
+===Droplet-based microfluidics===
+{{Main article|Droplet-based microfluidics}}
+Droplet-based microfluidics is a subcategory of microfluidics in contrast with continuous microfluidics; droplet-based microfluidics manipulates discrete volumes of fluids in immiscible phases with low Reynolds number and laminar flow regimes. Interest in droplet-based microfluidics systems has been growing substantially in past decades. Microdroplets allow for handling miniature volumes (μl to fl) of fluids conveniently, provide better mixing, encapsulation, sorting, and sensing, and suit high throughput experiments.&lt;ref name="pubs.rsc.org"&gt;Venkat Chokkalingam, Jurjen Tel, Florian Wimmers, Xin Liu, Sergey Semenov, Julian Thiele, Carl G. Figdor, Wilhelm T.S. Huck, Probing cellular heterogeneity in cytokine-secreting immune cells using droplet-based microfluidics, Lab on a Chip, 13, 4740-4744, 2013, DOI: 10.1039/C3LC50945A, http://pubs.rsc.org/en/content/articlelanding/2013/lc/c3lc50945a#!divAbstract&lt;/ref&gt; Exploiting the benefits of droplet-based microfluidics efficiently requires a deep understanding droplet generation &lt;ref name="droplet microfluidics" /&gt; to perform various logical operations&lt;ref name=":0"&gt;{{cite journal|year=2008|title=Droplet microfluidics|journal=Lab on a Chip|publisher=Royal Society of Chemistry|volume=8|pages=198–220|doi=10.1039/B715524G|author=Teh, Shia-Yen and Lin, Robert and Hung, Lung-Hsin and Lee, Abraham P|number=2}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last=Prakash|first=Manu|last2=Gershenfeld|first2=Neil|date=2007-02-09|title=Microfluidic Bubble Logic|url=http://science.sciencemag.org/content/315/5813/832|journal=Science|language=en|volume=315|issue=5813|pages=832–835|doi=10.1126/science.1136907|issn=0036-8075|pmid=17289994}}&lt;/ref&gt; such as droplet motion, droplet sorting, droplet merging, and droplet breakup.&lt;ref&gt;{{cite journal|last=Samie|first=Milad|author2=Salari, Shafii|title=Breakup of microdroplets in asymmetric T junctions|journal=Physical Review E|date=May 2013|volume=87|issue=05|doi=10.1103/PhysRevE.87.053003|url=http://link.aps.org/doi/10.1103/PhysRevE.87.053003|bibcode = 2013PhRvE..87e3003S }}&lt;/ref&gt;
+
+===Digital microfluidics===
+
+Alternatives to the above closed-channel continuous-flow systems include novel open structures, where discrete, independently controllable droplets
+are manipulated on a substrate using [[electrowetting]]. Following the analogy of digital microelectronics, this approach is referred to as [[digital microfluidics]]. Le Pesant et al. pioneered the use of electrocapillary forces to move droplets on a digital track.&lt;ref&gt;Le Pesant et al., Electrodes for a device operating by electrically controlled fluid displacement, U.S. Pat. No. 4,569,575, Feb. 11, 1986.&lt;/ref&gt; The "fluid transistor" pioneered by [[Cytonix]]&lt;ref&gt;[http://www.nsf.gov/awardsearch/piSearch.do;jsessionid=D05E82394F781CBA17DB0C5AC8E3C0B8?SearchType=piSearch&amp;page=1&amp;QueryText=&amp;PIFirstName=james&amp;PILastName=brown&amp;PIInstitution=cytonix&amp;PIState=MD&amp;PIZip=&amp;PICountry=US&amp;RestrictExpired=on&amp;Search=Search#results NSF Award Search: Advanced Search Results&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; also played a role. The technology was subsequently commercialised by Duke University. By using discrete unit-volume droplets,&lt;ref name="droplet microfluidics"&gt;{{cite journal | last1 = Chokkalingam | first1 = V. | last2 = Herminghaus | first2 = S. | last3 = Seemann | first3 = R. | year = 2008 | title = Self-synchronizing Pairwise Production of Monodisperse Droplets by Microfluidic Step Emulsification | url = http://apl.aip.org/applab/v93/i25/p254101_s1 | journal = Applied Physics Letters | volume = 93 | issue = | page = 254101 | doi=10.1063/1.3050461}}&lt;/ref&gt;  a microfluidic function can be reduced to a set of repeated basic operations, i.e., moving one unit of fluid over one unit of distance. This "digitisation" method facilitates the use of a hierarchical and cell-based approach for microfluidic biochip design. Therefore, digital microfluidics offers a flexible and scalable system architecture as well as high [[fault-tolerance]] capability. Moreover, because each droplet can be controlled independently, these systems also have dynamic reconfigurability, whereby groups of unit cells in a microfluidic array can be reconfigured to change their functionality during the concurrent execution of a set of bioassays. Although droplets are manipulated in confined microfluidic channels, since the control on droplets is not independent, it should not be confused as "digital microfluidics". One common actuation method for digital microfluidics is [[electrowetting]]-on-dielectric ([[EWOD]]). Many lab-on-a-chip applications have been demonstrated within the digital microfluidics paradigm using electrowetting. However, recently other techniques for droplet manipulation have also been demonstrated using [[surface acoustic wave]]s, [[optoelectrowetting]], mechanical actuation,&lt;ref name="microfluidics piezo"&gt;J. Shemesh, A. Bransky, M. Khoury, S. Levenberg,"[http://www.springerlink.com/content/e845tl2176r57117/ Advanced microfluidic droplet manipulation based on piezoelectric actuation]" Biomedical Microdevices {{doi|10.1007/s10544-010-9445-y}}, 2010.  {{Dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt;  etc.
+
+===DNA chips (microarrays)===
+
+Early biochips were based on the idea of a [[DNA microarray]], e.g., the GeneChip DNAarray from [[Affymetrix]], which is a piece of glass, plastic or silicon substrate, on which pieces of DNA (probes) are affixed in a microscopic array. Similar to a [[DNA microarray]], a [[protein array]] is a miniature array where a multitude of different capture agents, most frequently monoclonal [[antibodies]], are deposited on a chip surface; they are used to determine the presence and/or amount of [[protein]]s in biological samples, e.g., [[blood]]. A drawback of [[DNA]] and [[protein array]]s is that they are neither reconfigurable nor [[scalable]] after manufacture. [[Digital microfluidics]] has been described as a means for carrying out [[Digital PCR]].
+
+===Molecular biology===
+In addition to microarrays, biochips have been designed for two-dimensional [[electrophoresis]],&lt;ref name= Fan&gt;{{cite book |author= Fan|year=2009|chapter=Two-Dimensional Electrophoresis in a Chip|title=Lab-on-a-Chip Technology: Biomolecular Separation and Analysis|publisher=Caister Academic Press|isbn= 978-1-904455-47-9|display-authors=etal}}&lt;/ref&gt; [[transcriptome]] analysis,&lt;ref name= BontouxN&gt;{{cite book |author= Bontoux|year=2009|chapter=Elaborating Lab-on-a-Chips for Single-cell Transcriptome Analysis|title=Lab-on-a-Chip Technology: Biomolecular Separation and Analysis|publisher=Caister Academic Press|isbn= 978-1-904455-47-9|display-authors=etal}}&lt;/ref&gt; and [[PCR]] amplification.&lt;ref name= Cadync&gt;{{cite book |author= Cady, NC|year=2009|chapter=Microchip-based PCR Amplification Systems|title=Lab-on-a-Chip Technology: Biomolecular Separation and Analysis|publisher=Caister Academic Press|isbn= 978-1-904455-47-9}}&lt;/ref&gt; Other applications include various electrophoresis and [[liquid chromatography]] applications for proteins and [[DNA]], cell separation, in particular, blood cell separation, protein analysis, cell manipulation and analysis including cell viability analysis &lt;ref name="pubs.rsc.org"/&gt; and [[microorganism]] capturing.&lt;ref name="Herold2"/&gt;
+
+===Evolutionary biology===
+
+By combining microfluidics with [[landscape ecology]] and [[nanofluidics]], a nano/micro fabricated fluidic landscape can be constructed by building local patches of [[bacterial]] [[habitat]] and connecting them by dispersal corridors. The resulting landscapes can be used as physical implementations of an [[adaptive landscape]],&lt;ref&gt;{{cite journal|author1=Keymer J.E. |author2=P. Galajda |author3=C. Muldoon R. |author4=R. Austin  |last-author-amp=yes |date=November 2006 |title=Bacterial metapopulations in nanofabricated landscapes|journal=PNAS |volume=103 |issue=46 |pages= 17290–295 |pmc= 1635019|doi=10.1073/pnas.0607971103  |bibcode = 2006PNAS..10317290K |pmid=17090676}}&lt;/ref&gt;  by generating a spatial mosaic of patches of opportunity distributed in space and time. The patchy nature of these fluidic landscapes allows for the study of adapting bacterial cells in a [[metapopulation]] system. The [[evolutionary ecology]] of these bacterial systems in these synthetic ecosystems allows for using [[biophysics]] to address questions in [[evolutionary biology]].
+
+===Cell behavior===
+
+The ability to create precise and carefully controlled [[chemoattractant]] gradients makes microfluidics the ideal tool to study motility, [[chemotaxis]] and the ability to evolve / develop resistance to antibiotics in small populations of microorganisms and in a short period of time. These microorganisms including [[bacteria]] &lt;ref&gt;{{cite journal | last1 = Ahmed | first1 = T. | last2 = Shimizu | first2 = T.S. | last3 = Stocker | first3 = R. | year = 2010 | title = Microfluidics for bacterial chemotaxis | url = http://pubs.rsc.org/en/content/articlelanding/2010/ib/c0ib00049c | journal = Integrative Biology | volume = 2 | issue = | pages = 604–629 | doi = 10.1039/C0IB00049C }}&lt;/ref&gt; and the broad range of organisms that form the marine [[microbial loop]],&lt;ref&gt;{{cite journal | last1 = Seymour | first1 = J.R. | last2 = Simo' | first2 = R. | last3 = Ahmed | first3 = T. | last4 = Stocker | first4 = R. | year = 2010 | title = Chemoattraction to dimethylsulfoniopropionate throughout the marine microbial food web | url = http://www.sciencemag.org/content/329/5989/342.abstract?sid=b60ccea5-d8be-412f-a9c9-fcd5cdd77ea9 | journal = Science | volume = 329 | issue = 5989| pages = 342–345 | doi = 10.1126/science.1188418 |bibcode = 2010Sci...329..342S | pmid=20647471}}&lt;/ref&gt; responsible for regulating much of the oceans' biogeochemistry.
+
+Microfluidics has also greatly aided the study of [[durotaxis]] by facilitating the creation of durotactic (stiffness) gradients.
+
+===Cellular biophysics===
+
+By rectifying the motion of individual swimming bacteria,&lt;ref&gt;{{cite journal|author1=Galajda P |author2=J.E. Keymer |author3=P Chaikin |author4=R. Austin |date=December 2007 |title=A Wall of Funnels Concentrates Swimming Bacteria|journal= Journal of Bacteriology |volume=189 |issue=23 |pages= 8704–8707 |pmc= 2168927|doi=10.1128/JB.01033-07 |pmid=17890308}}&lt;/ref&gt;  microfluidic structures can be used to extract mechanical motion from a population of motile bacterial cells.&lt;ref&gt;{{cite journal|author1=Angelani L. |author2=R. Di Leonardo |author3=G. Ruocco |year=2009 |title=Self-Starting Micromotors in a Bacterial Bath|journal= Phys. Rev. Lett. |volume=102 |issue= |page= 048104 |pmc= |doi=10.1103/PhysRevLett.102.048104 |bibcode=2009PhRvL.102d8104A|arxiv = 0812.2375 }}&lt;/ref&gt;  This way, bacteria-powered rotors can be built.&lt;ref&gt;{{cite journal | title = A bacterial ratchet motor | first1 = R. | last1 = Di Leonardo | first2 = L. | last2 = Angelani | first3 = G. | last3 = Ruocco | first4 = V. | last4 = Iebba | first5 = M.P. | last5 = Conte | first6 = S. | last6 = Schippa | first7 = F. | last7 = De Angelis | first8 = F. | last8 = Mecarini | first9 = E. | last9 = Di Fabrizio  | journal =PNAS | volume = 107 | issue = 21 | pages = 9541–9545 | year = 2010 | doi = 10.1073/pnas.0910426107|arxiv = 0910.2899 |bibcode = 2010PNAS..107.9541D }}&lt;/ref&gt;&lt;ref&gt;{{cite journal|author1=Sokolova A. |author2=M.M. Apodacac |author3=B.A. Grzybowskic |author4=I.S. Aransona |date=December 2009 |title=Swimming bacteria power microscopic gears |journal= PNAS |volume=107 |issue=3 |pages=969–974 |pmc= 2824308|doi=10.1073/pnas.0913015107|bibcode = 2010PNAS..107..969S |pmid=20080560}}&lt;/ref&gt;
+
+===Optics===
+The merger of microfluidics and optics is typical known as [[optofluidics]]. Examples of optofluidic devices are tunable microlens arrays&lt;ref&gt;Liquid micro-lens array activated by selective electrowetting on lithium niobate substrates S. Grilli, L. Miccio, V. Vespini, A. Finizio, S. De Nicola, and P. Ferraro Optics Express 16, 8084-8093 (2008).  {{DOI|10.1364/OE.16.008084}}&lt;/ref&gt;&lt;ref&gt;P. Ferraro, L. Miccio, S. Grilli, A. Finizio, S. De Nicola, and V. Vespini, "Manipulating Thin Liquid Films for Tunable Microlens Arrays," Optics &amp; Photonics News 19, 34-34 (2008) http://www.opticsinfobase.org/abstract.cfm?URI=OPN-19-12-34&lt;/ref&gt; and optofluidic microscopes.
+
+Microfluidic flow enables fast sample throughput, automated imaging of large sample populations, as well as 3D capabilities.&lt;ref&gt;Flow-scanning optical tomography N. C. Pégard, M. L. Toth, M. Driscoll, and   J. W. Fleischer Lab Chip, (2014),14, 4447-4450 [http://pubs.rsc.org/en/Content/ArticleLanding/2014/LC/c4lc00701h#!divAbstract]&lt;/ref&gt;&lt;ref&gt;N. C. Pégard and J. W. Fleischer, Journal of Biomedical Optics 18 040503 (2013)[http://www.opticsinfobase.org/abstract.cfm?URI=BIOMED-2012-BM4B.4]&lt;/ref&gt; or superresolution.&lt;ref&gt;C-H. Lu, N. C. Pégard and J. W. Fleischer, 2013, Applied Physics Letters, 102 161115 (2013)[http://link.aip.org/link/?APPLAB/102/161115/1] {{webarchive|url=https://archive.is/20131204184629/http://link.aip.org/link/?APPLAB/102/161115/1 |date=2013-12-04 }}&lt;/ref&gt;
+
+===Acoustic droplet ejection (ADE)===
+
+[[Acoustic droplet ejection]] uses a pulse of [[ultrasound]] to move low volumes of [[fluids]] (typically nanoliters or picoliters) without any physical contact. This technology focuses acoustic energy into a fluid sample in order to eject droplets as small as a millionth of a millionth of a litre (picoliter = 10&lt;sup&gt;−12&lt;/sup&gt; litre). ADE technology is a very gentle process, and it can be used to transfer proteins, high molecular weight DNA and live cells without damage or loss of viability. This feature makes the technology suitable for a wide variety of applications including [[proteomics]] and cell-based assays.
+
+===Fuel cells===
+{{Details|Electroosmotic pump}}
+Microfluidic [[fuel cells]] can use laminar flow to separate the fuel and its oxidant to control the interaction of the two fluids without a physical barrier as would be required in conventional fuel cells.&lt;ref&gt;[http://microfluidics.stanford.edu/fuel_cells.htm Water Management in PEM Fuel Cells]   {{webarchive |url=https://web.archive.org/web/20080628192632/http://microfluidics.stanford.edu/fuel_cells.htm |date=June 28, 2008 }}&lt;/ref&gt;&lt;ref&gt;[http://www.aps.org/publications/apsnews/200505/fuel.cfm Building a Better Fuel Cell Using Microfluidics]&lt;/ref&gt;&lt;ref&gt;[https://web.archive.org/web/20080305215325/http://www.me.mtu.edu/mnit/ Fuel Cell Initiative at MnIT Microfluidics Laboratory]&lt;/ref&gt;
+
+===Future directions===
+* On-chip characterization:&lt;ref name="Development and applications of a microfluidic reactor with multiple analytical probes"&gt;{{cite journal | last1 = Jesse | first1 =  | last2 = Debono | first2 = Michael | last3 = Kwan | first3 = Chi-Hang | last4 = Abolhasani | first4 = Milad | last5 = Guenther | first5 = Axel | last6 = Kumacheva | first6 = Eugenia | year = 2012 | title = Development and applications of a microfluidic reactor with multiple analytical probes | url = http://pubs.rsc.org/en/content/articlelanding/2012/an/c1an15940b | journal = Analyst | volume = 137 | issue = | pages = 444–450 | doi = 10.1039/C1AN15940B }}&lt;/ref&gt;
+* Microfluidics in the classroom: On-chip acid-base titrations&lt;ref name="Education: a microfluidic platform for university-level analytical chemistry laboratories"&gt;{{cite journal | last1 = Greener | first1 = Jesse | last2 = Tumarkin | first2 = Ethan | last3 = Debono | first3 = Michael | last4 = Kumacheva | first4 = Eugenia | year = 2012 | title = Education: a microfluidic platform for university-level analytical chemistry laboratories | url = http://pubs.rsc.org/en/content/articlelanding/2012/lc/c2lc20951a | journal = Lab Chip | volume = 12 | issue = | pages = 696–701 | doi = 10.1039/C2LC20951A }}&lt;/ref&gt;
+
+==See also==
+{{Portal|Biotechnology|Molecular and cellular biology}}
+* [[Advanced Simulation Library]]
+* [[Droplet-based microfluidics]]
+* [[Fluidics]]
+* [[Induced-charge electrokinetics]]
+* [[Lab-on-a-chip]]
+* [[μFluids@Home]]
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+
+===Review Papers===
+* {{cite journal | author = Yetisen A. K. | year = 2013 | title = Paper-based microfluidic point-of-care diagnostic devices | url =  | journal = Lab on a Chip | doi=10.1039/C3LC50169H | volume=13 | pages=2210}}
+* {{cite journal | author = Whitesides G. M. | year = 2006 | title = The origins and the future of microfluidics | url =  | journal = Nature | volume = 442 | issue = 7101| pages = 368–373 | doi=10.1038/nature05058 | pmid=16871203|bibcode = 2006Natur.442..368W }}
+* {{cite journal |author1=Seemann Ralf |author2=Brinkmann Martin |author3=Pfohl Thomas |author4=Herminghaus Stephan | year = 2012 | title = Droplet based microfluidics | url = | journal = Reports on Progress in Physics | volume = 75 | issue = | page = 016601 | doi = 10.1088/0034-4885/75/1/016601 |bibcode = 2012RPPh...75a6601S }}
+* {{cite journal |author1=Squires T. M. |author2=Quake S. R. | year = 2005 | title = Microfluidics: Fluid physics at the nanoliter scale |  journal = Reviews of Modern Physics | volume = 77 | issue = | pages = 977–1026 |bibcode = 2005RvMP...77..977S |doi = 10.1103/RevModPhys.77.977 }}
+* {{cite journal | author = Yetisen A. K. | year = 2014 | title = Patent Protection and Licensing in Microfluidics | url =  | journal = Lab on a Chip | doi=10.1039/C4LC00399C | volume=14 | pages=2217}}
+* {{cite journal | author = Chen, K. | year = 2011 | title = Microfluidics and the future of drug research | url = http://juls.library.utoronto.ca/index.php/juls/article/view/14551/12241 | journal = Journal of Undergraduate Life Sciences | volume = 5 | issue = 1 | pages = 66–69 }}
+* {{Cite journal |author=James B. Angell |author2=Stephen C. Terry |author3=Phillip W. Barth |authorlink= |coauthors= |date=April 1983 |title=Silicon Micromechanical Devices |journal=[[Scientific American]] |volume=248 |issue=4 |pages=44–55 |id= |url= |accessdate= |quote= |bibcode = 1983SciAm.248...44A |doi = 10.1038/scientificamerican0483-44 }}
+* {{Cite journal |author=Dario Carugo |author2=Elisabetta Bottaro |author3=Joshua Owen |authorlink= |coauthors= |date=April 2016 |title=Liposome production by microfluidics: potential and limiting factors |journal=[[Scientific Reports]] |doi = 10.1038/srep25876 |volume=6 |pages=25876}}
+
+===Books===
+*{{cite book
+ | last = Bruus
+ | first = Henrik
+ | year = 2008
+ | title = Theoretical Microfluidics
+ | publisher = Oxford University Press
+ | location =
+ | isbn = 978-0199235094
+}}
+* {{cite book |author= Herold, KE; Rasooly, A (editor)| year=2009 |title=Lab-on-a-Chip Technology: Fabrication and Microfluidics | publisher=Caister Academic Press | isbn= 978-1-904455-46-2}}
+* Title: Advances in Microfluidics, Editor: Dr. Ryan kelly, Pacific Northwest National Laboratory, Richland, Washington, USA. {{ISBN|978-953-510-106-2}}, 2012.
+*{{cite book
+ | last = Tabeling
+ | first = P
+ | year = 2006
+ | title = Introduction to Microfluidics
+ | publisher = Oxford University Press
+ | location =
+ | isbn = 0-19-856864-9
+}}
+*{{cite book
+ | author = Jenkins, G; Mansfield, CD (editors)
+ | year = 2012
+ | title = Microfluidic Diagnostics
+ | publisher = Humana Press
+ | isbn = 978-1-62703-133-2
+ | url =
+}}
+*{{cite book
+ | author = Li, Xiujun (James); Zhou, Yu (editors)
+ | year = 2013
+ | title = Microfluidic devices for biomedical applications
+ | publisher = Woodhead Publishing
+ | isbn = 978-0-85709-697-5
+ | url =
+}}
+{{Commons category|Microfluidics}}
+{{wikibooks|Microfluidics}}
+{{Microtechnology}}
+{{Genomics}}
+
+[[Category:Fluid dynamics]]
+[[Category:Nanotechnology]]
+[[Category:Microfluidics| ]]
+[[Category:Biotechnology]]
+[[Category:Gas technologies]]</text>
+      <sha1>nn4m1c9nokr9bu6pv54j4bnq2zwxs1f</sha1>
+    </revision>
+  </page>
+</mediawiki>

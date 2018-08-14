@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <page>
+    <title>Bacterial conjugation</title>
+    <ns>0</ns>
+    <id>4460</id>
+    <revision>
+      <id>793414793</id>
+      <parentid>793414495</parentid>
+      <timestamp>2017-08-01T16:08:08Z</timestamp>
+      <contributor>
+        <username>Natureium</username>
+        <id>28030679</id>
+      </contributor>
+      <minor></minor>
+      <comment>weird bolding</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Bacterial conjugation''' is the transfer of genetic material between [[Bacteria|bacterial cells]] by direct cell-to-cell contact or by a bridge-like connection between two cells.&lt;ref name=Baron&gt;{{cite book | vauthors = Holmes RK, Jobling MG | title = Genetics: Conjugation. ''in:'' Baron's Medical Microbiology| editor = Baron S| display-editors = etal| edition = 4th | publisher = Univ of Texas Medical Branch | year = 1996 | url = http://www.ncbi.nlm.nih.gov/books/bv.fcgi?highlight=conjugation&amp;rid=mmed.section.468#473 | isbn = 0-9631172-1-1 }}&lt;/ref&gt; It is a mechanism of [[horizontal gene transfer]] as are [[Transformation (genetics)|transformation]] and [[Transduction (genetics)|transduction]] although these two other mechanisms do not involve cell-to-cell contact.&lt;ref name=Griffiths_1999&gt;{{cite book |author=Griffiths AJF |title=An Introduction to genetic analysis | edition = 7th | publisher=W.H. Freeman |location=San Francisco |year=1999 |pages= |isbn=0-7167-3520-2 | url = http://www.ncbi.nlm.nih.gov/books/bv.fcgi?highlight=Bacterial+conjugation&amp;rid=iga.section.1304|display-authors=etal}}&lt;/ref&gt;
+
+Bacterial conjugation is often regarded as the bacterial equivalent of [[sexual reproduction]] or [[mating]] since it involves the exchange of genetic material. However, this is not sexual reproduction, since no exchange of gamete occurs. During conjugation the ''donor'' cell provides a conjugative or mobilizable genetic element that is most often a [[plasmid]] or [[transposon]].&lt;ref name=Sherris&gt;{{cite book | veditors = Ryan KJ, Ray CG | title = Sherris Medical Microbiology | edition = 4th | pages = 60–4 | publisher = McGraw Hill | year = 2004 | isbn = 0-8385-8529-9 }}&lt;/ref&gt; Most conjugative plasmids have systems ensuring that the ''recipient'' cell does not already contain a similar element.
+
+The genetic information transferred is often beneficial to the recipient. Benefits may include [[antibiotic resistance]], [[xenobiotic]] tolerance or the ability to use new [[metabolites]].&lt;ref name=Baron2&gt;{{cite book | vauthors = Holmes RK, Jobling MG | title = Genetics: Exchange of Genetic Information. ''in:'' Baron's Medical Microbiology| editor = Baron S| display-editors = etal| edition = 4th | publisher = Univ of Texas Medical Branch | year = 1996 | url = http://www.ncbi.nlm.nih.gov/books/bv.fcgi?highlight=conjugation&amp;rid=mmed.section.468 | isbn = 0-9631172-1-1 }}&lt;/ref&gt; Such beneficial plasmids may be considered bacterial [[endosymbionts]]. Other elements, however, may be viewed as bacterial [[parasitism|parasites]] and conjugation as a mechanism evolved by them to allow for their spread.
+
+==History==
+The process was discovered in 1946 by [[Joshua Lederberg]] and [[Edward Tatum]].&lt;ref&gt;{{cite journal | vauthors = Lederberg J, Tatum EL | title = Gene recombination in ''E. coli'' | journal = Nature | year = 1946 | volume = 158 | pages = 558 | url = | doi = 10.1038/158558a0 | issue = 4016 }}&lt;/ref&gt;
+
+== Mechanism ==
+[[File:Conjugation.svg|right|thumb|350px|Schematic drawing of bacterial conjugation.]]
+
+'''Conjugation diagram'''
+
+#Donor cell produces [[pilus]].
+#Pilus attaches to recipient cell and brings the two cells together.
+#The mobile plasmid is nicked and a single strand of DNA is then transferred to the recipient cell.
+#Both cells synthesize a complementary strand to produce a double stranded circular plasmid and also reproduce pili; both cells are now viable donor for the F-factor.&lt;ref name=Baron /&gt;
+
+The F-plasmid is an [[episome]] (a plasmid that can integrate itself into the bacterial [[chromosome]] by [[Homologous recombination#In bacteria|homologous recombination]]) with a length of about 100 [[kilo-base pair|kb]]. It carries its own [[origin of replication]], the ''oriV'', and an origin of transfer, or ''oriT''.&lt;ref name=Sherris /&gt; There can only be one copy of the F-plasmid in a given bacterium, either free or integrated, and bacteria that possess a copy are called ''F-positive'' or ''F-plus'' (denoted F&lt;sup&gt;+&lt;/sup&gt;). Cells that lack F plasmids are called ''F-negative'' or ''F-minus'' (F&lt;sup&gt;−&lt;/sup&gt;) and as such can function as recipient cells.
+
+Among other genetic information, the F-plasmid carries a ''tra'' and ''trb'' [[locus (genetics)|locus]], which together are about 33 kb long and consist of about 40 [[gene]]s. The ''tra'' locus includes the ''pilin'' gene and regulatory genes, which together form [[pilus|pili]] on the cell surface. The locus also includes the genes for the [[protein]]s that attach themselves to the surface of F&lt;sup&gt;−&lt;/sup&gt; bacteria and initiate conjugation. Though there is some debate on the exact mechanism of conjugation it seems that the pili are not the structures through which DNA exchange occurs. This has been shown in experiments where the pilus are allowed to make contact, but then are denatured with SDS and yet DNA transformation still proceeds. Several proteins coded for in the ''tra'' or ''trb'' locus seem to open a channel between the bacteria and it is thought that the traD enzyme, located at the base of the pilus, initiates membrane fusion.
+
+When conjugation is initiated by a signal the '''[[relaxase]]''' [[enzyme]] creates a [[nick (DNA)|nick]] in one of the strands of the conjugative plasmid at the ''oriT''. Relaxase may work alone or in a complex of over a dozen proteins known collectively as a '''[[relaxosome]]'''. In the F-plasmid system the relaxase enzyme is called TraI and the relaxosome consists of TraI, TraY, TraM and the integrated host factor IHF. The nicked strand, or ''T-strand'', is then unwound from the unbroken strand and transferred to the recipient cell in a 5'-terminus to 3'-terminus direction. The remaining strand is replicated either independent of conjugative action (vegetative replication beginning at the ''oriV'') or in concert with conjugation (conjugative replication similar to the [[rolling circle]] replication of [[lambda phage]]). Conjugative replication may require a second nick before successful transfer can occur. A recent report claims to have inhibited conjugation with chemicals that mimic an intermediate step of this second nicking event.&lt;ref&gt;{{cite journal | vauthors = Lujan SA, Guogas LM, Ragonese H, Matson SW, Redinbo MR | title = Disrupting antibiotic resistance propagation by inhibiting the conjugative DNA relaxase | journal = PNAS | year = 2007 | volume = 104 | pages = 12282–7 |pmc=1916486 | doi = 10.1073/pnas.0702760104 | jstor=25436291 | issue = 30 | pmid=17630285}}&lt;/ref&gt;
+
+If the F-plasmid that is transferred has previously been integrated into the donor's genome (producing an Hfr strain ["High Frequency of Recombination"]) some of the donor's chromosomal DNA may also be transferred with the plasmid DNA.&lt;ref name=Griffiths_1999 /&gt; The amount of chromosomal DNA that is transferred depends on how long the two conjugating bacteria remain in contact. In common laboratory strains of ''[[Escherichia coli|E. coli]]'' the transfer of the entire bacterial chromosome takes about 100 minutes. The transferred DNA can then be integrated into the recipient genome via [[homologous recombination]].
+
+A cell culture that contains in its population cells with non-integrated F-plasmids usually also contains a few cells that have accidentally integrated their plasmids. It is these cells that are responsible for the low-frequency chromosomal gene transfers that occur in such cultures. Some strains of bacteria with an integrated F-plasmid can be isolated and grown in pure culture. Because such strains transfer chromosomal genes very efficiently they are called '''[[Hfr cell|Hfr]]''' ('''h'''igh '''f'''requency of '''r'''ecombination). The ''E. coli'' [[genome]] was originally mapped by interrupted mating experiments in which various Hfr cells in the process of conjugation were sheared from recipients after less than 100 minutes (initially using a Waring blender). The genes that were transferred were then investigated.
+
+Since integration of the F-plasmid into the ''E. coli'' chromosome is a rare spontaneous occurrence, and since the numerous genes promoting DNA transfer are in the plasmid genome rather than in the bacterial genome, it has been argued that conjugative bacterial gene transfer, as it occurs in the E. coli Hfr system, is not an evolutionary adaptation of the bacterial host, nor is it likely ancestral to eukaryotic sex.&lt;ref&gt;{{cite journal | vauthors = Michod RE, Bernstein H, Nedelcu AM | year = 2008 | title = Adaptive value of sex in microbial pathogens | url = http://www.hummingbirds.arizona.edu/Faculty/Michod/Downloads/IGE%20review%20sex.pdf | journal = Infect Genet Evol | volume = 8 | issue = 3| pages = 267–285 | doi = 10.1016/j.meegid.2008.01.002 | pmid = 18295550 }}&lt;/ref&gt;
+
+==Conjugal transfer in mycobacteria==
+Conjugation in ''Mycobacteria smegmatis'', like conjugation in ''E. coli'', requires stable and extended contact between a donor and a recipient strain, is DNase resistant, and the transferred DNA is incorporated into the recipient chromosome by homologous recombination. However, unlike ''E. coli'' Hfr conjugation, mycobacterial conjugation is chromosome rather than plasmid based.&lt;ref name=Gray&gt;{{cite journal |vauthors=Gray TA, Krywy JA, Harold J, Palumbo MJ, Derbyshire KM |title=Distributive conjugal transfer in mycobacteria generates progeny with meiotic-like genome-wide mosaicism, allowing mapping of a mating identity locus |journal=PLoS Biol. |volume=11 |issue=7 |pages=e1001602 |year=2013 |pmid=23874149 |pmc=3706393 |doi=10.1371/journal.pbio.1001602 |url=}}&lt;/ref&gt;&lt;ref name=Derby&gt;{{cite journal |vauthors=Derbyshire KM, Gray TA |title=Distributive Conjugal Transfer: New Insights into Horizontal Gene Transfer and Genetic Exchange in Mycobacteria |journal=Microbiol Spectr |volume=2 |issue=1 |pages= 61–79|year=2014 |pmid=25505644 |pmc=4259119 |doi=10.1128/microbiolspec.MGM2-0022-2013 |url=}}&lt;/ref&gt; Furthermore, in contrast to ''E. coli'' Hfr conjugation, in ''M. smegmatis'' all regions of the chromosome are transferred with comparable efficiencies. The lengths of the donor segments vary widely, but have an average length of 44.2kb. Since a mean of 13 tracts are transferred, the average total of transferred DNA per genome is 575kb.&lt;ref name=Derby /&gt; This process is referred to as "Distributive conjugal transfer."&lt;ref name=Gray /&gt;&lt;ref name=Derby /&gt; Gray et al.&lt;ref name=Gray /&gt; found substantial blending of the parental genomes as a result of conjugation and regarded this blending as reminiscent of that seen in the meiotic products of sexual reproduction.
+
+==Inter-kingdom transfer==
+[[File:Agrobacteriumgall.jpg|thumb|''Agrobacterium tumefaciens'' gall at the root of ''Carya illinoensis''.]]
+Bacteria related to the [[diazotroph|nitrogen fixing]] ''[[Rhizobia]]'' are an interesting case of inter-[[Kingdom (biology)|kingdom]] conjugation.&lt;ref&gt;{{cite journal |vauthors=Pan SQ, Jin S, Boulton MI, Hawes M, Gordon MP, Nester EW |title=An Agrobacterium virulence factor encoded by a Ti plasmid gene or a chromosomal gene is required for T-DNA transfer into plants |journal=Mol. Microbiol. |volume=17 |issue=2 |pages=259–69 |date=July 1995 |pmid=7494475 |doi=10.1111/j.1365-2958.1995.mmi_17020259.x }}&lt;/ref&gt; For example, the tumor-inducing (Ti) plasmid of ''[[Agrobacterium]]'' and the root-tumor inducing (Ri) plasmid of ''A. rhizogenes'' contain genes that are capable of transferring to plant cells. The expression of these genes effectively transforms the plant cells into [[opines|opine]]-producing factories. Opines are used by the bacteria as sources of nitrogen and energy. Infected cells form [[Agrobacterium tumefaciens|crown gall]] or [[Agrobacterium rhizogenes|root tumors]]. The Ti and Ri plasmids are thus [[endosymbiont]]s of the bacteria, which are in turn endosymbionts (or parasites) of the infected plant.
+
+The Ti and Ri plasmids can also be transferred between bacteria using a system (the ''tra'', or [[Transfer gene|transfer, operon]]) that is different and independent of the system used for inter-kingdom transfer (the ''vir'', or [[virulence]], operon). Such transfers create virulent strains from previously avirulent strains.
+
+== Genetic engineering applications ==
+Conjugation is a convenient means for [[genetic engineering|transferring genetic material]] to a variety of targets. In laboratories, successful transfers have been reported from bacteria to yeast,&lt;ref&gt;{{cite journal |vauthors=Heinemann JA, Sprague GF |title=Bacterial conjugative plasmids mobilize DNA transfer between bacteria and yeast |journal=Nature |volume=340 |issue=6230 |pages=205–9 |date=July 1989 |pmid=2666856 |doi=10.1038/340205a0 }}&lt;/ref&gt; plants, mammalian cells,&lt;ref&gt;{{cite journal |vauthors=Kunik T, Tzfira T, Kapulnik Y, Gafni Y, Dingwall C, Citovsky V |title=Genetic transformation of HeLa cells by Agrobacterium |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=98 |issue=4 |pages=1871–6 |date=February 2001 |pmid=11172043 |pmc=29349 |doi=10.1073/pnas.041327598 |url=http://www.pnas.org/cgi/pmidlookup?view=long&amp;pmid=11172043}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=Waters VL |title=Conjugation between bacterial and mammalian cells |journal=Nat. Genet. |volume=29 |issue=4 |pages=375–6 |date=December 2001 |pmid=11726922 |doi=10.1038/ng779 }}&lt;/ref&gt; [[diatom]]s&lt;ref&gt;{{Cite journal|last=Karas|first=Bogumil J.|last2=Diner|first2=Rachel E.|last3=Lefebvre|first3=Stephane C.|last4=McQuaid|first4=Jeff|last5=Phillips|first5=Alex P.R.|last6=Noddings|first6=Chari M.|last7=Brunson|first7=John K.|last8=Valas|first8=Ruben E.|last9=Deerinck|first9=Thomas J.|date=2015-04-21|title=Designer diatom episomes delivered by bacterial conjugation|url=http://www.nature.com/articles/ncomms7925|journal=Nature Communications|language=en|volume=6|doi=10.1038/ncomms7925|issn=2041-1723|pmc=4411287|pmid=25897682}}&lt;/ref&gt; and isolated mammalian [[mitochondria]].&lt;ref&gt;{{cite journal |vauthors=Yoon YG, Koob MD |title=Transformation of isolated mammalian mitochondria by bacterial conjugation |journal=Nucleic Acids Res. |volume=33 |issue=16 |pages=e139 |year=2005 |pmid=16157861 |pmc=1201378 |doi=10.1093/nar/gni140 |url=http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&amp;pmid=16157861}}&lt;/ref&gt; Conjugation has advantages over other forms of genetic transfer including minimal disruption of the target's [[Cellular membrane|cellular envelope]] and the ability to transfer relatively large amounts of genetic material (see the above discussion of ''E. coli'' chromosome transfer). In plant engineering, ''Agrobacterium''-like conjugation complements other standard vehicles such as [[tobacco mosaic virus]] (TMV). While TMV is capable of infecting many plant families these are primarily [[Herbaceous plant|herbaceous]] [[dicot]]s. ''Agrobacterium''-like conjugation is also primarily used for dicots, but [[monocot]] recipients are not uncommon.
+
+==See also==
+*[[Sexual conjugation]] in algae and ciliates
+*[[Transfection]]
+*[[Triparental mating]]
+*[[Zygotic induction]]
+
+== References ==
+{{reflist|30em}}
+
+==External links==
+* [http://www.1lec.com/Microbiology/Bacterial%20Conjugation/index.html Bacterial conjugation] (a Flash animation)
+
+{{Genetic recombination}}
+
+{{DEFAULTSORT:Bacterial Conjugation}}
+[[Category:Molecular biology]]
+[[Category:Biotechnology]]
+[[Category:Antibiotic resistance]]
+[[Category:Bacteriology]]</text>
+      <sha1>lfgd0xeduvw80bo08uddzekki6e2psv</sha1>
+    </revision>
+  </page>
+</mediawiki>

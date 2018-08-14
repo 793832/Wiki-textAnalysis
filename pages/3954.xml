@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <page>
+    <title>Biochemistry</title>
+    <ns>0</ns>
+    <id>3954</id>
+    <revision>
+      <id>793758843</id>
+      <parentid>790033124</parentid>
+      <timestamp>2017-08-03T19:33:07Z</timestamp>
+      <contributor>
+        <username>TAnthony</username>
+        <id>1808194</id>
+      </contributor>
+      <comment>Correct unknown or deprecated {{Reflist}} parameters (the template is now responsive) and genfixes using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{For|the journal|Biochemistry (journal)}}
+{{Biochemistry sidebar}}
+
+'''Biochemistry''', sometimes called '''biological chemistry''', is the study of [[chemical process]]es within and relating to living [[organism]]s.&lt;ref&gt;{{cite web|url=http://www.acs.org/content/acs/en/careers/college-to-career/areas-of-chemistry/biological-biochemistry.html.html |title=Biochemistry|work=acs.org}}&lt;/ref&gt; By controlling information flow through biochemical signaling and the flow of chemical energy through [[metabolism]], biochemical processes give rise to the complexity of [[life]]. Over the last decades of the 20th century, biochemistry has become so successful at explaining living processes that now almost all [[List of life sciences|areas of the life sciences]] from [[botany]] to [[medicine]] to [[genetics]] are engaged in biochemical research.&lt;ref name="Voet_2005"&gt;[[#Voet|Voet]] (2005), p. 3.&lt;/ref&gt; Today, the main focus of [[basic research|pure]] biochemistry is on understanding how [[biomolecule|biological molecules]] give rise to the processes that occur within living [[Cell (biology)|cells]],&lt;ref name="Karp2009"&gt;[[#Karp|Karp]] (2009), p. 2.&lt;/ref&gt; which in turn relates greatly to the study and understanding of [[tissue (biology)|tissues]], [[organ (anatomy)|organs]], and whole organisms&lt;ref name="MillerSpoolman2012"&gt;[[#Miller|Miller]] (2012), p. 62.&lt;/ref&gt;—that is, all of [[biology]].
+
+Biochemistry is closely related to [[molecular biology]], the study of the [[molecule|molecular]] mechanisms by which [[Genetics|genetic]] information [[Genetic code|encoded]] in [[DNA]] is able to result in the processes of life.&lt;ref name="fn_1"&gt;[[#Astbury|Astbury]] (1961), p. 1124.&lt;/ref&gt; Depending on the exact definition of the terms used, molecular biology can be thought of as a branch of biochemistry, or biochemistry as a tool with which to investigate and study molecular biology.
+
+Much of biochemistry deals with the structures, functions and interactions of biological [[macromolecule]]s, such as [[protein]]s, [[nucleic acid]]s, [[carbohydrate]]s and [[lipid]]s, which provide the structure of cells and perform many of the functions associated with life.&lt;ref name="Biology"&gt;[[#Eldra|Eldra]] (2007), p. 45.&lt;/ref&gt; The chemistry of the cell also depends on the reactions of smaller [[molecule]]s and [[ion]]s. These can be [[inorganic]], for example [[water]] and [[metal]] ions, or [[Organic compound|organic]], for example the [[amino acid]]s, which are used to [[Protein biosynthesis|synthesize proteins]].&lt;ref name="Marks"&gt;[[#Marks|Marks]] (2012), Chapter 14.&lt;/ref&gt; The mechanisms by which cells harness energy from their environment via chemical reactions are known as [[metabolism]]. The findings of biochemistry are applied primarily in [[medicine]], [[nutrition]], and [[agriculture]]. In medicine, biochemists investigate the causes and [[Pharmaceutical drug|cures]] of [[disease]]s.&lt;ref&gt;[[#Finkel|Finkel]] (2009), pp. 1–4.&lt;/ref&gt; In nutrition, they study how to maintain health wellness and study the effects of [[nutritional deficiencies]].&lt;ref name=FFL2010&gt;[[#UNICEF|UNICEF]] (2010), pp. 61, 75.&lt;/ref&gt; In agriculture, biochemists investigate [[soil]] and [[fertilizer]]s, and try to discover ways to improve crop cultivation, crop storage and [[pest control]].
+
+== History==
+{{Main article| History of biochemistry}}
+[[File:Gerty Theresa Radnitz Cori (1896-1957) and Carl Ferdinand Cori.jpg|thumb|upright|[[Gerty Cori]] and [[Carl Cori]] jointly won the [[Nobel Prize in Physiology or Medicine|Nobel Prize]] in 1947 for their discovery of  the [[Cori cycle]] at RPMI.]]
+
+At its broadest definition, biochemistry can be seen as a study of the components and composition of living things and how they come together to become life, and the history of biochemistry may therefore go back as far as the [[Ancient Greece|ancient Greeks]].&lt;ref name="history of science"&gt;[[#Helvoort|Helvoort]] (2000), p. 81.&lt;/ref&gt; However, biochemistry as a specific [[scientific discipline]] has its beginning sometime in the [[19th century]], or a little earlier, depending on which aspect of biochemistry is being focused on. Some argued that the beginning of biochemistry may have been the discovery of the first [[enzyme]], [[diastase]] (today called [[amylase]]), in 1833 by [[Anselme Payen]],&lt;ref&gt;[[#Hunter|Hunter]] (2000), p. 75.&lt;/ref&gt; while others considered [[Eduard Buchner]]'s first demonstration of a complex biochemical process [[Ethanol fermentation|alcoholic fermentation]] in cell-free extracts in 1897 to be the birth of biochemistry.&lt;ref&gt;[[#Hamblin|Hamblin]] (2005), p. 26.&lt;/ref&gt;&lt;ref&gt;[[#Hunter|Hunter]] (2000), pp. 96–98.&lt;/ref&gt;  Some might also point as its beginning to the influential 1842 work by [[Justus von Liebig]], ''Animal chemistry, or, Organic chemistry in its applications to physiology and pathology'', which presented a chemical theory of metabolism,&lt;ref name="history of science" /&gt; or even earlier to the 18th century studies on [[fermentation]] and [[Cellular respiration|respiration]] by [[Antoine Lavoisier]].&lt;ref&gt;[[#Berg|Berg]] (1980), pp. 1–2.&lt;/ref&gt;&lt;ref&gt;[[#Holmes|Holmes]] (1987), p. xv.&lt;/ref&gt; Many other pioneers in the field who helped to uncover the layers of complexity of biochemistry have been proclaimed founders of modern biochemistry, for example [[Hermann Emil Fischer|Emil Fischer]] for his work on the chemistry of proteins,&lt;ref&gt;[[#Feldman|Feldman]] (2001), p. 206.&lt;/ref&gt; and [[Frederick Gowland Hopkins|F. Gowland Hopkins]] on enzymes and the dynamic nature of biochemistry.&lt;ref&gt;[[#Rayner|Rayner-Canham]] (2005), p. 136.&lt;/ref&gt;
+
+The term "biochemistry" itself  is derived from a combination of [[biology]] and [[chemistry]]. In 1877, [[Felix Hoppe-Seyler]] used the term (''biochemie'' in German) as a synonym for [[physiological chemistry]] in the foreword to the first issue of ''[[Zeitschrift für Physiologische Chemie]]'' (Journal of Physiological Chemistry) where he argued for the setting up of institutes dedicated to this field of study.&lt;ref&gt;[[#Ziesak|Ziesak]] (1999), p. 169.&lt;/ref&gt;&lt;ref&gt;[[#Kleinkauf|Kleinkauf]] (1988), p. 116.&lt;/ref&gt; The German [[chemist]] [[Carl Neuberg]] however is often cited to have coined the word in 1903,&lt;ref name="Ben-Menahem 2009"&gt;[[#Ben|Ben-Menahem]] (2009), p. 2982.&lt;/ref&gt;&lt;ref&gt;[[#Amsler|Amsler]] (1986), p. 55.&lt;/ref&gt;&lt;ref&gt;[[#Horton|Horton]] (2013), p. 36.&lt;/ref&gt; while some credited it to [[Franz Hofmeister]].&lt;ref&gt;[[#Kleinkauf|Kleinkauf]] (1988), p. 43.&lt;/ref&gt;
+
+[[File:DNA orbit animated.gif|thumb|left|upright|DNA structure ({{PDB2|1D65}})&lt;ref&gt;[[#Edwards|Edwards]] (1992), pp. 1161–1173.&lt;/ref&gt;]]
+It was once generally believed that life and its materials had some essential property or substance (often referred to as the "[[vital principle]]") distinct from any found in non-living matter, and it was thought that only living beings could produce the molecules of life.&lt;ref&gt;[[#Fiske|Fiske]] (1890), pp. 419–20.&lt;/ref&gt; Then, in 1828, [[Friedrich Wöhler]] published a paper on [[Wöhler synthesis|the synthesis]] of [[urea]], proving that [[organic chemistry|organic]] compounds can be created artificially.&lt;ref name="Kauffman 2001"&gt;[[#Kauffman|Kauffman]] (2001), pp. 121–133.&lt;/ref&gt;  Since then, biochemistry has advanced, especially since the mid-20th century, with the development of new techniques such as [[chromatography]], [[X-ray diffraction]], [[dual polarisation interferometry]], [[protein nuclear magnetic resonance spectroscopy|NMR spectroscopy]], [[radioisotopic labeling]], [[electron microscope|electron microscopy]], and [[molecular dynamics]] simulations. These techniques allowed for the discovery and detailed analysis of many molecules and [[metabolic pathway]]s of the [[cell (biology)|cell]], such as [[glycolysis]] and the [[Krebs cycle]] (citric acid cycle).
+
+Another significant historic event in biochemistry is the discovery of the [[gene]] and its role in the transfer of information in the cell. This part of biochemistry is often called [[molecular biology]].&lt;ref&gt;[[#Tropp|Tropp]] (2012), p. 2.&lt;/ref&gt; In the 1950s, [[James D. Watson]], [[Francis Crick]], [[Rosalind Franklin]], and [[Maurice Wilkins]] were instrumental in solving DNA structure and suggesting its relationship with genetic transfer of information.&lt;ref&gt;[[#Tropp|Tropp]] (2012), pp. 19–20.&lt;/ref&gt; In 1958, [[George Beadle]] and [[Edward Tatum]] received the [[Nobel Prize]] for work in fungi showing that [[one gene-one enzyme hypothesis|one gene produces one enzyme]].&lt;ref name="Krebs 2012"&gt;[[#Krebs|Krebs]] (2012), p. 32.&lt;/ref&gt; In 1988, [[Colin Pitchfork]] was the first person convicted of murder with [[DNA]] evidence, which led to the growth of [[forensic science]].&lt;ref name="Butler 2009"&gt;[[#Butler|Butler]] (2009), p. 5.&lt;/ref&gt; More recently, [[Andrew Z. Fire]] and [[Craig C. Mello]] received the [[Nobel Prize in Physiology or Medicine|2006 Nobel Prize]] for discovering the role of [[RNA interference]] ([[RNAi]]), in the silencing of [[gene expression]].&lt;ref name="Sen 2007"&gt;[[#Chandan|Chandan]] (2007), pp. 193–194.&lt;/ref&gt;
+
+== Starting materials: the chemical elements of life ==
+[[Image:201 Elements of the Human Body.02.svg|thumb|upright|The main elements that compose the human body are shown from most abundant (by mass) to least abundant.]]
+{{main article|Composition of the human body|Dietary mineral}}
+
+Around two dozen of the 92 naturally occurring [[chemical elements]] are essential to various kinds of [[life|biological life]]. Most [[Rare earth element|rare elements on Earth]] are not needed by life (exceptions being  [[selenium]] and [[iodine]]), while a few common ones ([[aluminum]] and [[titanium]]) are not used. Most organisms share element needs, but there are a few differences between [[plants]] and [[animals]]. For example, ocean algae use [[bromine]], but land plants and animals seem to need none. All animals require [[sodium]], but some plants do not. Plants need [[boron]] and [[silicon]], but animals may not (or may need ultra-small amounts).
+
+Just six elements&amp;mdash;[[carbon]], [[hydrogen]], [[nitrogen]], [[oxygen]], [[calcium]], and [[phosphorus]]&amp;mdash;make up almost 99% of the mass of living cells, including those in the human body (see [[composition of the human body]] for a complete list). In addition to the six major elements that compose most of the human body, humans require smaller amounts of possibly 18 more.&lt;ref&gt;[[#Nielsen|Nielsen]] (1999), pp. 283–303.&lt;/ref&gt;
+
+==Biomolecules==
+
+The four main classes of molecules in biochemistry (often called [[biomolecule]]s) are [[carbohydrate]]s, [[lipid]]s, [[protein]]s, and [[nucleic acid]]s.&lt;ref name=slabaugh&gt;[[#Slabaugh|Slabaugh]] (2007), pp. 3–6.&lt;/ref&gt; Many biological molecules are [[polymer]]s: in this terminology, [[monomer]]s are relatively small micromolecules that are linked together to create large [[macromolecule]]s known as polymers. When monomers are linked together to synthesize a [[Biopolymer|biological polymer]], they undergo a process called [[Dehydration reaction|dehydration synthesis]]. Different macromolecules can assemble in larger complexes, often needed for [[biological activity]].
+
+===Carbohydrates===
+{{Main article|Carbohydrate|Monosaccharide|Disaccharide|Polysaccharide}}
+{{multiple image
+| align     = right
+| direction = vertical
+| header    = [[Carbohydrates]]
+| image1    = Beta-D-Glucose.svg
+| width1    = 220
+| caption1 = Glucose, a [[monosaccharide]]
+| image2   = Sucrose-inkscape.svg
+| width2   = 220
+| caption2 = A molecule of [[sucrose]] ([[glucose]] + [[fructose]]), a [[disaccharide]]
+| image3   = amylose 3Dprojection.corrected.png
+| width3   = 220
+| caption3 =[[Amylose]],  a [[polysaccharide]] made up of several thousand [[glucose]] units
+}}
+The function of carbohydrates includes energy storage and providing structure. [[Sugar]]s are carbohydrates, but not all carbohydrates are sugars. There are more carbohydrates on Earth than any other known type of biomolecule; they are used to store energy and [[genetic information]], as well as play important roles in cell to [[Cell–cell interaction|cell interactions]] and [[Cell signaling|communications]].
+
+The simplest type of carbohydrate is a [[monosaccharide]], which among other properties contains carbon, hydrogen, and oxygen, mostly in a ratio of 1:2:1 (generalized formula C&lt;sub&gt;''n''&lt;/sub&gt;H&lt;sub&gt;2''n''&lt;/sub&gt;O&lt;sub&gt;''n''&lt;/sub&gt;, where ''n'' is at least 3). [[Glucose]]  (C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;12&lt;/sub&gt;O&lt;sub&gt;6&lt;/sub&gt;) is one of the most important carbohydrates; others include [[fructose]] (C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;12&lt;/sub&gt;O&lt;sub&gt;6&lt;/sub&gt;), the sugar commonly associated with the [[sweet taste]] of [[fruit]]s,&lt;ref name=Whiting1970&gt;[[#Whiting|Whiting]] (1970), pp. 1–31.&lt;/ref&gt;{{Ref label|a|a|none}} and [[deoxyribose]] (C&lt;sub&gt;5&lt;/sub&gt;H&lt;sub&gt;10&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;).
+
+A monosaccharide can switch from the [[Open-chain compound|acyclic (open-chain) form]] to a [[cyclic compound|cyclic]] form, through a [[nucleophilic addition]] reaction between the [[carbonyl group]] and one of the [[hydroxyl]]s of the same molecule.  The reaction creates a ring of carbon atoms closed by one bridging [[oxygen]] atom. The resulting molecule has an [[hemiacetal]] or [[hemiketal]] group, depending on whether the linear form was an aldose or a ketose.  The reaction is easily reversed, yielding the original open-chain form.&lt;ref&gt;[[#Voet|Voet]] (2005), pp. 358–359.&lt;/ref&gt;
+
+[[File:Existence in solution.png|center|thumb|500px|Conversion between the [[furanose]], [[Open-chain compound|acyclic]], and [[pyranose]] forms of D-glucose]]
+
+In these cyclic forms, the ring usually has '''5''' or '''6''' atoms.  These forms are called [[furanose]]s and [[pyranose]]s, respectively&amp;nbsp;— by analogy with [[furan]] and [[pyran]], the simplest compounds with the same carbon-oxygen ring (although they lack the [[double bond]]s of these two molecules).  For example, the aldohexose [[glucose]] may form a hemiacetal linkage between the hydroxyl on carbon 1 and the oxygen on carbon 4, yielding a molecule with a 5-membered ring, called [[glucofuranose]].  The same reaction can take place between carbons 1 and 5 to form a molecule with a 6-membered ring, called [[glucopyranose]]. Cyclic forms with a 7-atom ring (the same of [[oxepane]]), rarely encountered, are called [[heptoses]].
+
+When two monosaccharides undergo [[Dehydration reaction|dehydration synthesis]] whereby a molecule of water is released, as two [[hydrogen]] atoms and one [[oxygen]] atom are lost from the two monosaccharides, the new molecule, consisting of two monosaccharides, is called a ''[[disaccharide]]'' and is conjoined together by a [[Glycosidic bond|glycosidic]] or [[ether bond]]. The reverse reaction can also occur, using a molecule of water to split up a disaccharide and break the glycosidic bond; this is termed ''[[hydrolysis]]''. The most well-known disaccharide is [[sucrose]], ordinary [[sugar]] (in scientific contexts, called ''table sugar'' or ''[[cane sugar]]'' to differentiate it from other sugars). Sucrose consists of a [[glucose]] molecule and a [[fructose]] molecule joined together. Another important disaccharide is [[lactose]], consisting of a glucose molecule and a [[galactose]] molecule. As most humans age, the production of [[lactase]], the enzyme that hydrolyzes lactose back into glucose and [[galactose]], typically decreases. This results in [[lactase deficiency]], also called ''lactose intolerance''.
+
+When a few (around three to six) monosaccharides are joined, it is called an ''[[oligosaccharide]]'' (''oligo-'' meaning "few"). These molecules tend to be used as markers and [[Cell signaling|signals]], as well as having some other uses.&lt;ref name=Varki_1999&gt;[[#Varki|Varki]] (1999), p. 17.&lt;/ref&gt; Many monosaccharides joined together make a [[polysaccharide]]. They can be joined together in one long linear chain, or they may be [[Branching (polymer chemistry)|branched]]. Two of the most common polysaccharides are [[cellulose]] and [[glycogen]], both consisting of repeating glucose [[monomer]]s.  Examples are ''cellulose'' which is an important structural component of plant's [[cell wall]]s, and ''[[glycogen]]'', used as a form of energy storage in animals.
+
+[[Sugar]] can be characterized by having [[Reducing sugar|reducing]] or non-reducing ends. A [[reducing end]] of a carbohydrate is a carbon atom that can be in equilibrium with the open-chain [[aldehyde]] ([[aldose]]) or keto form ([[ketose]]). If the joining of monomers takes place at such a carbon atom, the free hydroxy group of the [[pyranose]] or [[furanose]] form is exchanged with an OH-side-chain of another sugar, yielding a full [[acetal]]. This prevents opening of the chain to the aldehyde or keto form and renders the modified residue non-reducing. Lactose contains a reducing end at its glucose moiety, whereas the galactose moiety forms a full acetal with the C4-OH group of glucose. [[Saccharose]] does not have a reducing end because of full acetal formation between the aldehyde carbon of glucose (C1) and the keto carbon of fructose (C2).
+
+===Lipids===
+{{Main article|Lipid|Glycerol|Fatty acid}}
+
+[[File:Common lipids lmaps.png|thumb|right|350px|Structures of some common lipids. At the top are [[cholesterol]] and [[oleic acid]].&lt;ref&gt;[[#Stryer|Stryer]] (2007), p. 328.&lt;/ref&gt; The middle structure is a [[triglyceride]] composed of [[oleate|oleoyl]], [[stearate|stearoyl]], and [[palmitate|palmitoyl]] chains attached to a [[glycerol]] backbone. At the bottom is the common [[phospholipid]], [[phosphatidylcholine]].&lt;ref&gt;[[#Voet|Voet]] (2005), Ch. 12 Lipids and Membranes.&lt;/ref&gt;]]
+
+'''[[Lipid]]s''' comprises a diverse range of [[molecules]] and to some extent is a catchall for relatively water-insoluble or [[nonpolar]] compounds of biological origin, including [[wax]]es, [[fatty acid]]s, fatty-acid derived [[phospholipid]]s, [[sphingolipid]]s, [[glycolipid]]s, and [[terpenoid]]s (e.g., [[retinoid]]s and [[steroid]]s). Some lipids are linear [[aliphatic]] molecules, while others have ring structures. Some are [[aromatic]], while others are not. Some are flexible, while others are rigid.&lt;ref&gt;[[#Fromm|Fromm and Hargrove]] (2012), pp. 22–27.&lt;/ref&gt;
+
+Lipids are usually made from one molecule of [[glycerol]] combined with other molecules.  In [[triglyceride]]s, the main group of bulk lipids, there is one molecule of glycerol and three [[fatty acid]]s. Fatty acids are considered the monomer in that case, and may be [[Saturation (chemistry)|saturated]] (no [[double bond]]s in the carbon chain) or unsaturated (one or more double bonds in the carbon chain).&lt;ref&gt;[[#Voet|Voet]] (2005), pp. 382–385.&lt;/ref&gt;
+
+Most lipids have some [[polar molecule|polar]] character in addition to being largely nonpolar. In general, the bulk of their structure is nonpolar or [[hydrophobic]] ("water-fearing"), meaning that it does not interact well with polar solvents like water. Another part of their structure is polar or [[hydrophilic]] ("water-loving") and will tend to associate with polar solvents like water. This makes them [[amphiphilic]] molecules (having both hydrophobic and hydrophilic portions). In the case of [[cholesterol]], the polar group is a mere -OH (hydroxyl or alcohol). In the case of phospholipids, the polar groups are considerably larger and more polar, as described below.&lt;ref&gt;[[#Voet|Voet]] (2005), pp. 385–389.&lt;/ref&gt;
+
+Lipids are an integral part of our daily diet. Most [[oil]]s and [[milk product]]s that we use for cooking and eating like [[butter]], [[cheese]], [[ghee]] etc., are composed of [[fat]]s. [[Vegetable oil]]s are rich in various [[polyunsaturated fatty acid]]s (PUFA). Lipid-containing foods undergo digestion within the body and are broken into fatty acids and glycerol, which are the final degradation products of fats and lipids.  Lipids, especially [[phospholipid]]s, are also used in various [[pharmaceutical product]]s, either as co-solubilisers (e.g., in [[wikt:parenteral|parenteral]] infusions) or else as [[drug carrier]] components (e.g., in a [[liposome]] or [[transfersome]]).
+
+===Proteins===
+{{Main article|Protein|Amino acid}}
+
+[[File:AminoAcidball.svg|thumbnail|160px|The general structure of an α-amino acid, with the [[amine|amino]] group on the left and the [[carboxyl]] group on the right.]]
+
+[[Protein]]s are very large molecules – macro-biopolymers – made from monomers called [[amino acid]]s. An amino acid consists of a carbon atom bound to four groups. One is an [[amino]] group, &amp;mdash;NH&lt;sub&gt;2&lt;/sub&gt;, and one is a [[carboxylic acid]] group, &amp;mdash;COOH (although these exist as &amp;mdash;NH&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt; and &amp;mdash;COO&lt;sup&gt;−&lt;/sup&gt; under physiologic conditions). The third is a simple hydrogen atom. The fourth is commonly denoted "&amp;mdash;R" and is different for each amino acid. There are 20 [[proteinogenic amino acid|standard amino acids]], each containing a [[carboxyl group]], an [[amino group]], and a [[Substituent|side-chain]] (known as an "R" group).  The "R" group is what makes each amino acid different, and the properties of the side-chains greatly influence the overall [[Protein tertiary structure|three-dimensional conformation]] of a protein. Some amino acids have functions by themselves or in a modified form; for instance, [[glutamate]] functions as an important [[neurotransmitter]]. Amino acids can be joined via a [[peptide bond]]. In this [[Dehydration reaction|dehydration]] synthesis, a water molecule is removed and the peptide bond connects the nitrogen of one amino acid's amino group to the carbon of the other's carboxylic acid group. The resulting molecule is called a ''[[dipeptide]]'', and short stretches of amino acids (usually, fewer than thirty) are called ''peptides'' or polypeptides. Longer stretches merit the title ''proteins''. As an example, the important blood [[blood plasma|serum]] protein [[human serum albumin|albumin]] contains 585 amino acid residues.&lt;ref name="Metzler 2001"&gt;[[#Metzler|Metzler]] (2001), p. 58.&lt;/ref&gt;
+[[File:Amino acids 1.png|thumb|left|390px|Generic amino acids (1) in neutral form, (2) as they exist physiologically, and (3) joined together as a dipeptide.]]
+
+[[File:1GZX Haemoglobin.png|thumb|right|160px|A schematic of [[hemoglobin]]. The red and blue ribbons represent the protein [[globin]]; the green structures are the [[heme]] groups.]]
+Some proteins perform largely structural roles. For instance, movements of the proteins [[actin]] and [[myosin]] ultimately are responsible for the contraction of skeletal muscle. One property many proteins have is that they specifically bind to a certain molecule or class of molecules&amp;mdash;they may be ''extremely'' selective in what they bind. [[Antibody|Antibodies]] are an example of proteins that attach to one specific type of molecule. In fact, the [[enzyme-linked immunosorbent assay]] (ELISA), which uses antibodies, is one of the most sensitive tests modern medicine uses to detect various biomolecules. Probably the most important proteins, however, are the [[enzyme]]s. Virtually every reaction in a living cell requires an enzyme to lower the activation energy of the reaction. These molecules recognize specific reactant molecules called ''[[substrate (biochemistry)|substrate]]s''; they then [[Catalysis|catalyze]] the reaction between them. By lowering the [[activation energy]], the enzyme speeds up that reaction by a rate of 10&lt;sup&gt;11&lt;/sup&gt; or more; a reaction that would normally take over 3,000 years to complete spontaneously might take less than a second with an enzyme. The enzyme itself is not used up in the process, and is free to catalyze the same reaction with a new set of substrates. Using various modifiers, the activity of the enzyme can be regulated, enabling control of the biochemistry of the cell as a whole.
+
+The structure of proteins is traditionally described in a hierarchy of four levels. The [[primary structure]] of a protein simply consists of its linear sequence of amino acids; for instance, "alanine-glycine-tryptophan-serine-glutamate-asparagine-glycine-lysine-…". [[Secondary structure]] is concerned with local morphology (morphology being the study of structure). Some combinations of amino acids will tend to curl up in a coil called an [[alpha helix|α-helix]] or into a sheet called a [[Beta sheet|β-sheet]]; some α-helixes can be seen in the hemoglobin schematic above. [[Tertiary structure]] is the entire three-dimensional shape of the protein. This shape is determined by the sequence of amino acids. In fact, a single change can change the entire structure. The alpha chain of hemoglobin contains 146 amino acid residues; substitution of the [[glutamate]] residue at position 6 with a [[valine]] residue changes the behavior of hemoglobin so much that it results in [[sickle-cell disease]]. Finally, [[quaternary structure]] is concerned with the structure of a protein with multiple peptide subunits, like hemoglobin with its four subunits. Not all proteins have more than one subunit.&lt;ref&gt;[[#Fromm|Fromm and Hargrove]] (2012), pp. 35–51.&lt;/ref&gt;
+
+[[File:Protein structure examples.png|thumb|800px|center|Examples of protein structures from the [[Protein Data Bank]]]]
+[[File:Structural coverage of the human cyclophilin family.png|thumb||350px|right|Members of a protein family, as represented by the structures of the [[isomerase]] [[protein domain|domain]]s]]
+Ingested proteins are usually broken up into single amino acids or dipeptides in the [[small intestine]], and then absorbed. They can then be joined to make new proteins. Intermediate products of glycolysis, the citric acid cycle, and the [[pentose phosphate pathway]] can be used to make all twenty amino acids, and most bacteria and plants possess all the necessary enzymes to synthesize them. Humans and other mammals, however, can synthesize only half of them. They cannot synthesize [[isoleucine]], [[leucine]], [[lysine]], [[methionine]], [[phenylalanine]], [[threonine]], [[tryptophan]], and valine. These are the [[essential amino acid]]s, since it is essential to ingest them. Mammals do possess the enzymes to synthesize [[alanine]], [[asparagine]], [[aspartate]], [[cysteine]], [[glutamate]], [[glutamine]], [[glycine]], [[proline]], [[serine]], and [[tyrosine]], the nonessential amino acids. While they can synthesize [[arginine]] and [[histidine]], they cannot produce it in sufficient amounts for young, growing animals, and so these are often considered essential amino acids.
+
+If the amino group is removed from an amino acid, it leaves behind a carbon skeleton called an α-[[keto acid]]. Enzymes called [[transaminase]]s can easily transfer the amino group from one amino acid (making it an α-keto acid) to another α-keto acid (making it an amino acid). This is important in the biosynthesis of amino acids, as for many of the pathways, intermediates from other biochemical pathways are converted to the α-keto acid skeleton, and then an amino group is added, often via [[transamination]]. The amino acids may then be linked together to make a protein.&lt;ref&gt;[[#Fromm|Fromm and Hargrove]] (2012), pp. 279–292.&lt;/ref&gt;
+
+A similar process is used to break down proteins. It is first hydrolyzed into its component amino acids. Free [[ammonia]] (NH&lt;sub&gt;3&lt;/sub&gt;), existing as the [[ammonium]] ion (NH&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;) in blood, is toxic to life forms. A suitable method for excreting it must therefore exist. Different tactics have evolved in different animals, depending on the animals' needs. [[Unicellular]] organisms, of course, simply release the ammonia into the environment. Likewise, [[osteichthyes|bony fish]] can release the ammonia into the water where it is quickly diluted. In general, mammals convert the ammonia into urea, via the [[urea cycle]].&lt;ref name="Sherwood 2012"&gt;[[#Sherwood|Sherwood]] (2012), p. 558.&lt;/ref&gt;
+
+In order to determine whether two proteins are related, or in other words to decide whether they are homologous or not, scientists use sequence-comparison methods. Methods like [[sequence alignment]]s and [[structural alignment]]s are powerful tools that help scientists identify [[Homology (biology)|homologies]] between related molecules.&lt;ref name="Fariselli 2007"&gt;[[#Fariselli|Fariselli]] (2007), pp. 78–87.&lt;/ref&gt;  The relevance of finding homologies among proteins goes beyond forming an evolutionary pattern of [[Protein family|protein families]]. By finding how similar two protein sequences are, we acquire knowledge about their structure and therefore their function.
+
+===Nucleic acids===
+{{Main article|Nucleic acid|DNA|RNA|Nucleotide}}
+[[File:0322 DNA Nucleotides.jpg|thumbnail|350px|left|The structure of [[deoxyribonucleic acid]] (DNA), the picture shows the monomers being put together.]]
+
+[[Nucleic acids]], so called because of their prevalence in cellular [[cell nucleus|nuclei]], is the generic name of the family of biopolymers. They are complex, high-molecular-weight biochemical macromolecules that can convey [[genetic information]] in all living cells and viruses.&lt;ref name="Voet_2005"/&gt; The monomers are called [[nucleotide]]s, and each consists of three components: a nitrogenous heterocyclic [[base (chemistry)|base]] (either a [[purine]] or a [[pyrimidine]]), a pentose sugar, and a [[phosphate]] group.&lt;ref&gt;[[#Saenger|Saenger]] (1984), p. 84.&lt;/ref&gt;
+
+[[File:Nucleotides 1.svg|thumb|center|500px|Structural elements of common nucleic acid constituents. Because they contain at least one phosphate group, the compounds marked ''nucleoside monophosphate'', ''nucleoside diphosphate'' and ''nucleoside triphosphate'' are all nucleotides (not simply phosphate-lacking [[nucleoside]]s).]]
+
+The most common nucleic acids are [[deoxyribonucleic acid]] (DNA) and [[ribonucleic acid]] (RNA).&lt;ref&gt;[[#Tropp|Tropp]] (2012), pp. 5–9.&lt;/ref&gt; The [[phosphate group]] and the sugar of each nucleotide bond with each other to form the backbone of the nucleic acid, while the sequence of nitrogenous bases stores the information. The most common nitrogenous bases are [[adenine]], [[cytosine]], [[guanine]], [[thymine]], and [[uracil]].  The [[nitrogenous base]]s of each strand of a nucleic acid will form [[hydrogen bonds]] with certain other nitrogenous bases in a complementary strand of nucleic acid (similar to a zipper). Adenine binds with thymine and uracil; thymine binds only with adenine; and cytosine and guanine can bind only with one another.
+
+Aside from the genetic material of the cell, nucleic acids often play a role as [[second messenger]]s, as well as forming the base molecule for [[adenosine triphosphate]] (ATP), the primary energy-carrier molecule found in all living organisms.&lt;ref&gt;[[#Knowles|Knowles]] (1980), pp. 877–919.&lt;/ref&gt; Also, the nitrogenous bases possible in the two nucleic acids are different: adenine, cytosine, and guanine occur in both RNA and DNA, while thymine occurs only in DNA and uracil occurs in RNA.
+
+==Metabolism==
+
+===Carbohydrates as energy source===
+{{Main article|Carbohydrate metabolism}}
+Glucose is the major energy source in most life forms. For instance, polysaccharides are broken down into their monomers ([[glycogen phosphorylase]] removes glucose residues from glycogen). Disaccharides like lactose or sucrose are cleaved into their two component monosaccharides.
+
+====Glycolysis (anaerobic)====
+{{Glycolysis summary}}
+Glucose is mainly metabolized by a very important ten-step [[Metabolic pathway|pathway]] called [[glycolysis]], the net result of which is to break down one molecule of glucose into two molecules of [[pyruvate]]. This also produces a net two molecules of [[Adenosine triphosphate|ATP]], the energy currency of cells, along with two reducing equivalents of converting [[Nicotinamide adenine dinucleotide|NAD&lt;sup&gt;+&lt;/sup&gt;]] (nicotinamide adenine dinucleotide: oxidised form) to NADH (nicotinamide adenine dinucleotide: reduced form). This does not require oxygen; if no oxygen is available (or the cell cannot use oxygen), the NAD is restored by converting the pyruvate to [[lactic acid|lactate (lactic acid)]] (e.g., in humans) or to [[ethanol]] plus carbon dioxide (e.g., in [[yeast]]). Other monosaccharides like galactose and fructose can be converted into intermediates of the glycolytic pathway.&lt;ref&gt;[[#Fromm|Fromm and Hargrove]] (2012), pp. 163–180.&lt;/ref&gt;
+
+====Aerobic====
+In [[aerobic glycolysis|aerobic]] cells with sufficient oxygen, as in most human cells, the pyruvate is further metabolized. It is irreversibly converted to [[acetyl-CoA]], giving off one carbon atom as the waste product [[carbon dioxide]], generating another reducing equivalent as [[NADH]]. The two molecules acetyl-CoA (from one molecule of glucose) then enter the [[citric acid cycle]], producing two more molecules of ATP, six more NADH molecules and two reduced (ubi)quinones (via [[FADH2|FADH&lt;sub&gt;2&lt;/sub&gt;]] as enzyme-bound cofactor), and releasing the remaining carbon atoms as carbon dioxide. The produced NADH and quinol molecules then feed into the enzyme complexes of the respiratory chain, an [[electron transport system]] transferring the electrons ultimately to oxygen and conserving the released energy in the form of a proton gradient over a membrane ([[inner mitochondrial membrane]] in eukaryotes). Thus, oxygen is reduced to water and the original electron acceptors NAD&lt;sup&gt;+&lt;/sup&gt; and [[quinone]] are regenerated. This is why humans breathe in oxygen and breathe out carbon dioxide. The energy released from transferring the electrons from high-energy states in NADH and quinol is conserved first as proton gradient and converted to ATP via ATP synthase. This generates an additional ''28'' molecules of ATP (24 from the 8 NADH + 4 from the 2 quinols), totaling to 32 molecules of ATP conserved per degraded glucose (two from glycolysis + two from the citrate cycle).&lt;ref&gt;[[#Voet|Voet]] (2005), Ch. 17 Glycolysis.&lt;/ref&gt; It is clear that using oxygen to completely oxidize glucose provides an organism with far more energy than any oxygen-independent metabolic feature, and this is thought to be the reason why complex life appeared only after Earth's atmosphere accumulated large amounts of oxygen.
+
+====Gluconeogenesis====
+{{Main article|Gluconeogenesis}}
+In [[vertebrate]]s, vigorously contracting [[skeletal muscle]]s (during weightlifting or sprinting, for example) do not receive enough oxygen to meet the energy demand, and so they shift to [[Fermentation (biochemistry)|anaerobic metabolism]], converting glucose to lactate. The [[liver]] regenerates the glucose, using a process called [[gluconeogenesis]]. This process is not quite the opposite of glycolysis, and actually requires three times the amount of energy gained from glycolysis (six molecules of ATP are used, compared to the two gained in glycolysis). Analogous to the above reactions, the glucose produced can then undergo glycolysis in tissues that need energy, be stored as glycogen (or [[starch]] in plants), or be converted to other monosaccharides or joined into di- or oligosaccharides. The combined pathways of glycolysis during exercise, lactate's crossing via the bloodstream to the liver, subsequent gluconeogenesis and release of glucose into the bloodstream is called the [[Cori cycle]].&lt;ref&gt;[[#Fromm|Fromm and Hargrove]] (2012), pp. 183–194.&lt;/ref&gt;
+
+==Relationship to other "molecular-scale" biological sciences==
+[[File:Schematic relationship between biochemistry, genetics and molecular biology.svg|thumb|250px|Schematic relationship between biochemistry, [[genetics]], and [[molecular biology]].]]
+
+Researchers in biochemistry use specific techniques native to biochemistry, but increasingly combine these with techniques and ideas developed in the fields of [[genetics]], [[molecular biology]] and [[biophysics]]. There has never been a hard-line among these disciplines in terms of content and technique. Today, the terms ''molecular biology'' and ''biochemistry'' are nearly interchangeable. The following figure is a schematic that depicts one possible view of the relationship between the fields:
+
+* ''Biochemistry'' is the study of the chemical substances and vital processes occurring in living [[organism]]s. [[Biochemist]]s focus heavily on the role, function, and structure of [[biomolecule]]s. The study of the chemistry behind biological processes and the synthesis of biologically active molecules are examples of biochemistry.
+* ''Genetics'' is the study of the effect of genetic differences on organisms. Often this can be inferred by the absence of a normal component (e.g., one [[gene]]), in the study of "[[mutant]]s" &amp;ndash; organisms with a changed gene that leads to the organism being different with respect to the so-called "[[wild type]]" or normal [[phenotype]]. [[Genetic interactions]] ([[epistasis]]) can often confound simple interpretations of such "knock-out" or "knock-in" studies.
+* ''Molecular biology'' is the study of molecular underpinnings of the process of [[DNA replication|replication]], [[Transcription (genetics)|transcription]] and [[Translation (biology)|translation]] of the [[genetic material]]. The [[central dogma of molecular biology]] where genetic material is transcribed into RNA and then translated into protein, despite being an oversimplified picture of molecular biology, still provides a good starting point for understanding the field. This picture, however, is undergoing revision in light of emerging novel roles for [[RNA]].&lt;ref name="Ulveling 2011"&gt;[[#Ulveling|Ulveling]] (2011), pp. 633–644.&lt;/ref&gt;
+* ''[[Chemical biology]]'' seeks to develop new tools based on [[small molecule]]s that allow minimal perturbation of biological systems while providing detailed information about their function. Further, chemical biology employs biological systems to create non-natural hybrids between biomolecules and synthetic devices (for example emptied [[viral capsid]]s that can deliver [[gene therapy]] or [[Pharmaceutical drug|drug molecules]]).&lt;ref&gt;[[#Rojas|Rojas-Ruiz]] (2011), pp. 2672–2687.&lt;/ref&gt;
+
+== See also==
+{{Wikipedia books|Biochemistry: An introduction}}
+{{Main article|Outline of biochemistry}}
+
+=== Lists ===
+{{colbegin|3}}
+* [[List of important publications in chemistry#Biochemistry|Important publications in biochemistry (chemistry)]]
+* [[List of biochemistry topics]]
+* [[List of biochemists]]
+* [[List of biomolecules]]
+{{colend}}
+
+=== See also ===
+{{colbegin|3}}
+* [[Biochemistry (journal)]]
+* [[Biological Chemistry (journal)]]
+* [[Biophysics]]
+* [[Chemical ecology]]
+* [[Computational biomodeling]]
+* [[Enzyme Commission number|EC number]]
+* [[Hypothetical types of biochemistry]]
+* [[International Union of Biochemistry and Molecular Biology]]
+* [[Metabolome]]
+* [[Metabolomics]]
+* [[Molecular biology]]
+* [[Molecular medicine]]
+* [[Plant biochemistry]]
+* [[Proteolysis]]
+* [[Small molecule]]
+* [[Structural biology]]
+* [[TCA cycle]]
+
+{{colend}}
+
+==Notes==
+{{refbegin}}
+'''a.''' {{Note label|a|a|none}} Fructose is not the only sugar found in fruits. Glucose and sucrose are also found in varying quantities in various fruits, and indeed sometimes exceed the fructose present. For example, 32% of the edible portion of date is glucose, compared with 23.70% fructose and 8.20% sucrose. However, peaches contain more sucrose (6.66%) than they do fructose (0.93%) or glucose (1.47%).&lt;ref name=Whiting1970p5&gt;[[#Whiting|Whiting]], G.C. (1970), p. 5.&lt;/ref&gt;
+{{refend}}
+
+==References==
+{{Reflist|20em}}
+
+=== Cited literature ===
+{{refbegin|2}}
+
+* {{cite book |ref=Amsler |author = Amsler, Mark |url=https://books.google.com/books?id=I-X-ijtoD9QC&amp;pg=PA55#v=onepage&amp;q&amp;f=false |title=The Languages of Creativity: Models, Problem-solving, Discourse |publisher=University of Delaware Press |year= 1986 |isbn=978-0874132809 }}
+* {{cite journal |ref=Astbury
+| last = Astbury
+| first = W.T.
+| year = 1961
+| title = Molecular Biology or Ultrastructural Biology?
+| journal = Nature
+| volume = 190
+| issue = 4781
+|page=1124
+| pmid = 13684868
+| doi = 10.1038/1901124a0
+| url = http://www.nature.com/nature/journal/v190/n4781/pdf/1901124a0.pdf
+| format = PDF
+| accessdate = 2016-01-04
+}}
+
+* {{cite book |ref=Ben |author=Ben-Menahem, Ari |title=Historical Encyclopedia of Natural and Mathematical Sciences |url=https://books.google.com/books?id=9tUrarQYhKMC&amp;pg=PA2982 |year=2009 |publisher=Springer |isbn=978-3-540-68831-0 |page=2982}}
+* {{cite book |ref=Burton |author = Burton, Feldman |url=https://books.google.com/books?id=xnckeeTICn0C&amp;pg=PA206#v=onepage&amp;q&amp;f=false |title = The Nobel Prize: A History of Genius, Controversy, and Prestige |publisher = Arcade Publishing |year = 2001 |isbn = 978-1559705929 }}
+* {{cite book |ref=Butler |author=Butler, John M. |title=Fundamentals of Forensic DNA Typing |url=https://books.google.com/books?id=-OZeEmqzE4oC&amp;pg=PA5 |year=2009 |publisher=Academic Press |isbn=978-0-08-096176-7}}
+* {{cite journal |ref=Chandan |author1 = Chandan, Sen K. |author2 = Sashwati Roy |title=miRNA: Licensed to kill the messenger |journal=DNA Cell Biology |year=2007 |volume=26 |issue=4 |pmid=17465885 |doi=10.1089/dna.2006.0567}}
+* {{cite journal |ref=Clarence |author=Clarence, Peter Berg |title =The University of Iowa and Biochemistry from Their Beginnings|url=https://books.google.com/books?id=XwQhAQAAIAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false |year=1980 |isbn= 9780874140149 }}
+* {{Cite journal |ref=Edwards |author1 = Edwards K.J. |author2 = Brown D.G. |author3 = Spink, N. |author4 = Skelly J.V. |author5 = Neidle S. |title = Molecular structure of the B-DNA dodecamer d(CGCAAATTTGCG)2. An examination of propeller twist and minor-groove water structure at 2.2 A resolution |journal = J.Mol.Biol. |year= 1992 |volume = 226 |pmid = 1518049|pages=1161–1173}}
+* {{cite book |ref=Eldra |author1 = Eldra P. Solomon |author2 = Linda R. Berg |author3 = Diana W. Martin |title = Biology, 8th Edition, International Student Edition |publisher = Thomson Brooks/Cole |isbn = 978-0495317142 |url = http://www.slideshare.net/nicolledb05/biology-solomon-berg-martin-8th-edition | year = 2007}}
+* {{cite journal |ref=Fariselli |author1=Fariselli, Piero |author2 = Rossi, Ivan |author3 = Capriotti, Emidio |author4 = Casadio, Rita |title=The WWWH of remote homolog detection: the state of the art |journal=Briefings in Bioinformatics |year=2007 |volume=8 |issue=2 |pmid=17003074 |doi=10.1093/bib/bbl032 |url = http://bib.oxfordjournals.org/content/8/2/78.full }} {{open access}}
+* {{cite book |ref=Fiske |last1 = Fiske |first1=John |title=Outlines of Cosmic Philosophy Based on the Doctrines of Evolution, with Criticisms on the Positive Philosophy, Volume 1|date=1890 |publisher=Houghton, Mifflin |location=Boston and New York |url=https://books.google.com/books?id=bTgmlJNazxkC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false |accessdate=16 February 2015}}
+* {{Cite book |ref=Finkel | last1 = Finkel | first1=Richard | last2=Cubeddu | first2=Luigi | last3=Clark | first3=Michelle | year=2009 | title=Lippincott's Illustrated Reviews: Pharmacology |edition = 4th | publisher=Lippincott Williams &amp; Wilkins | isbn=978-0-7817-7155-9 |url = https://books.google.com/books/about/Pharmacology.html?id=Q4hG2gRhy7oC }}
+* {{cite book |ref=Krebs |author1=Krebs, Jocelyn E. |author2 = Goldstein, Elliott S. |author3 = Lewin, Benjamin |author4 = Kilpatrick, Stephen T. |title=Essential Genes |url=https://books.google.com/books?id=FzBs_QgihRIC&amp;pg=PA32 |year=2012 |publisher=Jones &amp; Bartlett Publishers |isbn=978-1-4496-1265-8}}
+* {{cite book |ref=Fromm |author1 = Fromm, Herbert J. |author2 = Hargrove, Mark |title=Essentials of Biochemistry |year=2012 |publisher=Springer |isbn=978-3-642-19623-2 |url = https://books.google.com/books?q=editions:ISBN3642196241&amp;id=2eXILOD0Yl8C}}
+* {{cite book |ref=Hamblin |author = Hamblin, Jacob Darwin |url=https://books.google.com/books?id=mpiZRAiE0JwC&amp;pg=PA26#v=onepage&amp;q&amp;f=false |title=Science in the Early Twentieth Century: An Encyclopedia |publisher=ABC-CLIO |year = 2005 |isbn=978-1-85109-665-7 }}
+* {{cite book |ref=Helvoort |author = Helvoort, Ton van |url=https://books.google.com/books?id=fjhdAgAAQBAJ&amp;pg=PA81#v=onepage&amp;q&amp;f=false |title=Reader's Guide to the History of Science |editor= Arne Hessenbruch |publisher=Fitzroy Dearborn Publishing |year=2000 |isbn = 188496429X}}
+* {{cite book |ref=Holmes |author = Holmes, Frederic Lawrence |url=https://books.google.com/books?id=MLY-x9a393QC&amp;pg=PR15&amp;lpg=PR15#v=onepage&amp;q&amp;f=false |title=Lavoisier and the Chemistry of Life: An Exploration of Scientific Creativity |publisher=University of Wisconsin Press |year= 1987 |isbn=978-0299099848 }}
+* {{cite book |ref=Horton |editor = Horton, Derek |url=https://books.google.com/books?id=JQluAAAAQBAJ&amp;pg=PA36#v=onepage&amp;q&amp;f=false |title=Advances in Carbohydrate Chemistry and Biochemistry, Volume 70 |publisher=Academic Press |date=28 November 2013 |asin=B00H7E78BG }} 
+* {{cite book |ref=Hunter |author = Hunter, Graeme K. |title=Vital Forces: The Discovery of the Molecular Basis of Life |year=2000 |publisher=Academic Press |isbn=978-0-12-361811-5 |url = https://books.google.com/books/about/Vital_Forces.html?id=VdHV5ET4usoC}}
+* {{cite book |ref=Karp |author = Karp, Gerald |title=Cell and Molecular Biology: Concepts and Experiments|date=19 October 2009|publisher=John Wiley &amp; Sons |language= |isbn = 9780470483374| url = https://books.google.com/books?id=arRGYE0GxRQC }}
+* {{cite journal |ref=Kauffman |author1=Kauffman, G.B. |author2 = Chooljian, S.H. |title=Friedrich Wöhler (1800–1882), on the bicentennial of his birth |journal=The Chemical Educator |year=2001 |volume=6 |issue=2 |doi=10.1007/s00897010444a |url = http://link.springer.com/article/10.1007%2Fs00897010444a#page-1}}
+* {{cite book |ref=Kleinkauf |author1= Kleinkauf, Horst |author2 = Döhren, Hans von |author3 = Jaenicke Lothar |url=https://books.google.com/books?id=tuzwshIlng4C&amp;pg=PA116#v=onepage&amp;q&amp;f=false |title=The Roots of Modern Biochemistry: Fritz Lippmann's Squiggle and its Consequences |page=116 |publisher=Walter de Gruyter &amp; Co|year= 1988 |isbn=9783110852455 }}
+* {{cite journal |ref=Knowles |author=Knowles JR |title=Enzyme-catalyzed phosphoryl transfer reactions |journal=Annu. Rev. Biochem. |volume=49 |pages=877–919 |year=1980 |pmid=6250450 | doi=10.1146/annurev.bi.49.070180.004305}}
+* {{cite book |ref=Metzler |author1=Metzler, David Everett |author2 = Metzler, Carol M. |title=Biochemistry: The Chemical Reactions of Living Cells |volume=1 |url=https://books.google.com/books?id=1R_a_D6SSJEC&amp;pg=PA58 |year=2001 |publisher=Academic Press |isbn=978-0-12-492540-3 }}
+* {{cite book |ref=Miller |author1 = Miller G |author2 = Spoolman Scott |title=Environmental Science - Biodiversity Is a Crucial Part of the Earth's Natural Capital |url=https://books.google.com/books?id=NYEJAAAAQBAJ&amp;pg=PA62 |date=2012 |publisher=[[Cengage Learning]] |isbn=1-133-70787-4 |accessdate=2016-01-04 }}
+* {{cite book |ref=Nielsen |author = Nielsen, Forrest H. |title = Ultratrace minerals; Modern nutrition in health and disease |editors = Maurice E. Shils ... et al.. |location = Baltimore |publisher = Williams &amp; Wilkins |year = 1999 |pages = 283–303 |url = http://hdl.handle.net/10113/46493 }}
+* {{cite book |ref=Peet |author1 = Peet, Alisa |editor1 = Marks, Allan |editor2 = Lieberman Michael A. |title = Marks' Basic Medical Biochemistry (Lieberman, Marks's Basic Medical Biochemistry) |edition = 4th |isbn = 160831572X | url = https://books.google.com/books/about/Marks_Basic_Medical_Biochemistry.html?id=HHK7S7t47BEC | year = 2012}}
+* {{cite book |ref=Rayner |author1 = Rayner-Canham, Marelene F. |author2 = Rayner-Canham, Marelene |author3 = Rayner-Canham, Geoffrey |url= https://books.google.com/books?id=S_NJ7AubQIcC&amp;pg=PA136#v=onepage&amp;q&amp;f=false |title=Women in Chemistry: Their Changing Roles from Alchemical Times to the Mid-Twentieth Century |publisher = Chemical Heritage Foundation |year = 2005 |isbn = 978-0941901277 }}
+* {{cite journal|ref=Rojas |author1=Rojas-Ruiz, Fernando A |author2 = Vargas-Méndez, Leonor |author3 = Kouznetsov, Vladimir V |title=Challenges and Perspectives of Chemical Biology, a Successful Multidisciplinary Field of Natural Sciences |journal=Molecules |date=2011 |volume=16 |pages=2672–2687 |doi=10.3390/molecules16032672 |issn=1420-3049 |url=https://www.mdpi.com/1420-3049/16/3/2672/pdf |deadurl=yes |archiveurl=https://web.archive.org/web/20151205213931/http://www.mdpi.com/1420-3049/16/3/2672/pdf |archivedate=December 5, 2015 }}
+* {{cite book |ref=Saenger |last = Saenger | first = Wolfram | title = Principles of Nucleic Acid Structure | publisher = Springer-Verlag | location = New York | year = 1984 | isbn = 0-387-90762-9 |url = https://books.google.com/books/about/Principles_of_nucleic_acid_structure.html?id=0R3wAAAAMAAJ }}
+* {{cite book |ref=Slabaugh |author1 = Slabaugh, Michael R. |author2 = Seager, Spencer L. |title=Organic and Biochemistry for Today |publisher=Brooks Cole |location=Pacific Grove |year=2013 |isbn = 1133605141 |edition=6th |url = https://books.google.com/books/about/Organic_and_Biochemistry_for_Today.html?id=K-MBTrn3ZDQC }}
+* {{cite book |ref=Sherwood |author1 = Sherwood, Lauralee |author2 = Klandorf, Hillar |author3 = Yancey, Paul H. |title=Animal Physiology: From Genes to Organisms |url=https://books.google.com/books?id=I6X8G8YPdv4C&amp;pg=PA558 |year=2012 |publisher=Cengage Learning |isbn=978-0-8400-6865-1}}
+* {{cite book |ref=Stryer |vauthors=Stryer L, Berg JM, Tymoczko JL|title=Biochemistry |publisher=W.H. Freeman |location=San Francisco |edition=6th |year=2007 |isbn=978-0-7167-8724-2 |url = https://books.google.com/books/about/Biochemistry.html?id=Uhm_ngEACAAJ}}
+* {{cite book |ref=Tropp |author = Tropp, Burton E. |title=Molecular Biology |edition=4th |year=2012 |publisher=Jones &amp; Bartlett Learning |isbn=978-1-4496-0091-4 |url = https://books.google.com/books/about/Molecular_Biology.html?id=CCQYtlufUIAC }}
+* {{cite book |ref=UNICEF |author = UNICEF |title=Facts for life|date=2010|publisher=United Nations Children's Fund |location=New York |isbn=978-92-806-4466-1 |edition=4th |url=http://www.unicef.org/nutrition/files/Facts_for_Life_EN_010810.pdf}}
+* {{cite journal |ref=Ulveling |author1=Ulveling, Damien |author2 = Francastel, Claire |author3 = Hubé, Florent |title=When one is better than two: RNA with dual functions |journal=Biochimie |year=2011 |volume=93 |issue=4 |doi=10.1016/j.biochi.2010.11.004 |pmid=21111023 | url = https://www.researchgate.net/publication/49638925_When_one_is_better_than_two_RNA_with_dual_functions}}
+* {{cite book |ref=Varki |vauthors = Varki A, Cummings R, Esko J, Jessica F, Hart G, Marth J | title=Essentials of glycobiology | publisher=Cold Spring Harbor Laboratory Press | year=1999 | isbn=0-87969-560-9 |url=https://books.google.com/books/about/Essentials_of_Glycobiology.html?id=lH72FFWIIpgC | work=Essentials of glycobiology}}
+* {{cite book|ref=Voet |author1=Voet, D |author2=Voet, JG |year=2005 |title=Biochemistry |edition=3rd |publisher=John Wiley &amp; Sons Inc. |location=Hoboken, NJ |url=http://www.chem.upenn.edu/chem/research/faculty.php?browse=V |isbn=9780471193500 |doi= |deadurl=yes |archiveurl=https://web.archive.org/web/20070911065858/http://www.chem.upenn.edu/chem/research/faculty.php?browse=V |archivedate=September 11, 2007 |df= }}
+* {{Cite book |ref=Whiting |author = Whiting, G.C |year=1970 |chapter=Sugars |editor=A.C. Hulme |title=The Biochemistry of Fruits and their Products  |volume=Volume 1|place=London &amp; New York |publisher=Academic Press |postscript= |url = https://books.google.com/books/about/The_biochemistry_of_fruits_and_their_pro.html?id=KYDwAAAAMAAJ |isbn = 0123612012}}
+* {{cite book |ref=Ziesak |author1 = Ziesak, Anne-Katrin |author2 = Cram Hans-Robert |url= https://books.google.com/books?id=ulN4rKWA8c4C&amp;pg=PA169#v=onepage&amp;q&amp;f=false |title= Walter de Gruyter Publishers, 1749-1999|publisher=Walter de Gruyter &amp; Co |date=18 October 1999|isbn=978-3110167412 }}
+
+{{refend}}
+
+== Further reading ==
+{{refbegin|2}}
+* Keith Roberts, Martin Raff, Bruce Alberts, Peter Walter, Julian Lewis and Alexander Johnson, ''Molecular Biology of the Cell''
+**4th Edition, Routledge, March, 2002, hardcover, 1616 pages, 7.6 pounds, {{ISBN|0-8153-3218-1}}
+**3rd Edition, Garland, 1994, {{ISBN|0-8153-1620-8}}
+**2nd Edition, Garland, 1989, {{ISBN|0-8240-3695-6}}
+* Fruton, Joseph S.  ''Proteins, Enzymes, Genes: The Interplay of Chemistry and Biology''.  Yale University Press: New Haven, 1999.  {{ISBN|0-300-07608-8}}
+* Kohler, Robert.  ''From Medical Chemistry to Biochemistry: The Making of a Biomedical Discipline''. Cambridge University Press, 1982.
+
+{{refend}}
+
+== External links ==
+{{wikibooks}}
+{{commons category|Biochemistry}}
+{{WVD}}
+* {{cite web |url= http://www.biochemistry.org/ |title = Biochemical Society}}
+* [http://www.biochemweb.net/ The Virtual Library of Biochemistry, Molecular Biology and Cell Biology]
+* [http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC&amp;rid=stryer.TOC&amp;depth=2 Biochemistry, 5th ed.] Full text of Berg, Tymoczko, and Stryer, courtesy of [[National Center for Biotechnology Information|NCBI]].
+* [http://www.systemsX.ch/ SystemsX.ch - The Swiss Initiative in Systems Biology]
+* [http://biochem.science.oregonstate.edu/content/biochemistry-free-and-easy Full text of Biochemistry] by Kevin and Indira, an introductory biochemistry textbook.
+
+{{Branches of biology}}
+{{BranchesofChemistry}}
+{{Portal bar |Molecular and Cellular Biology |Biology |Chemistry |border=no}}
+{{Authority control}}
+
+[[Category:Biochemistry| ]]
+[[Category:Biotechnology]]
+[[Category:Molecular biology]]</text>
+      <sha1>rfxs2e6tpucz3q4p4lm1dji0zb0m11p</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <page>
+    <title>Restriction enzyme</title>
+    <ns>0</ns>
+    <id>26194</id>
+    <revision>
+      <id>794890397</id>
+      <parentid>794867893</parentid>
+      <timestamp>2017-08-10T17:18:38Z</timestamp>
+      <contributor>
+        <username>Hzh</username>
+        <id>4385147</id>
+      </contributor>
+      <comment>Undid revision 794867893 by [[Special:Contributions/2405:204:D18D:5A75:1491:B64E:2F02:5DF7]] error</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Restriction enzyme glossary}}
+A '''restriction enzyme''' or '''restriction [[endonuclease]]''' is an [[enzyme]] that cleaves DNA into fragments at or near specific recognition sites within the molecule known as [[restriction sites]].&lt;ref name="pmid795607"&gt;{{cite journal | vauthors = Roberts RJ | title = Restriction endonucleases | journal = CRC Critical Reviews in Biochemistry | volume = 4 | issue = 2 | pages = 123–64 | date = Nov 1976 | pmid = 795607 | doi = 10.3109/10409237609105456 }}&lt;/ref&gt;&lt;ref name="pmid2172084"&gt;{{cite journal | vauthors = Kessler C, Manta V | title = Specificity of restriction endonucleases and DNA modification methyltransferases a review (Edition 3) | journal = Gene | volume = 92 | issue = 1–2 | pages = 1–248 | date = Aug 1990 | pmid = 2172084 | doi = 10.1016/0378-1119(90)90486-B }}&lt;/ref&gt;&lt;ref name="isbn0-89603-234-5"&gt;{{cite book |vauthors=Pingoud A, Alves J, Geiger R | editor = Burrell M | title = Enzymes of Molecular Biology | edition = | publisher = Humana Press | location = Totowa, NJ | series= Methods of Molecular Biology | volume= 16 | year = 1993 | pages = 107–200 | chapter = Chapter 8: Restriction Enzymes | quote = | isbn = 0-89603-234-5}}&lt;/ref&gt; Restriction enzymes are commonly classified into four types, which differ in their structure and whether they cut their DNA [[Enzyme substrate (biology)|substrate]] at their recognition site, or if the recognition and cleavage sites are separate from one another. To cut DNA, all restriction enzymes make two incisions, once through each [[backbone chain|sugar-phosphate backbone]] (i.e. each strand) of the DNA double helix.
+
+These enzymes are found in [[bacteria]] and [[archaea]] and provide a defense mechanism against invading [[virus]]es.&lt;ref name="pmid4897066"&gt;{{cite journal | vauthors = Arber W, Linn S | title = DNA modification and restriction | journal = Annual Review of Biochemistry | volume = 38 | issue =  | pages = 467–500 | year = 1969 | pmid = 4897066 | doi = 10.1146/annurev.bi.38.070169.002343 }}&lt;/ref&gt;&lt;ref name="pmid6314109"&gt;{{cite journal | vauthors = Krüger DH, Bickle TA | title = Bacteriophage survival: multiple mechanisms for avoiding the deoxyribonucleic acid restriction systems of their hosts | journal = Microbiological Reviews | volume = 47 | issue = 3 | pages = 345–60 | date = Sep 1983 | pmid = 6314109 | pmc = 281580 }}&lt;/ref&gt; Inside a [[prokaryote]], the restriction enzymes selectively cut up ''foreign'' DNA in a process called ''restriction''; meanwhile, host DNA is protected by a modification enzyme (a [[methyltransferase]]) that [[DNA methylation|modifies]] the prokaryotic DNA and blocks cleavage. Together, these two processes form the [[restriction modification system]].&lt;ref name="pmid11557807"&gt;{{cite journal | vauthors = Kobayashi I | title = Behavior of restriction-modification systems as selfish mobile elements and their impact on genome evolution | journal = Nucleic Acids Research | volume = 29 | issue = 18 | pages = 3742–56 | date = Sep 2001 | pmid = 11557807 | pmc = 55917 | doi = 10.1093/nar/29.18.3742 }}&lt;/ref&gt;
+
+Over 3000 restriction enzymes have been studied in detail, and more than 600 of these are available commercially.&lt;ref name="pmid17202163"&gt;{{cite journal | vauthors = Roberts RJ, Vincze T, Posfai J, Macelis D | title = REBASE--enzymes and genes for DNA restriction and modification | journal = Nucleic Acids Research | volume = 35 | issue = Database issue | pages = D269–70 | date = Jan 2007 | pmid = 17202163 | pmc = 1899104 | doi = 10.1093/nar/gkl891 }}&lt;/ref&gt; These enzymes are routinely used for DNA modification in laboratories, and they are a vital tool in [[molecular cloning]].&lt;ref name="isbn0-632-03712-1"&gt;{{cite book |vauthors=Primrose SB, Old RW | title = Principles of gene manipulation: an introduction to genetic engineering | edition = | publisher = Blackwell Scientific | location = Oxford | year = 1994 | origyear = | pages = | quote = | isbn = 0-632-03712-1}}&lt;/ref&gt;&lt;ref name="isbn0-8053-3040-2"&gt;{{cite book |vauthors=Micklos DA, Bloom MV, Freyer GA | title = Laboratory DNA science: an introduction to recombinant DNA techniques and methods of genome analysis |publisher = Benjamin/Cummings Pub. Co | location = Menlo Park, Calif | year = 1996 | isbn = 0-8053-3040-2}}&lt;/ref&gt;&lt;ref name="isbn1-55581-176-0"&gt;{{cite book |vauthors=Massey A, Kreuzer H | title = Recombinant DNA and Biotechnology: A Guide for Students | publisher = ASM Press | location = Washington, D.C | year = 2001 | isbn = 1-55581-176-0}}&lt;/ref&gt;
+
+== History ==
+The term restriction enzyme originated from the studies of [[lambda phage|phage λ]], a virus that infects bacteria, and the phenomenon of host-controlled restriction and modification of such bacterial phage or [[bacteriophage]].&lt;ref&gt;{{cite book |title=From Genes to Clones | author = Winnacker E-L|publisher=VCH |year=1987 |chapter= Chapter 2: Isolation, Identification, and Characterisation of DNA fragments |isbn=0-89573-614-4}}&lt;/ref&gt; The phenomenon was first identified in work done in the laboratories of [[Salvador Luria]] and Giuseppe Bertani in the early 1950s.&lt;ref name="Luria_Human_1952"&gt;{{cite journal | vauthors = Luria SE, Human ML | title = A nonhereditary, host-induced variation of bacterial viruses | journal = Journal of Bacteriology | volume = 64 | issue = 4 | pages = 557–69 | date = Oct 1952 | pmid = 12999684 | pmc = 169391 }}&lt;/ref&gt;&lt;ref name="pmid13034700"&gt;{{cite journal | vauthors = Bertani G, Weigle JJ | title = Host controlled variation in bacterial viruses | journal = Journal of Bacteriology | volume = 65 | issue = 2 | pages = 113–21 | date = Feb 1953 | pmid = 13034700 | pmc = 169650 }}&lt;/ref&gt;  It was found that, for a bacteriophage λ that can grow well in one strain of ''Escherichia coli'', for example ''E. coli'' C, when grown in another strain, for example ''E. coli'' K, its yields can drop significantly, by as much as 3-5 orders of magnitude. The host cell, in this example ''E. coli'' K, is known as the restricting host and appears to have the ability to reduce the biological activity of the phage λ. If a phage becomes established in one strain, the ability of that phage to grow also becomes restricted in other strains. In the 1960s, it was shown in work done in the laboratories of [[Werner Arber]] and [[Matthew Meselson]] that the restriction is caused by an enzymatic cleavage of the phage DNA, and the enzyme involved was therefore termed a restriction enzyme.&lt;ref name="pmid4897066" /&gt;&lt;ref name="pmid4868368"&gt;{{cite journal | vauthors = Meselson M, Yuan R | title = DNA restriction enzyme from E. coli | journal = Nature | volume = 217 | issue = 5134 | pages = 1110–4 | date = Mar 1968 | pmid = 4868368 | doi = 10.1038/2171110a0 | bibcode = 1968Natur.217.1110M }}&lt;/ref&gt;&lt;ref name="pmid13888713"&gt;{{cite journal | vauthors = Dussoix D, Arber W | title = Host specificity of DNA produced by Escherichia coli. II. Control over acceptance of DNA from infecting phage lambda | journal = Journal of Molecular Biology | volume = 5 | issue = 1 | pages = 37–49 | date = Jul 1962 | pmid = 13888713 | doi = 10.1016/S0022-2836(62)80059-X }}&lt;/ref&gt;&lt;ref name="pmid14187389"&gt;{{cite journal | vauthors = Lederberg S, Meselson M | title = Degradation of non-replicating bacteriophage dna in non-accepting cells | journal = Journal of Molecular Biology | volume = 8 | issue = 5 | pages = 623–8 | date = May 1964 | pmid = 14187389 | doi = 10.1016/S0022-2836(64)80112-1 }}&lt;/ref&gt;
+
+The restriction enzymes studied by Arber and Meselson were type I restriction enzymes, which cleave DNA randomly away from the recognition site.&lt;ref name="pmid15840723"&gt;{{cite journal | vauthors = Roberts RJ | title = How restriction enzymes became the workhorses of molecular biology | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 102 | issue = 17 | pages = 5905–8 | date = Apr 2005 | pmid = 15840723 | pmc = 1087929 | doi = 10.1073/pnas.0500923102 | bibcode = 2005PNAS..102.5905R }}&lt;/ref&gt; In 1970, [[Hamilton O. Smith]], [[Thomas J. Kelly (scientist)|Thomas Kelly]] and Kent Wilcox isolated and characterized the first type II restriction enzyme, [[HindII|''Hin''dII]], from the bacterium ''[[Haemophilus influenzae]]''.&lt;ref name="pmid5312500"&gt;{{cite journal | vauthors = Smith HO, Wilcox KW | title = A restriction enzyme from Hemophilus influenzae. I. Purification and general properties | journal = Journal of Molecular Biology | volume = 51 | issue = 2 | pages = 379–91 | date = Jul 1970 | pmid = 5312500 | doi = 10.1016/0022-2836(70)90149-X }}&lt;/ref&gt;&lt;ref name="pmid5312501"&gt;{{cite journal | vauthors = Kelly TJ, Smith HO | title = A restriction enzyme from Hemophilus influenzae. II | journal = Journal of Molecular Biology | volume = 51 | issue = 2 | pages = 393–409 | date = Jul 1970 | pmid = 5312501 | doi = 10.1016/0022-2836(70)90150-6 }}&lt;/ref&gt; Restriction enzymes of this type are more useful for laboratory work as they cleave DNA at the site of their recognition sequence. Later, [[Daniel Nathans]] and Kathleen Danna showed that cleavage of [[simian virus 40]] (SV40) DNA by restriction enzymes yields specific fragments that can be separated using [[polyacrylamide gel electrophoresis]], thus showing that restriction enzymes can also be used for mapping DNA.&lt;ref name="pmid4332003"&gt;{{cite journal | vauthors = Danna K, Nathans D | title = Specific cleavage of simian virus 40 DNA by restriction endonuclease of Hemophilus influenzae | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 68 | issue = 12 | pages = 2913–7 | date = Dec 1971 | pmid = 4332003 | pmc = 389558 | doi = 10.1073/pnas.68.12.2913 | bibcode = 1971PNAS...68.2913D }}&lt;/ref&gt; For their work in the discovery and characterization of restriction enzymes, the 1978 [[Nobel Prize for Physiology or Medicine]] was awarded to [[Werner Arber]], [[Daniel Nathans]], and [[Hamilton O. Smith]].&lt;ref name="urlMedicine 1978"&gt;{{cite web | url = http://nobelprize.org/nobel_prizes/medicine/laureates/1978/ | title = The Nobel Prize in Physiology or Medicine | year = 1978 | publisher = The Nobel Foundation | pages = | quote = for the discovery of restriction enzymes and their application to problems of molecular genetics | accessdate = 2008-06-07}}&lt;/ref&gt; The discovery of restriction enzymes allows DNA to be manipulated, leading to the development of [[recombinant DNA]] technology that has many applications, for example, allowing the large scale production of proteins such as human [[insulin]] used by [[diabetes|diabetics]].&lt;ref name="Luria_Human_1952"/&gt;&lt;ref name="pmid358198"&gt;{{cite journal | vauthors = Villa-Komaroff L, Efstratiadis A, Broome S, Lomedico P, Tizard R, Naber SP, Chick WL, Gilbert W | title = A bacterial clone synthesizing proinsulin | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 75 | issue = 8 | pages = 3727–31 | date = Aug 1978 | pmid = 358198 | pmc = 392859 | doi = 10.1073/pnas.75.8.3727 | bibcode = 1978PNAS...75.3727V }}&lt;/ref&gt;
+
+==Origins==
+Restriction enzymes likely evolved from a common ancestor and became widespread via [[horizontal gene transfer]].&lt;ref name="Jeltsch_1995"&gt;{{cite journal | vauthors = Jeltsch A, Kröger M, Pingoud A | title = Evidence for an evolutionary relationship among type-II restriction endonucleases | journal = Gene | volume = 160 | issue = 1 | pages = 7–16 | date = Jul 1995 | pmid = 7628720 | doi = 10.1016/0378-1119(95)00181-5 }}&lt;/ref&gt;&lt;ref name="Jeltsch_1996"&gt;{{cite journal | vauthors = Jeltsch A, Pingoud A | title = Horizontal gene transfer contributes to the wide distribution and evolution of type II restriction-modification systems | journal = Journal of Molecular Evolution | volume = 42 | issue = 2 | pages = 91–6 | date = Feb 1996 | pmid = 8919860 | doi = 10.1007/BF02198833 }}&lt;/ref&gt; In addition, there is mounting evidence that restriction endonucleases evolved as a [[Selfish DNA|selfish]] genetic element.&lt;ref name="Naito_1995"&gt;{{cite journal | vauthors = Naito T, Kusano K, Kobayashi I | title = Selfish behavior of restriction-modification systems | journal = Science | volume = 267 | issue = 5199 | pages = 897–9 | date = Feb 1995 | pmid = 7846533 | doi = 10.1126/science.7846533 | bibcode = 1995Sci...267..897N }}&lt;/ref&gt;
+
+== Recognition site ==
+[[File:EcoRV Restriction Site.rsh.svg|thumb|right|A palindromic recognition site reads the same on the reverse strand as it does on the forward strand when both are read in the same orientation]]
+Restriction enzymes recognize a specific sequence of nucleotides&lt;ref name="pmid2172084"/&gt; and produce a double-stranded cut in the DNA. The recognition sequences can also be classified by the number of bases in its recognition site, usually between 4 and 8 bases, and the amount of bases in the sequence will determine how often the site will appear by chance in any given genome, e.g., a 4-base pair sequence would theoretically occur once every 4^4 or 256bp, 6 bases, 4^6 or 4,096bp, and 8 bases would be 4^8 or 65,536bp.&lt;ref name="http://bioweb.uwlax.edu/genweb/molecular/seq_anal/restriction_map/restriction_map.htm"&gt;[http://bioweb.uwlax.edu/genweb/molecular/seq_anal/restriction_map/restriction_map.htm Restriction Map&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; Many of them are [[Palindromic sequence|palindromic]], meaning the base sequence reads the same backwards and forwards.&lt;ref name="pmid11557805"&gt;{{cite journal | vauthors = Pingoud A, Jeltsch A | title = Structure and function of type II restriction endonucleases | journal = Nucleic Acids Research | volume = 29 | issue = 18 | pages = 3705–27 | date = Sep 2001 | pmid = 11557805 | pmc = 55916 | doi = 10.1093/nar/29.18.3705 }}&lt;/ref&gt; In theory, there are two types of palindromic sequences that can be possible in DNA. The ''mirror-like'' palindrome is similar to those found in ordinary text, in which a sequence reads the same forward and backward on a single strand of DNA, as in GTAATG. The ''inverted repeat'' palindrome is also a sequence that reads the same forward and backward, but the forward and backward sequences are found in complementary DNA strands (i.e., of double-stranded DNA), as in GTATAC (GTATAC being [[Complementarity (molecular biology)|complementary]] to CATATG).&lt;ref name="isbn0-12-175551-7"&gt;{{cite book | author = Clark DP | title = Molecular biology | publisher = Elsevier Academic Press | location = Amsterdam | year = 2005 | pages = | isbn = 0-12-175551-7}}&lt;/ref&gt; Inverted repeat palindromes are more common and have greater biological importance than mirror-like palindromes.
+
+[[EcoRI|''Eco''RI]] digestion produces [[Sticky and blunt ends|"sticky" ends]],
+
+[[Image:EcoRI restriction enzyme recognition site.svg|90px]]
+
+whereas [[SmaI]] restriction enzyme cleavage produces [[Sticky and blunt ends|"blunt" ends]]:
+
+[[Image:SmaI restriction enzyme recognition site.svg|90px]]
+
+Recognition sequences in DNA differ for each restriction enzyme, producing differences in the length, sequence and strand orientation ([[5' end]] or [[3' end]]) of a [[Sticky and blunt ends|sticky-end]] "overhang" of an enzyme restriction.&lt;ref name="pmid11897876"&gt;{{cite journal | vauthors = Goodsell DS | title = The molecular perspective: restriction endonucleases | journal = Stem Cells | volume = 20 | issue = 2 | pages = 190–1 | year = 2002 | pmid = 11897876 | doi = 10.1634/stemcells.20-2-190 }}&lt;/ref&gt;
+
+Different restriction enzymes that recognize the same sequence are known as [[neoschizomer]]s. These often cleave in different locales of the sequence. Different enzymes that recognize and cleave in the same location are known as [[isoschizomer]]s.
+
+== Types ==
+Naturally occurring restriction endonucleases are categorized into four groups (Types I, II III, and IV) based on their composition and [[enzyme cofactor]] requirements, the nature of their target sequence, and the position of their DNA cleavage site relative to the target sequence.&lt;ref name="pmid8336674"&gt;{{cite journal | vauthors = Bickle TA, Krüger DH | title = Biology of DNA restriction | journal = Microbiological Reviews | volume = 57 | issue = 2 | pages = 434–50 | date = Jun 1993 | pmid = 8336674 | pmc = 372918 | doi =  | url = http://mmbr.asm.org/cgi/pmidlookup?view=long&amp;pmid=8336674 }}&lt;/ref&gt;&lt;ref name="pmid4949033"&gt;{{cite journal | vauthors = Boyer HW | title = DNA restriction and modification mechanisms in bacteria | journal = Annual Review of Microbiology | volume = 25 | issue =  | pages = 153–76 | year = 1971 | pmid = 4949033 | doi = 10.1146/annurev.mi.25.100171.001101 }}&lt;/ref&gt;&lt;ref name="pmid6267988"&gt;{{cite journal | vauthors = Yuan R | title = Structure and mechanism of multifunctional restriction endonucleases | journal = Annual Review of Biochemistry | volume = 50 | issue =  | pages = 285–319 | year = 1981 | pmid = 6267988 | doi = 10.1146/annurev.bi.50.070181.001441 }}&lt;/ref&gt;  DNA sequence analyses of restriction enzymes however show great variations, indicating that there are more than four types.&lt;ref name="neb"/&gt; All types of enzymes recognize specific short DNA sequences and carry out the endonucleolytic cleavage of DNA to give specific fragments with terminal 5'-phosphates. They differ in their recognition sequence, subunit composition, cleavage position, and cofactor requirements,&lt;ref name="pmid15121719"&gt;{{cite journal | vauthors = Sistla S, Rao DN | title = S-Adenosyl-L-methionine-dependent restriction enzymes | journal = Critical Reviews in Biochemistry and Molecular Biology | volume = 39 | issue = 1 | pages = 1–19 | year = 2004 | pmid = 15121719 | doi = 10.1080/10409230490440532 }}&lt;/ref&gt;&lt;ref name="PUB00035707"&gt;{{cite journal | vauthors = Williams RJ | title = Restriction endonucleases: classification, properties, and applications | journal = Molecular Biotechnology | volume = 23 | issue = 3 | pages = 225–43 | date = Mar 2003 | pmid = 12665693 | doi = 10.1385/MB:23:3:225 }}&lt;/ref&gt; as summarised below:
+
+* Type I enzymes ({{EC number|3.1.21.3}}) cleave at sites remote from a recognition site; require both ATP and S-adenosyl-L-methionine to function; multifunctional protein with both restriction and methylase ({{EC number|2.1.1.72}}) activities.
+* Type II enzymes ({{EC number|3.1.21.4}}) cleave within or at short specific distances from a recognition site; most require magnesium; single function (restriction) enzymes independent of methylase.
+* Type III enzymes ({{EC number|3.1.21.5}}) cleave at sites a short distance from a recognition site; require ATP (but do not hydrolyse it); S-adenosyl-L-methionine stimulates the reaction but is not required; exist as part of a complex with a modification methylase ({{EC number|2.1.1.72}}).
+* Type IV enzymes target modified DNA, e.g. methylated, hydroxymethylated and glucosyl-hydroxymethylated DNA
+
+=== Type l ===
+Type I restriction enzymes were the first to be identified and were first identified in two different strains (K-12 and B) of ''[[Escherichia coli|E. coli]]''.&lt;ref name="pmid10839821"&gt;{{cite journal | vauthors = Murray NE | title = Type I restriction systems: sophisticated molecular machines (a legacy of Bertani and Weigle) | journal = Microbiology and Molecular Biology Reviews | volume = 64 | issue = 2 | pages = 412–34 | date = Jun 2000 | pmid = 10839821 | pmc = 98998 | doi = 10.1128/MMBR.64.2.412-434.2000 | url = http://mmbr.asm.org/cgi/pmidlookup?view=long&amp;pmid=10839821 }}&lt;/ref&gt; These enzymes cut at a site that differs, and is a random distance (at least 1000 bp) away, from their recognition site. Cleavage at these random sites follows a process of DNA translocation, which shows that these enzymes are also molecular motors. The recognition site is asymmetrical and is composed of two specific portions—one containing 3–4 nucleotides, and another containing 4–5 nucleotides—separated by a non-specific spacer of about 6–8 nucleotides. These enzymes are multifunctional and are capable of both restriction and modification activities, depending upon the methylation status of the target DNA. The cofactors [[S-Adenosyl methionine]] (AdoMet), hydrolyzed adenosine triphosphate ([[Adenosine triphosphate|ATP]]), and [[magnesium]] (Mg&lt;sup&gt;2+&lt;/sup&gt;) [[ion]]s, are required for their full activity. Type I restriction enzymes possess three subunits called HsdR, HsdM, and HsdS; HsdR is required for restriction; HsdM is necessary for adding [[methyl]] groups to host DNA (methyltransferase activity), and HsdS is important for specificity of the recognition (DNA-binding) site in addition to both restriction (DNA cleavage) and modification (DNA methyltransferase) activity.&lt;ref name="pmid8336674"/&gt;&lt;ref name="pmid10839821"/&gt;
+
+=== Type II ===
+{{infobox enzyme
+| Name = Type II site-specific deoxyribonuclease
+| EC_number = 3.1.21.4
+| CAS_number = 9075-08-5
+| IUBMB_EC_number = 3/1/21/4
+| GO_code = 0009036
+| image = 1QPS.png
+| width = 
+| caption = Structure of the [[protein dimer|homodimeric]] restriction enzyme [[EcoRI|''Eco''RI]] (cyan and green cartoon diagram) bound to double stranded [[DNA]] (brown tubes).&lt;ref name="pdb_1qps"&gt;{{PDB|1qps}} {{cite book |vauthors=Gigorescu A, Morvath M, Wilkosz PA, Chandrasekhar K, Rosenberg JM | editor = Alfred M. Pingoud | title = Restriction Endonucleases (Nucleic Acids and Molecular Biology, Volume 14) | edition = | publisher = Springer | location = Berlin | year = 2004 | origyear = | chapter = The integration of recognition and cleavage: X-ray structures of pre-transition state complex, post-reactive complex, and the DNA-free endonuclease | pages = 137–178 | quote = | isbn = 3-540-20502-0 | oclc = | doi = | url = | accessdate =}}&lt;/ref&gt; Two catalytic [[magnesium]] ions (one from each [[monomer]]) are shown as magenta spheres and are adjacent to the cleaved sites in the DNA made by the enzyme (depicted as gaps in the DNA backbone).
+}}
+Typical type II restriction enzymes differ from type I restriction enzymes in several ways. They form [[homodimer]]s, with recognition sites that are usually undivided and palindromic and 4–8 nucleotides in length. They recognize and cleave DNA at the same site, and they do not use ATP or AdoMet for their activity—they usually require only Mg&lt;sup&gt;2+&lt;/sup&gt; as a cofactor.&lt;ref name="pmid11557805"/&gt;  These enzymes cleave the phosphodiester bond of double helix DNA. It can either cleave at the center of both strands to yield a blunt end. Or it can cleave at a staggered position leaving overhands called sticky ends.&lt;ref&gt;{{Cite book|title=Fundamental Laboratory Approaches for Biochemistry and Biotechnology|last=Ninfa J.|first=Alexander|last2=Balou|first2=David P.|last3=Benore|first3=Marilee|publisher=John Wiley &amp; Sons|year=2010|isbn=978-0-470-08766-4|location=Hoboken, NJ|pages=341}}&lt;/ref&gt; These are the most commonly available and used restriction enzymes. In the 1990s and early 2000s, new enzymes from this family were discovered that did not follow all the classical criteria of this enzyme class, and new subfamily [[nomenclature]] was developed to divide this large family into subcategories based on deviations from typical characteristics of type II enzymes.&lt;ref name="pmid11557805"/&gt; These subgroups are defined using a letter suffix.
+
+Type IIB restriction enzymes (e.g., BcgI and BplI) are [[multimer]]s, containing more than one subunit.&lt;ref name="pmid11557805"/&gt; They cleave DNA on both sides of their recognition to cut out the recognition site. They require both AdoMet and Mg&lt;sup&gt;2+&lt;/sup&gt; cofactors. Type IIE restriction endonucleases (e.g., NaeI) cleave DNA following interaction with two copies of their recognition sequence.&lt;ref name="pmid11557805"/&gt; One recognition site acts as the target for cleavage, while the other acts as an [[Allosteric regulation|allosteric effector]] that speeds up or improves the efficiency of enzyme cleavage. Similar to type IIE enzymes, type IIF restriction endonucleases (e.g. NgoMIV) interact with two copies of their recognition sequence but cleave both sequences at the same time.&lt;ref name="pmid11557805"/&gt; Type IIG restriction endonucleases (e.g., Eco57I) do have a single subunit, like classical Type II restriction enzymes, but require the cofactor AdoMet to be active.&lt;ref name="pmid11557805"/&gt; Type IIM restriction endonucleases, such as DpnI, are able to recognize and cut methylated DNA.&lt;ref name="pmid11557805"/&gt; Type IIS restriction endonucleases (e.g., ''Fok''I) cleave DNA at a defined distance from their non-palindromic asymmetric recognition sites;&lt;ref name="pmid11557805"/&gt; this characteristic is widely used to perform in-vitro cloning techniques such as [[Golden Gate Cloning|Golden Gate cloning]]. These enzymes may function as [[protein dimer|dimer]]s. Similarly, Type IIT restriction enzymes (e.g., Bpu10I and BslI) are composed of two different subunits. Some recognize palindromic sequences while others have asymmetric recognition sites.&lt;ref name="pmid11557805"/&gt;
+
+=== Type III ===
+Type III restriction enzymes (e.g., EcoP15) recognize two separate non-palindromic sequences that are inversely oriented. They cut DNA about 20–30 base pairs after the recognition site.&lt;ref name="pmid11557806"&gt;{{cite journal | vauthors = Dryden DT, Murray NE, Rao DN | title = Nucleoside triphosphate-dependent restriction enzymes | journal = Nucleic Acids Research | volume = 29 | issue = 18 | pages = 3728–41 | date = Sep 2001 | pmid = 11557806 | pmc = 55918 | doi = 10.1093/nar/29.18.3728 | url = http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&amp;pmid=11557806 }}&lt;/ref&gt; These enzymes contain more than one subunit and require AdoMet and ATP cofactors for their roles in DNA methylation and restriction, respectively.&lt;ref name="pmid1734285"&gt;{{cite journal | vauthors = Meisel A, Bickle TA, Krüger DH, Schroeder C | title = Type III restriction enzymes need two inversely oriented recognition sites for DNA cleavage | journal = Nature | volume = 355 | issue = 6359 | pages = 467–9 | date = Jan 1992 | pmid = 1734285 | doi = 10.1038/355467a0 | bibcode = 1992Natur.355..467M }}&lt;/ref&gt; They are components of [[Prokaryote|prokaryotic]] DNA restriction-modification [[Mechanism (biology)|mechanisms]] that protect the organism against invading foreign DNA. Type III enzymes are hetero-oligomeric, multifunctional [[protein]]s composed of two subunits, Res and Mod. The Mod subunit recognises the DNA sequence specific for the system and is a modification [[methyltransferase]]; as such, it is functionally equivalent to the M and S subunits of type I restriction endonuclease. Res is required for restriction, although it has no [[enzyme|enzymatic]] activity on its own. Type III enzymes recognise short 5–6 bp-long asymmetric DNA sequences and cleave 25–27 bp [[Upstream and downstream (DNA)|downstream]] to leave short, single-stranded 5' protrusions. They require the presence of two inversely oriented unmethylated recognition sites for restriction to occur. These enzymes [[DNA methylation|methylate]] only one strand of the DNA, at the N-6 position of adenosyl residues, so newly replicated DNA will have only one strand methylated, which is sufficient to protect against restriction. Type III enzymes belong to the beta-subfamily of [[DNA methyltransferase|N6 adenine methyltransferases]], containing the nine [[protein motif|motif]]s that characterise this family, including [[sequence motif|motif]] I, the [[S-adenosyl-L-methionine|AdoMet]] binding pocket (FXGXG), and motif IV, the [[catalytic]] region (S/D/N (PP) Y/F).&lt;ref name="pmid15121719"/&gt;&lt;ref name="pmid12595133"&gt;{{cite journal | vauthors = Bourniquel AA, Bickle TA | title = Complex restriction enzymes: NTP-driven molecular motors | journal = Biochimie | volume = 84 | issue = 11 | pages = 1047–59 | date = Nov 2002 | pmid = 12595133 | doi = 10.1016/S0300-9084(02)00020-2 }}&lt;/ref&gt;
+
+=== Type IV ===
+Type IV enzymes recognize modified, typically methylated DNA and are exemplified by the&amp;nbsp;McrBC&amp;nbsp;and Mrr systems of&amp;nbsp;''E. coli''.&lt;ref name="neb"&gt;[https://www.neb.com/products/restriction-endonucleases/restriction-endonucleases/types-of-restriction-endonucleases Types of Restriction Endonucleases | NEB&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+===Type V===
+Type V restriction enzymes (e.g., the cas9-gRNA complex from [[CRISPR]]s&lt;ref name=":0" /&gt;) utilize guide RNAs to target specific non-palindromic sequences found on invading organisms. They can cut DNA of variable length, provided that a suitable guide RNA is provided. The flexibility and ease of use of these enzymes make them promising for future genetic engineering applications.&lt;ref name=":0"&gt;{{cite journal | vauthors = Barrangou R, Fremaux C, Deveau H, Richards M, Boyaval P, Moineau S, Romero DA, Horvath P | title = CRISPR provides acquired resistance against viruses in prokaryotes | journal = Science | volume = 315 | issue = 5819 | pages = 1709–12 | date = Mar 2007 | pmid = 17379808 | doi = 10.1126/science.1138140 }}&lt;/ref&gt;&lt;ref name="pmid20056882"&gt;{{cite journal | vauthors = Horvath P, Barrangou R | title = CRISPR/Cas, the immune system of bacteria and archaea | journal = Science | volume = 327 | issue = 5962 | pages = 167–70 | date = Jan 2010 | pmid = 20056882 | doi = 10.1126/science.1179555 }}&lt;/ref&gt;
+
+=== Artificial restriction enzymes ===
+Artificial restriction enzymes can be generated by fusing a natural or engineered [[DNA binding domain]] to a [[nuclease]] domain (often the cleavage domain of the type IIS restriction enzyme [[FokI|''Fok''I]]).&lt;ref name="kim1996"&gt;{{cite journal | vauthors = Kim YG, Cha J, Chandrasegaran S | title = Hybrid restriction enzymes: zinc finger fusions to Fok I cleavage domain | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 93 | issue = 3 | pages = 1156–60 | date = Feb 1996 | pmid = 8577732 | pmc = 40048 | doi = 10.1073/pnas.93.3.1156 | bibcode = 1996PNAS...93.1156K }}&lt;/ref&gt; Such artificial restriction enzymes can target large DNA sites (up to 36 bp) and can be engineered to bind to desired DNA sequences.&lt;ref name="pmid20717154"&gt;{{cite journal | vauthors = Urnov FD, Rebar EJ, Holmes MC, Zhang HS, Gregory PD | title = Genome editing with engineered zinc finger nucleases | journal = Nature Reviews Genetics | volume = 11 | issue = 9 | pages = 636–46 | date = Sep 2010 | pmid = 20717154 | doi = 10.1038/nrg2842 }}&lt;/ref&gt; [[Zinc finger nucleases]] are the most commonly used artificial restriction enzymes and are generally used in [[genetic engineering]] applications,&lt;ref name="pmid19404258"&gt;{{cite journal | vauthors = Townsend JA, Wright DA, Winfrey RJ, Fu F, Maeder ML, Joung JK, Voytas DF | title = High-frequency modification of plant genes using engineered zinc-finger nucleases | journal = Nature | volume = 459 | issue = 7245 | pages = 442–5 | date = May 2009 | pmid = 19404258 | pmc = 2743854 | doi = 10.1038/nature07845 | bibcode = 2009Natur.459..442T }}&lt;/ref&gt;&lt;ref name="pmid19404259"&gt;{{cite journal | vauthors = Shukla VK, Doyon Y, Miller JC, DeKelver RC, Moehle EA, Worden SE, Mitchell JC, Arnold NL, Gopalan S, Meng X, Choi VM, Rock JM, Wu YY, Katibah GE, Zhifang G, McCaskill D, Simpson MA, Blakeslee B, Greenwalt SA, Butler HJ, Hinkley SJ, Zhang L, Rebar EJ, Gregory PD, Urnov FD | title = Precise genome modification in the crop species Zea mays using zinc-finger nucleases | journal = Nature | volume = 459 | issue = 7245 | pages = 437–41 | date = May 2009 | pmid = 19404259 | doi = 10.1038/nature07992 | bibcode = 2009Natur.459..437S }}&lt;/ref&gt;&lt;ref name="pmid18554175"&gt;{{cite journal | vauthors = Ekker SC | title = Zinc finger-based knockout punches for zebrafish genes | journal = Zebrafish | volume = 5 | issue = 2 | pages = 121–3 | year = 2008 | pmid = 18554175 | pmc = 2849655 | doi = 10.1089/zeb.2008.9988 }}&lt;/ref&gt;&lt;ref name="pmid19628861"&gt;{{cite journal | vauthors = Geurts AM, Cost GJ, Freyvert Y, Zeitler B, Miller JC, Choi VM, Jenkins SS, Wood A, Cui X, Meng X, Vincent A, Lam S, Michalkiewicz M, Schilling R, Foeckler J, Kalloway S, Weiler H, Ménoret S, Anegon I, Davis GD, Zhang L, Rebar EJ, Gregory PD, Urnov FD, Jacob HJ, Buelow R | title = Knockout rats via embryo microinjection of zinc-finger nucleases | journal = Science | volume = 325 | issue = 5939 | page = 433 | date = Jul 2009 | pmid = 19628861 | pmc = 2831805 | doi = 10.1126/science.1172447 | bibcode = 2009Sci...325..433G }}&lt;/ref&gt; but can also be used for more standard [[gene cloning]] applications.&lt;ref name="pmid21029755"&gt;{{cite journal | vauthors = Tovkach A, Zeevi V, Tzfira T | title = Expression, purification and characterization of cloning-grade zinc finger nuclease | journal = Journal of Biotechnology | volume = 151 | issue = 1 | pages = 1–8 | date = Jan 2011 | pmid = 21029755 | doi = 10.1016/j.jbiotec.2010.10.071 }}&lt;/ref&gt; Other artificial restriction enzymes are based on the DNA binding domain of [[TAL effector]]s.&lt;ref name="pmid20660643"&gt;{{cite journal | vauthors = Christian M, Cermak T, Doyle EL, Schmidt C, Zhang F, Hummel A, Bogdanove AJ, Voytas DF | title = Targeting DNA double-strand breaks with TAL effector nucleases | journal = Genetics | volume = 186 | issue = 2 | pages = 757–61 | date = Oct 2010 | pmid = 20660643 | pmc = 2942870 | doi = 10.1534/genetics.110.120717 }}&lt;/ref&gt;&lt;ref name="pmid20699274"&gt;{{cite journal | vauthors = Li T, Huang S, Jiang WZ, Wright D, Spalding MH, Weeks DP, Yang B | title = TAL nucleases (TALNs): hybrid proteins composed of TAL effectors and FokI DNA-cleavage domain | journal = Nucleic Acids Research | volume = 39 | issue = 1 | pages = 359–372 | date = Jan 2011 | pmid = 20699274 | pmc = 3017587 | doi = 10.1093/nar/gkq704 }}&lt;/ref&gt;
+
+In 2013, a new technology CRISPR-Cas9, based on a prokaryotic viral defense system, was engineered for editing the genome, and it was quickly adopted in laboratories.&lt;ref name=Hsu2014&gt;{{cite journal | vauthors = Hsu PD, Lander ES, Zhang F | title = Development and applications of CRISPR-Cas9 for genome engineering | journal = Cell | volume = 157 | issue = 6 | pages = 1262–78 | date = June 2014 | pmid = 24906146 | pmc = 4343198 | doi = 10.1016/j.cell.2014.05.010 }}&lt;/ref&gt; For more detail, read [[CRISPR]] (Clustered regularly interspaced short palindromic repeats).
+
+In 2017 a group in Illinois announced using an [[Argonaute]] protein taken from [[Pyrococcus furiosus]] (PfAgo) along with guide DNA to edit DNA as artificial restriction enzymes.&lt;ref&gt;[http://www.genengnews.com/gen-news-highlights/revolutionizing-biotechnology-with-artificial-restriction-enzymes/81253861 Revolutionizing Biotechnology with Artificial Restriction Enzymes.] (reporting on [http://pubs.acs.org/doi/abs/10.1021/acssynbio.6b00324 Programmable DNA-Guided Artificial Restriction Enzymes])&lt;/ref&gt;
+
+Artificial ribonucleases that act as restriction enzymes for RNA are also being developed. A [[Peptide nucleic acid|PNA]]-based system, called PNAzymes, has a Cu(II)-[[Neocuproine|2,9-dimethylphenanthroline]] group that mimics ribonucleases for specific RNA sequence and cleaves at a non-base-paired region (RNA bulge) of the targeted RNA formed when the enzyme binds the RNA. This enzyme shows selectivity by cleaving only at one site that either does not have a mismatch or is kinetically preferred out of two possible cleavage sites.&lt;ref&gt;{{cite journal |authors=Merita Murtola, Malgorzata Wenska and Roger Stromberg|title=PNAzymes That Are Artificial RNA Restriction Enzymes|url=http://pubs.acs.org/doi/abs/10.1021/ja1008739 |journal=J. Am. Chem. Soc.|date=June 14, 2010|volume= 132 |issue=26|pages=8984–8990|doi= 10.1021/ja1008739 }}&lt;/ref&gt;
+
+== Nomenclature ==
+{| class="wikitable" style="float:right; text-align:center;"
+|-
+! colspan="3" | Derivation of the ''Eco''RI name
+|-
+! Abbreviation
+! Meaning
+! Description
+|-
+| style="width:50px;"| '''E''' || ''Escherichia'' || genus
+|- 
+| '''co''' || ''coli'' || specific epithet
+|- 
+| '''R''' || RY13 || strain
+|-
+| '''I''' || First identified || order of identification&lt;br /&gt;in the bacterium
+|}
+Since their discovery in the 1970s, many restriction enzymes have been identified; for example, more than 3500 different Type II restriction enzymes have been characterized.&lt;ref&gt;{{cite book |url=https://books.google.co.uk/books?id=i-HwCAAAQBAJ&amp;pg=PA3&amp;lpg=PA3#v=onepage&amp;q&amp;f=false |title= Restriction Endonucleases (Nucleic Acids and Molecular Biology) |author=A. Pingoud |publisher=Springer |year= 2004|page= 3 |isbn= 9783642188510 }}&lt;/ref&gt; Each enzyme is named after the bacterium from which it was isolated, using a naming system based on bacterial [[genus]], [[species]] and [[Strain (biology)|strain]].&lt;ref name="pmid4588280"&gt;{{cite journal | vauthors = Smith HO, Nathans D | title = Letter: A suggested nomenclature for bacterial host modification and restriction systems and their enzymes | journal = Journal of Molecular Biology | volume = 81 | issue = 3 | pages = 419–23 | date = Dec 1973 | pmid = 4588280 | doi = 10.1016/0022-2836(73)90152-6 }}&lt;/ref&gt;&lt;ref name="pmid12654995"&gt;{{cite journal | vauthors = Roberts RJ, Belfort M, Bestor T, Bhagwat AS, Bickle TA, Bitinaite J, Blumenthal RM, ((Degtyarev SKh)), Dryden DT, Dybvig K, Firman K, Gromova ES, Gumport RI, Halford SE, Hattman S, Heitman J, Hornby DP, Janulaitis A, Jeltsch A, Josephsen J, Kiss A, Klaenhammer TR, Kobayashi I, Kong H, Krüger DH, Lacks S, Marinus MG, Miyahara M, Morgan RD, Murray NE, Nagaraja V, Piekarowicz A, Pingoud A, Raleigh E, Rao DN, Reich N, Repin VE, Selker EU, Shaw PC, Stein DC, Stoddard BL, Szybalski W, Trautner TA, Van Etten JL, Vitor JM, Wilson GG, Xu SY | title = A nomenclature for restriction enzymes, DNA methyltransferases, homing endonucleases and their genes | journal = Nucleic Acids Research | volume = 31 | issue = 7 | pages = 1805–12 | date = Apr 2003 | pmid = 12654995 | pmc = 152790 | doi = 10.1093/nar/gkg274 }}&lt;/ref&gt; For example, the name of the [[EcoRI|''Eco''RI]] restriction enzyme was derived as shown in the box.
+
+==Applications==
+{{main|Restriction digest}}
+Isolated restriction enzymes are used to manipulate DNA for different scientific applications.
+
+They are used to assist insertion of genes into [[plasmid]] [[Plasmid vector|vector]]s during [[gene cloning]] and [[protein production]] experiments. For optimal use, plasmids that are commonly used for gene cloning are modified to include a short ''polylinker'' sequence (called the [[multiple cloning site]], or MCS) rich in restriction enzyme recognition sequences. This allows flexibility when inserting gene fragments into the plasmid vector; restriction sites contained naturally within genes influence the choice of endonuclease for digesting the DNA, since it is necessary to avoid restriction of wanted DNA while intentionally cutting the ends of the DNA. To clone a gene fragment into a vector, both plasmid DNA and gene insert are typically cut with the same restriction enzymes, and then glued together with the assistance of an enzyme known as a [[DNA ligase]].&lt;ref name="urlCloning using restriction enzymes"&gt;{{cite web | url = http://www.embl.de/pepcore/pepcore_services/cloning/cloning_methods/restriction_enzymes/ | title = Cloning using restriction enzymes | author = Geerlof A | publisher = European Molecular Biology Laboratory - Hamburg | accessdate = 2008-06-07}}&lt;/ref&gt;&lt;ref name="isbn0-87969-576-5"&gt;{{cite book |vauthors=Russell DW, Sambrook J | title = Molecular cloning: a laboratory manual | edition = | publisher = Cold Spring Harbor Laboratory | location = Cold Spring Harbor, N.Y | year = 2001 | isbn = 0-87969-576-5}}&lt;/ref&gt;
+
+Restriction enzymes can also be used to distinguish gene [[allele]]s by specifically recognizing single base changes in DNA known as [[single nucleotide polymorphism]]s (SNPs).&lt;ref name="pmid18330346"&gt;{{cite journal | vauthors = Wolff JN, Gemmell NJ | title = Combining allele-specific fluorescent probes and restriction assay in real-time PCR to achieve SNP scoring beyond allele ratios of 1:1000 | journal = BioTechniques | volume = 44 | issue = 2 | pages = 193–4, 196, 199 | date = Feb 2008 | pmid = 18330346 | doi = 10.2144/000112719 }}&lt;/ref&gt;&lt;ref name="pmid15980518"&gt;{{cite journal | vauthors = Zhang R, Zhu Z, Zhu H, Nguyen T, Yao F, Xia K, Liang D, Liu C | title = SNP Cutter: a comprehensive tool for SNP PCR-RFLP assay design | journal = Nucleic Acids Research | volume = 33 | issue = Web Server issue | pages = W489–92 | date = Jul 2005 | pmid = 15980518 | pmc = 1160119 | doi = 10.1093/nar/gki358 }}&lt;/ref&gt; This is however only possible if a SNP alters the restriction site present in the allele. In this method, the restriction enzyme can be used to [[genotype]] a DNA sample without the need for expensive [[DNA sequencing|gene sequencing]]. The sample is first digested with the restriction enzyme to generate DNA fragments, and then the different sized fragments separated by [[gel electrophoresis]]. In general, alleles with correct restriction sites will generate two visible bands of DNA on the gel, and those with altered restriction sites will not be cut and will generate only a single band. A [[restriction map|DNA map]] by restriction digest can also be generated that can give the relative positions of the genes.&lt;ref&gt;{{cite web |url=http://www.nature.com/scitable/definition/mapping-282 |title=Mapping |work=Nature }}&lt;/ref&gt;  The  different lengths of DNA generated by restriction digest also produce a specific pattern of bands after gel electrophoresis, and can be used for [[DNA fingerprinting]].
+
+In a similar manner, restriction enzymes are used to digest [[genomic]] DNA for gene analysis by [[Southern blot]]. This technique allows researchers to identify how many copies (or [[paralogue]]s) of a gene are present in the genome of one individual, or how many gene [[mutation]]s ([[Polymorphism (biology)|polymorphisms]]) have occurred within a population. The latter example is called [[Restriction Fragment Length Polymorphism|restriction fragment length polymorphism]] (RFLP).&lt;ref name="isbn0-7167-4684-0"&gt;{{cite book |vauthors=Stryer L, Berg JM, Tymoczko JL | title = Biochemistry | edition = Fifth | publisher = W.H. Freeman | location = San Francisco | year = 2002 | origyear = | page = 122 | quote = | isbn = 0-7167-4684-0}}&lt;/ref&gt;
+
+Artificial restriction enzymes created by linking the ''Fok''I DNA cleavage domain with an array of DNA binding proteins or zinc finger arrays, denoted zinc finger nucleases (ZFN), are a powerful tool for host genome editing due to their enhanced sequence specificity. ZFN work in pairs, their dimerization being mediated in-situ through the ''Fok''I domain. Each zinc finger array (ZFA) is capable of recognizing 9–12 base pairs, making for 18–24 for the pair. A 5–7 bp spacer between the cleavage sites further enhances the specificity of ZFN, making them a safe and more precise tool that can be applied in humans. A recent Phase I clinical trial of ZFN for the targeted abolition of the CCR5 co-receptor for HIV-1 has been undertaken.&lt;ref&gt;{{cite journal | vauthors = Tebas P, Stein D, Tang WW, Frank I, Wang SQ, Lee G, Spratt SK, Surosky RT, Giedlin MA, Nichol G, Holmes MC, Gregory PD, Ando DG, Kalos M, Collman RG, Binder-Scholl G, Plesa G, Hwang WT, Levine BL, June CH | title = Gene editing of CCR5 in autologous CD4 T cells of persons infected with HIV | journal = The New England Journal of Medicine | volume = 370 | issue = 10 | pages = 901–910 | date = Mar 2014 | pmid = 24597865 | doi = 10.1056/NEJMoa1300662 | pmc=4084652}}&lt;/ref&gt;
+
+Others have proposed using the bacteria R-M system as a model for devising human anti-viral gene or genomic vaccines and therapies since the RM system serves an innate defense-role in bacteria by restricting tropism by bacteriophages.&lt;ref&gt;{{cite journal|author=Wayengera M |title= HIV and Gene Therapy: The proposed [R-M enzymatic] model for a gene therapy against HIV. |journal=Makerere Med J. |year=2003 |volume=38 |pages=28–30}}&lt;/ref&gt; There is research on REases and ZFN that can cleave the DNA of various human viruses, including [[Herpes simplex virus|HSV-2]], high-risk [[HPV]]s and [[HIV-1]], with the ultimate goal of inducing target mutagenesis and aberrations of human-infecting viruses.&lt;ref&gt;{{cite journal |vauthors=Wayengera M, Kajumbula H, Byarugaba W |title= Frequency and site mapping of HIV-1/SIVcpz, HIV-2/SIVsmm and Other SIV gene sequence cleavage by various bacteria restriction enzymes: Precursors for a novel HIV inhibitory product |journal= Afr J Biotechnol |year=2007 |volume= 6 |issue=10 |pages=1225–1232 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | vauthors = Schiffer JT, Aubert M, Weber ND, Mintzer E, Stone D, Jerome KR | title = Targeted DNA mutagenesis for the cure of chronic viral infections | journal = Journal of Virology | volume = 86 | issue = 17 | pages = 8920–36 | date = Sep 2012 | pmid = 22718830 | pmc = 3416169 | doi = 10.1128/JVI.00052-12 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | vauthors = Manjunath N, Yi G, Dang Y, Shankar P | title = Newer gene editing technologies toward HIV gene therapy | journal = Viruses | volume = 5 | issue = 11 | pages = 2748–66 | date = Nov 2013 | pmid = 24284874 | pmc = 3856413 | doi = 10.3390/v5112748 }}&lt;/ref&gt; Interestingly, the human genome already contains remnants of retroviral genomes that have been inactivated and harnessed for self-gain. Indeed, the mechanisms for silencing active L1 genomic retroelements by the three prime repair exonuclease 1 (TREX1) and excision repair cross complementing 1(ERCC) appear to mimic the action of RM-systems in bacteria, and the non-homologous end-joining (NHEJ) that follows the use of ZFN without a repair template.&lt;ref&gt;{{cite journal | vauthors = Stetson DB, Ko JS, Heidmann T, Medzhitov R | title = Trex1 prevents cell-intrinsic initiation of autoimmunity | journal = Cell | volume = 134 | issue = 4 | pages = 587–598 | date = Aug 2008 | pmid = 18724932 | pmc = 2626626 | doi = 10.1016/j.cell.2008.06.032 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | vauthors = Gasior SL, Roy-Engel AM, Deininger PL | title = ERCC1/XPF limits L1 retrotransposition | journal = DNA Repair | volume = 7 | issue = 6 | pages = 983–989 | date = Jun 2008 | pmid = 18396111 | doi = 10.1016/j.dnarep.2008.02.006 | pmc=2483505}}&lt;/ref&gt;
+
+== Examples ==
+{{see also|List of restriction enzyme cutting sites}}
+
+Examples of restriction enzymes include:&lt;ref name="pmid6243774"&gt;{{cite journal | author = Roberts RJ | title = Restriction and modification enzymes and their recognition sequences | journal = Nucleic Acids Research | volume = 8 | issue = 1 | pages = r63–r80 | date = Jan 1980 | pmid = 6243774 | pmc = 327257 | doi = 10.1093/nar/8.1.197-d }}&lt;/ref&gt;
+
+{| class="wikitable sortable" style="border:1px solid #aaa;"
+|-
+! Enzyme !! Source !! Recognition Sequence !! Cut
+|-
+|[[EcoRI|''Eco''RI]]||''[[Escherichia coli]]''
+|
+ 5'GAATTC
+ 3'CTTAAG
+|
+ 5'---G     AATTC---3'
+ 3'---CTTAA     G---5'
+|-
+|[[EcoRII|''Eco''RII]]||''[[Escherichia coli]]''
+|
+ 5'CCWGG
+ 3'GGWCC
+|
+ 5'---     CCWGG---3'
+ 3'---GGWCC     ---5'
+|-
+|[[BamHI|''Bam''HI]]||''[[Bacillus amyloliquefaciens]]''
+|
+ 5'GGATCC
+ 3'CCTAGG
+|
+ 5'---G     GATCC---3'
+ 3'---CCTAG     G---5'
+|-
+|[[HindIII|''Hin''dIII]]||''[[Haemophilus influenzae]]''
+|
+ 5'AAGCTT
+ 3'TTCGAA
+|
+ 5'---A     AGCTT---3'
+ 3'---TTCGA     A---5'
+|-
+|[[TaqI|''Taq''I]]||''[[Thermus aquaticus]]''
+|
+ 5'TCGA
+ 3'AGCT
+|
+ 5'---T   CGA---3'
+ 3'---AGC   T---5'
+|-
+|[[NotI|''Not''I]]||''[[Nocardia otitidis]]''
+|
+ 5'GCGGCCGC
+ 3'CGCCGGCG
+|
+ 5'---GC   GGCCGC---3'
+ 3'---CGCCGG   CG---5'
+|-
+|[[HinFI|''Hin''FI]]||''[[Haemophilus influenzae]]''
+|
+ 5'GANTC
+ 3'CTNAG
+|
+ 5'---G   ANTC---3'
+ 3'---CTNA   G---5'
+|-
+|[[Sau3AI|''Sau''3AI]]||''[[Staphylococcus aureus]]''
+|
+ 5'GATC
+ 3'CTAG
+|
+ 5'---     GATC---3'
+ 3'---CTAG     ---5'
+|-
+|[[PvuII|''Pvu''II*]]||''[[Proteus vulgaris]]''
+|
+ 5'CAGCTG
+ 3'GTCGAC
+|
+ 5'---CAG  CTG---3'
+ 3'---GTC  GAC---5'
+|-
+|[[SmaI|''Sma''I*]]||''[[Serratia marcescens]]''
+|
+ 5'CCCGGG
+ 3'GGGCCC
+|
+ 5'---CCC  GGG---3'
+ 3'---GGG  CCC---5'
+|-
+|[[HaeIII|''Hae''III*]]||''[[Haemophilus influenzae biogroup aegyptius|Haemophilus aegyptius]]''
+|
+ 5'GGCC
+ 3'CCGG
+|
+ 5'---GG  CC---3'
+ 3'---CC  GG---5'
+|-
+|[[HgaI|''Hga''I]]&lt;ref name="pmid2835753"&gt;{{cite journal | author = Roberts RJ | title = Restriction enzymes and their isoschizomers | journal = Nucleic Acids Research | volume = 16 Suppl | issue = Suppl | pages = r271–313 | year = 1988 | pmid = 2835753 | pmc = 340913 | doi = 10.1093/nar/16.suppl.r271 }}&lt;/ref&gt;||''[[Haemophilus gallinarum]]''
+|
+ 5'GACGC
+ 3'CTGCG
+|
+ 5'---NN  NN---3'
+ 3'---NN  NN---5'
+|-
+|[[AluI|''Alu''I*]]||''[[Arthrobacter luteus]]''
+|
+ 5'AGCT
+ 3'TCGA
+|
+ 5'---AG  CT---3'
+ 3'---TC  GA---5'
+|-
+|[[EcoRV|''Eco''RV*]]||''[[Escherichia coli]]''
+|
+ 5'GATATC
+ 3'CTATAG
+|
+ 5'---GAT  ATC---3'
+ 3'---CTA  TAG---5'
+|-
+|[[EcoP15I|''Eco''P15I]]||''[[Escherichia coli]]''
+|
+ 5'CAGCAGN&lt;sub&gt;25&lt;/sub&gt;NN
+ 3'GTCGTCN&lt;sub&gt;25&lt;/sub&gt;NN
+|
+ 5'---CAGCAGN&lt;sub&gt;25&lt;/sub&gt;   NN---3'
+ 3'---GTCGTCN&lt;sub&gt;25&lt;/sub&gt;NN   ---5'
+|-
+|[[KpnI|''Kpn''I]]&lt;ref name="isbn0-7167-4366-3"&gt;{{cite book |vauthors=Krieger M, Scott MP, Matsudaira PT, Lodish HF, Darnell JE, Zipursky L, Kaiser C, Berk A | title = Molecular Cell Biology | edition = 5th | publisher = W.H. Freeman and Company | location = New York | year = 2004 | isbn = 0-7167-4366-3}}&lt;/ref&gt;||''[[Klebsiella pneumoniae]]''
+|
+ 5'GGTACC
+ 3'CCATGG
+|
+ 5'---GGTAC  C---3'
+ 3'---C  CATGG---5'
+|-
+|[[PstI|''Pst''I]]&lt;ref name="isbn0-7167-4366-3"/&gt;||''[[Providencia stuartii]]''
+|
+ 5'CTGCAG
+ 3'GACGTC
+|
+ 5'---CTGCA  G---3'
+ 3'---G  ACGTC---5'
+|-
+|[[SacI|''Sac''I]]&lt;ref name="isbn0-7167-4366-3"/&gt;||''[[Streptomyces achromogenes]]''
+|
+ 5'GAGCTC
+ 3'CTCGAG
+|
+ 5'---GAGCT  C---3'
+ 3'---C  TCGAG---5'
+|-
+|[[SalI|''Sal''I]]&lt;ref name="isbn0-7167-4366-3"/&gt;||''[[Streptomyces albus]]''
+|
+ 5'GTCGAC
+ 3'CAGCTG
+|
+ 5'---G  TCGAC---3'
+ 3'---CAGCT  G---5'
+|-
+|[[ScaI|''Sca''I]]*&lt;ref name="isbn0-7167-4366-3"/&gt;||''[[Streptomyces caespitosus]]''
+|
+ 5'AGTACT
+ 3'TCATGA
+|
+ 5'---AGT  ACT---3'
+ 3'---TCA  TGA---5'
+|-
+|[[SpeI|''Spe''I]]||''[[Sphaerotilus natans]]''
+|
+ 5'ACTAGT
+ 3'TGATCA
+|
+ 5'---A  CTAGT---3'
+ 3'---TGATC  A---5'
+|-
+|[[SphI|''Sph''I]]&lt;ref name="isbn0-7167-4366-3"/&gt;||''[[Streptomyces phaeochromogenes]]''
+|
+ 5'GCATGC
+ 3'CGTACG
+|
+ 5'---GCATG  C---3'
+ 3'---C  GTACG---5'
+|-
+|[[StuI|''Stu''I]]*&lt;ref name="Sigma_R8013"&gt;{{cite web | url = http://www.sigmaaldrich.com/catalog/search/ProductDetail/SIGMA/R8013 | title = Stu I from Streptomyces tubercidicus |publisher = Sigma-Aldrich | pages = | quote = |accessdate=2008-06-07}}&lt;/ref&gt;&lt;ref name="pmid6260571"&gt;{{cite journal | vauthors = Shimotsu H, Takahashi H, Saito H | title = A new site-specific endonuclease StuI from Streptomyces tubercidicus | journal = Gene | volume = 11 | issue = 3–4 | pages = 219–25 | date = Nov 1980 | pmid = 6260571 | doi = 10.1016/0378-1119(80)90062-1 }}&lt;/ref&gt;||''[[Streptomyces tubercidicus]]''
+|
+ 5'AGGCCT
+ 3'TCCGGA
+|
+ 5'---AGG  CCT---3'
+ 3'---TCC  GGA---5'
+|-
+|[[XbaI|''Xba''I]]&lt;ref name="isbn0-7167-4366-3"/&gt;||''[[Xanthomonas badrii]]''
+|
+ 5'TCTAGA
+ 3'AGATCT
+|
+ 5'---T  CTAGA---3'
+ 3'---AGATC  T---5'
+|}
+Key:&lt;br/&gt;
+&lt;nowiki&gt;*&lt;/nowiki&gt; = blunt ends&lt;br/&gt;
+N = C or G or T or A&lt;br/&gt;
+W = A or T
+
+== See also ==
+* Detailed articles about certain restriction enzymes: [[EcoRI|''Eco''RI]], [[HindIII|''Hin''dIII]], [[BglII|''Bgl''II]].
+* [[Homing endonuclease]]
+* [[Isoschizomer]].
+* [[List of homing endonuclease cutting sites]]
+* [[List of restriction enzyme cutting sites]]
+* [[Molecular weight size marker]]
+* [[Restriction map]]
+* [[Star activity]]
+* [[CRISPR]]
+* [[CAS9]]
+
+== References ==
+{{Reflist|35em}}
+
+== External links ==
+{{Library resources box
+ |onlinebooks=no
+ |by=no
+ |lcheading=Restriction enzymes, DNA
+ |label=Restriction enzymes}}
+''General Information:''
+* {{MeshName|DNA+Restriction+Enzymes|3=DNA Restriction Enzymes}}
+* {{cite web | url = http://www.typei-rm.info | title = Type I Restriction-Modification | author = Firman K |date = 2007-11-24 | work = | publisher = University of Portsmouth | pages = | quote = |accessdate=2008-06-06}}
+* {{cite web | url = http://www.rcsb.org/pdb/static.do?p=education_discussion/molecule_of_the_month/pdb8_1.html | title = Restriction Enzymes | author = Goodsell DS | date = 2000-08-01 | work = Molecule of the Month | publisher = RCSB Protein Data Bank | pages =  | quote =  | accessdate = 2008-06-06 | deadurl = yes | archiveurl = https://web.archive.org/web/20080531095339/http://www.rcsb.org/pdb/static.do?p=education_discussion%2Fmolecule_of_the_month%2Fpdb8_1.html | archivedate = 2008-05-31 | df =  }}
+* {{cite web | url = http://www.scq.ubc.ca/?p=249 | title = Restriction Endonucleases: Molecular Scissors for Specifically Cutting DNA |vauthors=Simmer M, Secko D |date = 2003-08-01 | work = The Science Creative Quarterly | publisher = | pages = | quote = |accessdate=2008-06-06}}
+''Databases:''
+* {{cite web| url =http://rebase.neb.com| title =REBASE| vauthors =Roberts RJ, Vincze T, Posfai, J, Macelis D| date =| work =| publisher =| pages =| archiveurl =https://web.archive.org/web/20161230000000/http://rebase.neb.com/| archivedate =2016-12-30| quote =Restriction Enzyme Database| dead-url =yes| accessdate =2008-06-06| df =}}
+''Software:''
+* {{cite web | url = http://insilico.ehu.es/restriction | title = Restriction enzyme digest of DNA |vauthors=Bikandi J, San Millán R, Rementeria A, Garaizar J |publisher=insilico.ehu.es | pages = | quote = |accessdate=2008-06-06}}
+* {{cite web | url = http://watcut.uwaterloo.ca/watcut/watcut/template.php | title = WatCut | author = Palmer M |publisher = University of Waterloo, Ontario, Canada | pages = | quote =  An on-line tool for restriction analysis, silent mutation scanning, SNP-RFLP analysis | accessdate = 2008-06-06}}
+* {{cite web | url = http://tools.neb.com/NEBcutter2/index.php | title = NEBcutter V2.0 | vauthors = Vincze T, Posfai J, Roberts RJ |publisher = New England Biolabs Inc. | pages = | quote = Restriction enzyme finder | accessdate = 2008-06-06}}
+* {{cite web | url = http://www.biophp.org/minitools/restriction_digest/demo.php | title = Restriction enzyme digest of DNA software  |publisher = BioPHP: PHP for Bioinformatics | pages = | quote = Online tool, free source code | accessdate = 2008-06-06}}
+* {{cite web | url = http://www.acaclone.com | title = pDRAW32 |publisher = AcaClone software | pages = | quote = Freeware DNA cloning, sequence analysis and plasmid/DNA plotting software | accessdate = 2008-06-06}}
+* {{cite web | url = http://www.molbiotools.com/restrictionanalyzer.html | title = Restriction Analyzer | vauthors = Čermák V | pages = | quote = Free online tool for restriction analysis | accessdate = 2016-08-22}}
+
+{{Esterases}}
+{{enzymes}}
+{{Portal bar|Molecular and Cellular Biology|border=no}}
+
+{{bots|deny=Citation bot}}
+
+{{DEFAULTSORT:Restriction Enzyme}}
+[[Category:Molecular biology]]
+[[Category:Biotechnology]]
+[[Category:Restriction enzymes| ]]
+[[Category:EC 3.1]]
+[[Category:Life sciences industry]]</text>
+      <sha1>cf99rxokd4zue9kyq0c1bfdm8ect588</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <page>
+    <title>Grey goo</title>
+    <ns>0</ns>
+    <id>175996</id>
+    <revision>
+      <id>786865130</id>
+      <parentid>786286597</parentid>
+      <timestamp>2017-06-22T01:48:34Z</timestamp>
+      <contributor>
+        <username>Magic links bot</username>
+        <id>30707369</id>
+      </contributor>
+      <minor></minor>
+      <comment>Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{About|the doomsday scenario|the video game|Grey Goo (video game)}}
+
+'''Grey goo''' (also spelled '''gray goo''') is a hypothetical [[doomsday event|end-of-the-world]] scenario involving [[molecular nanotechnology]] in which out-of-control [[self-replicating robots]] consume all biomass on [[Earth]] while building more of themselves,&lt;ref&gt;{{cite web |title=Grey Goo is a Small Issue |url=http://www.crnano.org/BD-Goo.htm |date=2003-12-14 |accessdate=2009-12-28 |publisher=Center for Responsible Nanotechnology}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Nanotechnology pioneer slays "grey goo" myths |url=http://www.sciencedaily.com/releases/2004/06/040609072100.htm |date=2006-07-06 |accessdate=2009-12-28 |work=Nanotechnology |publisher=[[Institute of Physics]]}}&lt;/ref&gt; a scenario that has been called ''[[ecophagy]]'' ("eating the environment", more literally "eating the habitation").&lt;ref name="freitas"&gt;{{cite web|title=Some Limits to Global Ecophagy by Biovorous Nanoreplicators, with Public Policy Recommendations|first=Robert A.|last=Freitas Jr.|url=http://www.rfreitas.com/Nano/Ecophagy.htm|date=April 2000|accessdate=28 December 2009}}&lt;/ref&gt; The original idea assumed machines were designed to have this capability, while popularizations have assumed that machines might somehow gain this capability by accident.
+
+[[self-replication|Self-replicating]] machines of the macroscopic variety were originally described by mathematician [[John von Neumann]], and are sometimes referred to as [[Self-replicating machine|von Neumann machines]] or [[clanking replicator]]s.
+The term ''gray goo'' was coined by nanotechnology pioneer [[K. Eric Drexler|Eric Drexler]] in his 1986 book ''[[Engines of Creation]]''.&lt;ref&gt;{{cite book |title= Apocalypse 2012 |last= Joseph |first= Lawrence E. |authorlink= |year= 2007 |publisher= Broadway |location= New York |isbn= 978-0-7679-2448-1 |page= 6 |url= }}&lt;/ref&gt; In 2004 he stated, "I wish I had never used the term 'gray goo'."&lt;ref&gt;{{cite journal |doi=10.1038/429591b |pmid=15190320 |title=Nanotech takes small step towards burying 'grey goo' |year=2004 |last1=Giles |first1=Jim |journal=Nature |volume=429 |issue=6992 |pages=591|url=http://www.readcube.com/articles/10.1038%2F429591b}}&lt;/ref&gt; ''Engines of Creation'' mentions "gray goo" in two paragraphs and a note, while the popularized idea of gray goo was first publicized in a mass-circulation magazine, ''[[Omni (magazine)|Omni]]'', in November 1986.&lt;ref&gt;[http://metamodern.com/b/wp-content/uploads/docs/OMNI_TINYTECH.pdf Nanotechnology: Molecular Machines that Mimic Life, OMNI, Vol. 9 No. 6, November 1986, p. 56ff.]&lt;/ref&gt;
+
+==Definition==
+The term was first used by molecular nanotechnology pioneer [[Eric Drexler]] in his book ''[[Engines of Creation]]'' (1986). In Chapter 4, ''Engines Of Abundance'', Drexler illustrates both [[exponential growth]] and inherent limits (not gray goo) by describing [[nanomachines]] that can function only if given special raw materials:
+
+&lt;blockquote&gt;Imagine such a replicator floating in a bottle of chemicals, making copies of itself&amp;hellip;the first replicator assembles a copy in one thousand seconds, the two replicators then build two more in the next thousand seconds, the four build another four, and the eight build another eight. At the end of ten hours, there are not thirty-six new replicators, but over 68 billion. In less than a day, they would weigh a ton; in less than two days, they would outweigh the Earth; in another four hours, they would exceed the mass of the Sun and all the planets combined&amp;thinsp;—&amp;thinsp;if the bottle of chemicals hadn't run dry long before.&lt;/blockquote&gt;
+
+According to Drexler, the term was popularized by an article in science fiction magazine [[Omni (magazine)|Omni]], which also popularized the term ''nanotechnology'' in the same issue. Drexler says [[arms control]] is a far greater issue than grey goo "nanobugs".&lt;ref&gt;[https://youtube.com/watch?v=50iAoe7bs9o?t=3385 Dr Eric Drexler - Nanotechnology: The Big Picture]&lt;/ref&gt;
+
+In a [[History (U.S. TV channel)|History Channel]] broadcast, a contrasting idea (a kind of gray goo) is referred to in a futuristic [[End time|doomsday]] scenario:
+"In a common practice, billions of nanobots are released to clean up [[Deepwater Horizon oil spill|an oil spill off the coast of Louisiana]]. However, due to a programming error, the nanobots devour all carbon based objects, instead of just the hydrocarbons of the oil. The nanobots destroy everything, all the while, replicating themselves. Within days, the planet is turned to dust."&lt;ref&gt;
+{{cite web
+|url=http://shop.history.com/modern-marvels-doomsday-tech-dvd/detail.php?p=69102
+|title=Modern Marvels: Doomsday Tech DVD
+|author=
+|date=2004-12-28
+|work=
+|publisher=History Channel
+|accessdate=2013-07-28
+}}
+&lt;/ref&gt;
+
+Drexler describes gray goo in Chapter 11 of ''Engines Of Creation'':
+
+&lt;blockquote&gt;Early assembler-based replicators could beat the most advanced modern organisms. 'Plants' with 'leaves' no more efficient than today's solar cells could out-compete real plants, crowding the biosphere with an inedible foliage. Tough, omnivorous 'bacteria' could out-compete real bacteria: they could spread like blowing pollen, replicate swiftly, and reduce the biosphere to dust in a matter of days. Dangerous replicators could easily be too tough, small, and rapidly spreading to stop&amp;thinsp;—&amp;thinsp;at least if we made no preparation. We have trouble enough controlling viruses and fruit flies.&lt;/blockquote&gt;
+
+Drexler notes that the geometric growth made possible by self-replication is inherently limited by the availability of suitable raw materials.
+
+Drexler used the term "gray goo" not to indicate color or texture, but to emphasize the difference between "superiority" in terms of human values and "superiority" in terms of competitive success:
+
+&lt;blockquote&gt;Though masses of uncontrolled replicators need not be grey or gooey, the term "grey goo" emphasizes that replicators able to obliterate life might be less inspiring than a single species of crabgrass. They might be "superior" in an evolutionary sense, but this need not make them valuable.
+&lt;/blockquote&gt;
+
+[[Bill Joy]], one of the founders of Sun Microsystems, discussed some of the problems with pursuing this technology in his now-famous 2000 article in ''[[Wired (magazine)|Wired]]'' magazine, titled "[[Why the Future Doesn't Need Us]]". In direct response to Joy's concerns, the first quantitative technical analysis of the [[ecophagy]] scenario was published in 2000 by nanomedicine pioneer [[Robert Freitas]].&lt;ref name="freitas"/&gt;
+
+==Risks and precautions==
+Drexler more recently conceded that there is no need to build anything that even resembles a potential runaway replicator. This would avoid the problem entirely. In a paper in the journal ''[[Nanotechnology (journal)|Nanotechnology]]'', he argues that self-replicating machines are needlessly complex and inefficient. His 1992 technical book on advanced nanotechnologies ''[[Nanosystems|Nanosystems: Molecular Machinery, Manufacturing, and Computation]]''&lt;ref&gt;{{cite book |url=http://www.e-drexler.com/d/06/00/Nanosystems/toc.html |title=Nanosystems: molecular machinery, manufacturing, and computation |first=K. Eric |last=Drexler |publisher=Wiley |year=1992 |isbn=978-0-471-57518-4}}&lt;/ref&gt; describes manufacturing systems that are desktop-scale factories with specialized machines in fixed locations and conveyor belts to move parts from place to place. None of these measures would prevent a party from creating a weaponized grey goo, were such a thing possible.
+
+[[Charles, Prince of Wales|Prince Charles]] called upon the British [[Royal Society]] to investigate the "enormous environmental and social risks" of nanotechnology in a planned report, leading to much media commentary on gray goo. The Royal Society's report on nanoscience was released on 29 July 2004, and declared the possibility of self-replicating machines to lie too far in the future to be of concern to regulators.&lt;ref&gt;{{cite web | url=http://www.nanotec.org.uk/finalReport.htm| title=Nanoscience and nanotechnologies: opportunities and uncertainties| publisher=The Royal Society| accessdate=2011-08-23}}&lt;/ref&gt;
+
+More recent analysis in the paper titled ''Safe Exponential Manufacturing'' from the [[Institute of Physics]] (co-written by Chris Phoenix, Director of Research of the Center for Responsible Nanotechnology, and Eric Drexler), shows that the danger of grey goo is far less likely than originally thought.&lt;ref&gt;{{cite press release| url=http://www.crnano.org/PR-IOP.htm| date=9 June 2004| title=Leading nanotech experts put 'grey goo' in perspective| publisher=Center for Responsible Nanotechnology| accessdate=2006-06-17}}&lt;/ref&gt; However, other long-term major risks to society and the environment from nanotechnology have been identified.&lt;ref&gt;{{cite web
+| url=http://www.crnano.org/dangers.htm| title= Current Results of Our Research| publisher=Center for Responsible Nanotechnology| accessdate=2006-06-17}}&lt;/ref&gt; Drexler has made a somewhat public effort to retract his grey goo hypothesis, in an effort to focus the debate on more realistic threats associated with knowledge-enabled nanoterrorism and other misuses.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/2/hi/science/nature/3788673.stm| title=Nanotech guru turns back on 'goo'| publisher= BBC News|accessdate=2012-03-30|first=Paul|last=Rincon|date=2004-06-09}}&lt;/ref&gt;
+
+In ''Safe Exponential Manufacturing'', which was published in a 2004 issue of ''Nanotechnology'', it was suggested that creating manufacturing systems with the ability to self-replicate by the use of their own energy sources would not be needed.&lt;ref&gt;{{cite journal|last=Phoenix|first=Chris|author2=Eric Drexler|title=Safe Exponential Manufacturing|journal=Nanotechnology|date=August 2004|doi=10.1088/0957-4484/15/8/001 |volume=15|issue=8|pages=869–72|url=http://rachel.org/lib/safe_exponential_manufacturing.040601.pdf}}&lt;/ref&gt; The Foresight Institute also recommended embedding controls in the molecular machines. These controls would be able to prevent anyone from purposely abusing nanotechnology, and therefore avoid the grey goo scenario.&lt;ref&gt;{{cite web |url=http://www.foresight.org/guidelines/current.html| title=Foresight Guidelines for Responsible Nanotechnology Development| publisher= Foresight Institute and IMM|accessdate=2012-05-07}}&lt;/ref&gt;
+
+==Ethics and chaos==
+Grey goo is a useful construct for considering low-probability, high-impact outcomes from emerging technologies. Thus, it is a useful tool in the [[ethics of technology]]. [[Daniel A. Vallero]]&lt;ref&gt;{{cite book |title=Biomedical Ethics for Engineers: Ethics and Decision Making in Biomedical and Biosystem Engineering|first=Daniel|last=Vallero |publisher=Academic Press |year=2007 |isbn=9780080476100}}&lt;/ref&gt; applied it as a worst-case scenario thought experiment for technologists contemplating possible risks from advancing a technology. This requires that a [[decision tree]] or [[event tree]] include even extremely low probability events if such events may have an extremely negative and irreversible consequence, i.e. application of the [[precautionary principle]]. Dianne Irving&lt;ref&gt;{{cite journal |title=Science, the formation of conscience and moral decision theory|last1=Irving |first1=Dianne|journal=Proceedings of the Guadalupan Appeal: The Dignity and Status of the Human Embryo, Mexico City, Mexico|date=October 28, 1999}}&lt;/ref&gt; admonishes that "any error in science will have a rippling effect....". Vallero adapted this reference to chaos theory to emerging technologies, wherein slight permutations of initial conditions can lead to unforeseen and profoundly negative downstream effects, for which the technologist and the new technology's proponents must be held accountable.
+
+==In fiction==
+{{See also|Self-replicating machines in fiction}}
+
+==See also==
+&lt;!-- Please keep entries in alphabetical order &amp; add a short description [[WP:SEEALSO]] --&gt;
+{{div col||20em|small=yes}}
+* [[Alkahest]]
+* [[Astrochicken]]
+* [[Claytronics]]
+* [[Ice-nine]]
+* [[Molecular machines]]
+* [[Paperclip maximizer]]
+* [[Programmable matter]]
+* [[Self-replicating machine]]
+* [[Self-reconfiguring modular robot]]
+* [[Smartdust]]
+* [[Synthetic biology]]
+* [[Utility fog]]
+{{div col end}}
+&lt;!-- please keep entries in alphabetical order --&gt;
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+{{refbegin}}
+* [[Lynn Margulis]] and [[Dorion Sagan]]—''What Is Life?'' (1995). Simon &amp; Schuster. {{ISBN|0-684-81087-5}}
+* Bill Bryson ''[[A Short History of Nearly Everything]]'' (2003)
+* [https://archive.org/details/NickSzabosEssayGreenGoo-LifeInTheEraOfHumaneGenocide Green Goo—Life in the Era of Humane Genocide] by Nick Szabo
+* [http://www.etcgroup.org/upload/publication/174/01/comm_greengoo77.pdf Green Goo: Nanotechnology Comes Alive!]
+* [http://archive.wired.com/medtech/health/news/2004/07/64235 Green Goo: The New Nanothreat] from ''Wired''
+{{refend}}
+
+== External links ==
+* [http://lifeboat.com/ex/global.ecophagy Some Limits to Global Ecophagy by Biovorous Nanoreplicators, with Public Policy Recommendations]
+* [http://www.crnano.org/papers.htm#Goo Safe exponential manufacturing] Paper critical of "grey goo," summarized in article [http://www.physorg.com/news170.html Nanotechnology pioneer slays "grey goo" myths]
+* [http://www.nanotec.org.uk/finalReport.htm Online edition of the Royal Society's report ''Nanoscience and nanotechnologies: opportunities and uncertainties'']
+* [http://www.nanotec.org.uk/ UK Government &amp; Royal Society commission on Nanotechnology and Nanoscience]
+* [http://people.ee.duke.edu/~dwyer/courses/ece299.05/Drexler%20vs%20Smalley.pdf Nanotechnology: Drexler and Smalley make the case for and against 'molecular assemblers'] ([[Richard Smalley]] argues that laws of chemistry imply it will be impossible to ever create "self-replicating nanobots" whose abilities to assemble molecules are significantly different than those of biological self-replicators. Some pro-nanobot responses to Smalley's argument can be found at [http://www.imm.org/publications/sciamdebate2/smalley/ Debate About Assemblers — Smalley Rebuttal], [http://www.kurzweilai.net/the-drexler-smalley-debate-on-molecular-assembly The Drexler-Smalley debate on molecular assembly], [http://www.crnano.org/Debate.htm Of Chemistry, Nanobots, and Policy], and [http://www.foresight.org/nano/istherev.html Is the Revolution Real?])
+* [http://www.bbc.co.uk/dna/h2g2/plain/A879933 Nanotechnology and the Grey Goo Problem], ''BBC''
+
+{{Molecular nanotechnology footer}}
+{{Doomsday}}
+
+[[Category:Artificial life]]
+[[Category:Hypothetical environmental disasters]]
+[[Category:Doomsday scenarios]]
+[[Category:Words coined in the 1980s]]
+[[Category:Nanotechnology]]
+[[Category:Robotic concepts]]
+[[Category:Self-replicating machines]]</text>
+      <sha1>mxzmovwpw63ycr8k6vt8als1hfdqluv</sha1>
+    </revision>
+  </page>
+</mediawiki>

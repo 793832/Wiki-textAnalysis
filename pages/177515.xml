@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <page>
+    <title>Molecular engineering</title>
+    <ns>0</ns>
+    <id>177515</id>
+    <revision>
+      <id>774109267</id>
+      <parentid>758666748</parentid>
+      <timestamp>2017-04-06T10:27:44Z</timestamp>
+      <contributor>
+        <username>Rjwilmsi</username>
+        <id>203434</id>
+      </contributor>
+      <minor></minor>
+      <comment>Journal cites:, added 2 PMIDs, added 1 Bibcode using [[Project:AWB|AWB]] (12150)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Molecular engineering''' is an emerging field of study concerned with the design and testing of molecular properties, behavior and interactions in order to assemble better materials, systems, and processes for specific functions. This approach, in which observable properties of a macroscopic system are influenced by direct alteration of a molecular structure, falls into the broader category of “bottom-up” design.
+
+[[File:SizeVersusComplexity.png|thumb|Molecular engineering deals with material development efforts in emerging technologies that require rigorous rational molecular design approaches towards systems of high complexity.]]
+
+Molecular engineering is highly interdisciplinary by nature, encompassing aspects of [[chemical engineering]], [[materials science]], [[Biological engineering|bioengineering]], [[electrical engineering]], [[physics]], [[mechanical engineering]], and [[chemistry]]. There is also considerable overlap with [[nanotechnology]], in that both are concerned with the behavior of materials on the scale of nanometers or smaller. Given the highly fundamental nature of molecular interactions, there are a plethora of potential application areas, limited perhaps only by one’s imagination and the laws of physics. However, some of the early successes of molecular engineering have come in the fields of immunotherapy, synthetic biology, and printable electronics (see [[#Applications|molecular engineering applications]]).
+
+Molecular engineering is a dynamic and evolving field with complex target problems; breakthroughs require sophisticated and creative engineers who are conversant across disciplines. A rational engineering methodology that is based on molecular principles is in contrast to the widespread trial-and-error approaches common throughout engineering disciplines. Rather than relying on well-described but poorly-understood empirical correlations between the makeup of a system and its properties, a molecular design approach seeks to manipulate system properties directly using an understanding of their chemical and physical origins. This often gives rise to fundamentally new materials and systems, which are required to address outstanding needs in numerous fields, from energy to healthcare to electronics. Additionally, with the increased sophistication of technology, trial-and-error approaches are often costly and difficult, as it may be difficult to account for all relevant dependencies among variables in a [[complex system]]. Molecular engineering efforts may include computational tools, experimental methods, or a combination of both.
+
+==History==
+
+Molecular engineering was first mentioned in the research literature in 1956 by [[Arthur R. von Hippel]], who defined it as "… a new mode of thinking about engineering problems.  Instead of taking prefabricated materials and trying to devise engineering applications consistent with their macroscopic properties, one builds materials from their atoms and molecules for the purpose at hand."&lt;ref&gt;{{Cite journal|last=von Hippel|first=Arthur R|date=1956|title=Molecular Engineering|jstor=1750067|journal=Science|volume=123|issue=3191|doi=|pmid=|via=}}&lt;/ref&gt; This concept was echoed in [[Richard Feynman|Richard Feynman’s]] seminal 1959 lecture ''[[There's Plenty of Room at the Bottom]]'', which is widely regarded as giving birth to some of the fundamental ideas of the field of [[nanotechnology]]. In spite of the early introduction of these concepts, it was not until the mid-1980s with the publication of ''[[Engines of Creation|Engines of Creation: The Coming Era of Nanotechnology]]'' by [[K. Eric Drexler|Drexler]] that the modern concepts of nano and molecular-scale science began to grow in the public consciousness.
+
+The discovery of electrically-conductive properties in [[polyacetylene]] by [[Alan J. Heeger]] in 1977&lt;ref&gt;{{Cite journal|last=Chiang|first=C. K.|date=1977-01-01|title=Electrical Conductivity in Doped Polyacetylene|url=http://link.aps.org/doi/10.1103/PhysRevLett.39.1098|journal=Physical Review Letters|volume=39|issue=17|pages=1098–1101|doi=10.1103/PhysRevLett.39.1098|bibcode=1977PhRvL..39.1098C}}&lt;/ref&gt; effectively opened the field of [[organic electronics]], which has proved foundational for many molecular engineering efforts. Design and optimization of these materials has led to a number of innovations including [[OLED|organic light-emitting diodes]] &lt;nowiki/&gt;and [[Organic solar cell|flexible solar cells]].
+
+==Applications==
+Molecular design has been an important element of many disciplines in academia, including bioengineering, chemical engineering, electrical engineering, materials science, mechanical engineering and chemistry.  However, one of the ongoing challenges is in bringing together the critical mass of manpower amongst disciplines to span the realm from design theory to materials production, and from device design to product development.  Thus, while the concept of rational engineering of technology from the bottom-up is not new, it is still far from being widely translated into R&amp;D efforts.
+
+Molecular engineering is used in many industries. Some applications of technologies where molecular engineering plays a critical role:
+
+=== Consumer Products ===
+
+* Antibiotic surfaces (e.g. incorporation of silver nanoparticles or antibacterial peptides into coatings to prevent microbial infection)&lt;ref&gt;{{Cite journal|last=Gallo|first=Jiri|last2=Holinka|first2=Martin|last3=Moucha|first3=Calin S.|date=2014-08-11|title=Antibacterial Surface Treatment for Orthopaedic Implants|url=http://www.mdpi.com/1422-0067/15/8/13849|journal=International Journal of Molecular Sciences|language=en|volume=15|issue=8|pages=13849–13880|doi=10.3390/ijms150813849}}&lt;/ref&gt;  
+* Cosmetics (e.g. rheological modification with small molecules and surfactants in shampoo)
+* Cleaning products (e.g. [[Silver nanoparticle|nanosilver]] in laundry detergent)
+* Consumer electronics (organic light-emitting diode displays (OLED))
+* [[Electrochromic devices|Electrochromic]] windows (e.g. windows in [[Dreamliner 787]]) 
+* Zero emission vehicles (e.g. advanced [[fuel cell]]s/batteries)
+* Self-cleaning surfaces (e.g. super [[Superhydrophobic coating|hydrophobic surface coatings]])
+
+=== [[Energy harvesting|Energy Harvesting]] and [[Energy storage|Storage]] ===
+
+* [[Flow battery|Flow batteries]] - Synthesizing molecules for high-energy density electrolytes and highly-selective membranes in grid-scale energy storage systems.&lt;ref&gt;{{Cite journal|last=Huang|first=Jinhua|last2=Su|first2=Liang|last3=Kowalski|first3=Jeffrey A.|last4=Barton|first4=John L.|last5=Ferrandon|first5=Magali|last6=Burrell|first6=Anthony K.|last7=Brushett|first7=Fikile R.|last8=Zhang|first8=Lu|date=2015-07-14|title=A subtractive approach to molecular engineering of dimethoxybenzene-based redox materials for non-aqueous flow batteries|url=http://xlink.rsc.org/?DOI=C5TA02380G|journal=J. Mater. Chem. A|language=en|volume=3|issue=29|pages=14971–14976|doi=10.1039/c5ta02380g|issn=2050-7496}}&lt;/ref&gt;
+* [[Lithium-ion battery|Lithium-ion batteries]] - Creating new molecules for use as electrode binders,&lt;ref&gt;{{Cite journal|last=Wu|first=Mingyan|last2=Xiao|first2=Xingcheng|last3=Vukmirovic|first3=Nenad|last4=Xun|first4=Shidi|last5=Das|first5=Prodip K.|last6=Song|first6=Xiangyun|last7=Olalde-Velasco|first7=Paul|last8=Wang|first8=Dongdong|last9=Weber|first9=Adam Z.|date=2013-07-31|title=Toward an Ideal Polymer Binder Design for High-Capacity Battery Anodes|url=http://pubs.acs.org/doi/abs/10.1021/ja4054465|journal=Journal of the American Chemical Society|language=EN|volume=135|issue=32|pages=12048–12056|doi=10.1021/ja4054465|pmid=23855781}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last=Choi|first=Jaecheol|last2=Kim|first2=Kyuman|last3=Jeong|first3=Jiseon|last4=Cho|first4=Kuk Young|last5=Ryou|first5=Myung-Hyun|last6=Lee|first6=Yong Min|date=2015-06-30|title=Highly Adhesive and Soluble Copolyimide Binder: Improving the Long-Term Cycle Life of Silicon Anodes in Lithium-Ion Batteries|url=http://pubs.acs.org/doi/abs/10.1021/acsami.5b03364|journal=ACS Applied Materials &amp; Interfaces|language=EN|volume=7|issue=27|pages=14851–14858|doi=10.1021/acsami.5b03364}}&lt;/ref&gt; electrolytes,&lt;ref&gt;{{Cite journal|last=Tan|first=Shi|last2=Ji|first2=Ya J.|last3=Zhang|first3=Zhong R.|last4=Yang|first4=Yong|date=2014-07-21|title=Recent Progress in Research on High-Voltage Electrolytes for Lithium-Ion Batteries|url=http://onlinelibrary.wiley.com/doi/10.1002/cphc.201402175/abstract|journal=ChemPhysChem|language=en|volume=15|issue=10|pages=1956–1969|doi=10.1002/cphc.201402175|issn=1439-7641}}&lt;/ref&gt; electrolyte additives,&lt;ref&gt;{{Cite journal|last=Zhu|first=Ye|last2=Li|first2=Yan|last3=Bettge|first3=Martin|last4=Abraham|first4=Daniel P.|date=2012-01-01|title=Positive Electrode Passivation by LiDFOB Electrolyte Additive in High-Capacity Lithium-Ion Cells|url=http://jes.ecsdl.org/content/159/12/A2109|journal=Journal of The Electrochemical Society|language=en|volume=159|issue=12|pages=A2109–A2117|doi=10.1149/2.083212jes|issn=0013-4651}}&lt;/ref&gt; or even for energy storage directly&lt;ref&gt;{{Cite web|url=http://www.printedelectronicsworld.com/articles/560/new-laminar-batteries|title=New Laminar Batteries {{!}} Printed Electronics World|date=2007-05-18|access-date=2016-08-06}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last=Nokami|first=Toshiki|last2=Matsuo|first2=Takahiro|last3=Inatomi|first3=Yuu|last4=Hojo|first4=Nobuhiko|last5=Tsukagoshi|first5=Takafumi|last6=Yoshizawa|first6=Hiroshi|last7=Shimizu|first7=Akihiro|last8=Kuramoto|first8=Hiroki|last9=Komae|first9=Kazutomo|date=2012-11-20|title=Polymer-Bound Pyrene-4,5,9,10-tetraone for Fast-Charge and -Discharge Lithium-Ion Batteries with High Capacity|url=http://pubs.acs.org/doi/abs/10.1021/ja306663g|journal=Journal of the American Chemical Society|language=EN|volume=134|issue=48|pages=19694–19700|doi=10.1021/ja306663g|pmid=23130634}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last=Liang|first=Yanliang|last2=Chen|first2=Zhihua|last3=Jing|first3=Yan|last4=Rong|first4=Yaoguang|last5=Facchetti|first5=Antonio|last6=Yao|first6=Yan|date=2015-04-11|title=Heavily n-Dopable π-Conjugated Redox Polymers with Ultrafast Energy Storage Capability|url=http://pubs.acs.org/doi/10.1021/jacs.5b02290|journal=Journal of the American Chemical Society|language=EN|volume=137|issue=15|pages=4956–4959|doi=10.1021/jacs.5b02290}}&lt;/ref&gt; in order to improve energy density (using materials such as [[graphene]], silicon [[nanorod]]s, and [[Lithium metal battery|lithium metal]]), power density, cycle life, and safety.
+* [[Solar cell]]s - Developing new materials for more efficient and cost-effective solar cells including [[Organic solar cell|organic]], [[Quantum dot solar cell|quantum dot]] or [[Perovskite solar cell|perovskite]]-based [[photovoltaics]].
+* [[Photocatalytic water splitting]] - Enhancing the production of hydrogen fuel using solar energy and advanced catalytic materials such as [[semiconductor nanoparticles]]
+
+=== Environmental Engineering ===
+
+* [[Desalination|Water desalination]] (e.g. new membranes for highly-efficient low-cost ion removal&lt;ref&gt;{{Cite journal|last=Surwade|first=Sumedh P.|last2=Smirnov|first2=Sergei N.|last3=Vlassiouk|first3=Ivan V.|last4=Unocic|first4=Raymond R.|last5=Veith|first5=Gabriel M.|last6=Dai|first6=Sheng|last7=Mahurin|first7=Shannon M.|title=Water desalination using nanoporous single-layer graphene|url=http://www.nature.com/doifinder/10.1038/nnano.2015.37|journal=Nature Nanotechnology|volume=10|issue=5|pages=459–464|doi=10.1038/nnano.2015.37}}&lt;/ref&gt;)
+* Soil remediation (e.g. catalytic nanoparticles that accelerate the degradation of long-lived soil contaminants such as chlorinated organic compounds&lt;ref&gt;{{Cite journal|last=He|first=Feng|last2=Zhao|first2=Dongye|last3=Paul|first3=Chris|date=2010-04-01|title=Field assessment of carboxymethyl cellulose stabilized iron nanoparticles for in situ destruction of chlorinated solvents in source zones|url=http://www.sciencedirect.com/science/article/pii/S0043135409008537|journal=Water Research|volume=44|issue=7|pages=2360–2370|doi=10.1016/j.watres.2009.12.041}}&lt;/ref&gt;)
+* Carbon sequestration (e.g. new materials for CO&lt;sub&gt;2&lt;/sub&gt; adsorption&lt;ref&gt;{{Cite web|url=http://cen.acs.org/articles/93/web/2015/12/Better-Carbon-Capture-Through-Chemistry.html|title=Better Carbon Capture Through Chemistry {{!}} Chemical &amp; Engineering News|last=Pelley|first=Janet|website=cen.acs.org|access-date=2016-08-06}}&lt;/ref&gt;)
+
+=== [[Immunotherapy]] ===
+* Peptide-based vaccines (e.g. amphiphilic peptide macromolecular assemblies induce a robust immune response)&lt;ref&gt;{{Cite journal|last=Black|first=Matthew|last2=Trent|first2=Amanda|last3=Kostenko|first3=Yulia|last4=Lee|first4=Joseph Saeyong|last5=Olive|first5=Colleen|last6=Tirrell|first6=Matthew|date=2012-07-24|title=Self-Assembled Peptide Amphiphile Micelles Containing a Cytotoxic T-Cell Epitope Promote a Protective Immune Response In Vivo|url=http://onlinelibrary.wiley.com/doi/10.1002/adma.201200209/abstract|journal=Advanced Materials|language=en|volume=24|issue=28|pages=3845–3849|doi=10.1002/adma.201200209|issn=1521-4095}}&lt;/ref&gt;
+
+=== [[Synthetic biology|Synthetic Biology]] ===
+
+* [[CRISPR]] - Faster and more efficient gene editing technique
+* [[Gene delivery]]/[[gene therapy]] - Designing molecules to deliver modified or new genes into cells of live organisms to cure genetic disorders
+* [[Metabolic engineering]] - Modifying metabolism of organisms to optimize production of chemicals (e.g. [[Synthetic Genomics|synthetic genomics]])
+* [[Protein engineering]] - Altering structure of existing proteins to enable specific new functions, or the creation of fully artificial proteins
+
+== Techniques and instruments used ==
+Molecular engineers utilize sophisticated tools and instruments to make and analyze the interactions of molecules and the surfaces of materials at the molecular and nano-scale. The complexity of molecules being introduced at the surface is increasing, and the techniques used to analyze surface characteristics at the molecular level are ever-changing and improving. Meantime, advancements in high performance computing have greatly expanded the use of computer simulation in the study of molecular scale systems.
+
+=== Computational and Theoretical Approaches ===
+* [[Computational chemistry]]
+* [[Supercomputer|High performance computing]]
+* [[Molecular dynamics]]
+* [[Molecular modelling|Molecular modeling]]
+* [[Statistical mechanics]]
+* [[Theoretical chemistry]]
+[[File:Environmental Transmission Electron Microscope.jpg|thumb|An EMSL scientist using the environmental transmission electron microscope at Pacific Northwest National Laboratory. The ETEM provides in situ capabilities that enable atomic-resolution imaging and spectroscopic studies of materials under dynamic operating conditions. In contrast to traditional operation of TEM under high vacuum, EMSL’s ETEM uniquely allows imaging within high-temperature and gas environments.]]
+
+=== Microscopy ===
+* [[Atomic-force microscopy|Atomic Force Microscopy (AFM)]]
+* [[Scanning electron microscope|Scanning Electron Microscopy (SEM)]]
+* [[Transmission electron microscopy|Transmission Electron Microscopy (TEM)]]
+
+=== Molecular Characterization ===
+* [[Dynamic light scattering|Dynamic light scattering (DLS)]]
+* [[Matrix-assisted laser desorption/ionization|Matrix-assisted laser desorption/ionization (MALDI) spectrocosopy]]
+* [[Nuclear magnetic resonance spectroscopy|Nuclear magnetic resonance (NMR) spectroscopy]]
+* [[Size-exclusion chromatography|Size exclusion chromatography (SEC)]]
+
+=== Spectroscopy ===
+* [[Ellipsometry]]
+* 2D [[X-Ray Diffraction|X-Ray Diffraction (XRD)]]
+* [[Raman spectroscopy|Raman Spectroscopy/Microscopy]]
+
+=== Surface Science ===
+* Glow Discharge Optical Emission Spectrometry
+* [[Mass spectrometry#Time-of-flight|Time of Flight-Secondary Ion Mass Spectrometry (ToF-SIMS)]]
+* [[X-ray photoelectron spectroscopy|X-Ray Photoelectron Spectroscopy (XPS)]]
+
+=== Synthetic Methods ===
+* [[DNA synthesis]]
+* [[Nanoparticle#Synthesis|Nanoparticle synthesis]]
+* [[Organic synthesis]]
+* [[Peptide synthesis]]
+* [[Polymerization|Polymer synthesis]]
+
+=== Other Tools ===
+* [[Focused ion beam|Focused Ion Beam (FIB)]]
+* [[Profilometer]]
+* [[Ultraviolet photoelectron spectroscopy|UV Photoelectron Spectroscopy]] (UPS)
+* [[Sum frequency generation spectroscopy|Vibrational Sum Frequency Generation]]
+
+== Research / Education ==
+At least three universities offer graduate degrees dedicated to molecular engineering: the [[University of Chicago]],&lt;ref&gt;{{Cite web|url=https://ime.uchicago.edu|title=Institute for Molecular Engineering|website=ime.uchicago.edu|access-date=2016-08-06}}&lt;/ref&gt; the [[University of Washington]],&lt;ref&gt;{{Cite web|url=http://www.moles.washington.edu/phd/|title=Molecular Engineering &amp; Sciences Institute|website=www.moles.washington.edu|access-date=2016-08-06}}&lt;/ref&gt; and [[Kyoto University]].&lt;ref&gt;{{Cite web|url=http://www.ml.t.kyoto-u.ac.jp/en|title=Top page - Kyoto University, Department of Molecular Engineering|website=www.ml.t.kyoto-u.ac.jp|access-date=2016-08-06}}&lt;/ref&gt; These programs are interdisciplinary institutes with faculty from several research areas.
+
+The academic journal Molecular Systems Design &amp; Engineering&lt;ref&gt;{{Cite web|url=http://www.rsc.org/journals-books-databases/about-journals/molecular-systems-design-engineering/|title=Molecular Systems Design &amp; Engineering|last=|first=|date=July 31, 2014|website=|publisher=Royal Society of Chemistry|access-date=August 6, 2016}}&lt;/ref&gt; publishes research from a wide variety of subject areas that demonstrates "a molecular design or optimisation strategy targeting specific systems functionality and performance."
+
+==See also==
+
+===General topics===
+* [[Biological engineering]]
+* [[Biomolecular engineering]]
+* [[Chemical engineering]]
+* [[Chemistry]]
+* [[Electrical engineering]]
+* [[Materials science|Materials science and engineering]]
+* [[Mechanical engineering]]
+* [[Molecular design software]]
+* [[Molecular electronics]]
+* [[Molecular modeling]]
+* [[Molecular nanotechnology]]
+* [[Nanotechnology]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+{{Prone to spam|date=August 2014}}
+{{Z148}}&lt;!--     {{No more links}}
+
+       Please be cautious adding more external links.
+
+Wikipedia is not a collection of links and should not be used for advertising.
+
+     Excessive or inappropriate links will be removed.
+
+ See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details.
+
+If there are already suitable links, propose additions or replacements on
+the article's talk page, or submit your link to the relevant category at
+DMOZ (dmoz.org) and link there using {{Dmoz}}.
+
+--&gt;
+
+{{Engineering fields}}
+
+[[Category:Nanotechnology]]
+[[Category:Engineering disciplines]]</text>
+      <sha1>4johgjp3lr5g3szcynz329xiwym1jie</sha1>
+    </revision>
+  </page>
+</mediawiki>

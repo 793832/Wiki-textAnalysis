@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <page>
+    <title>Femtotechnology</title>
+    <ns>0</ns>
+    <id>1498102</id>
+    <revision>
+      <id>790728557</id>
+      <parentid>747012427</parentid>
+      <timestamp>2017-07-15T18:23:53Z</timestamp>
+      <contributor>
+        <username>Sb2001</username>
+        <id>17007217</id>
+      </contributor>
+      <comment>compared to → compared with</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Femtotechnology''' is a hypothetical term used in reference to structuring of matter on the scale of a [[femtometre|femtometer]], which is 10&lt;sup&gt;−15&lt;/sup&gt;&amp;nbsp;m. This is a smaller scale in comparison with [[nanotechnology]] and [[picotechnology]] which refer to 10&lt;sup&gt;−9&lt;/sup&gt;&amp;nbsp;m and 10&lt;sup&gt;−12&lt;/sup&gt;&amp;nbsp;m respectively.
+
+==Theory==
+Work in the femtometer range involves manipulation of excited energy states within [[atomic nucleus|atomic nuclei]], specifically [[nuclear isomer]]s, to produce metastable (or otherwise stabilized) states with unusual properties. In the extreme case, excited states of the individual [[nucleon]]s that make up the atomic nucleus ([[proton]]s and [[neutron]]s) are considered, ostensibly to tailor the behavioral properties of these particles.
+
+The most advanced form of [[molecular nanotechnology]] is often imagined to involve [[Self-replicating machine|self-replicating]] molecular machines, and there have been some speculations suggesting something similar might be possible with analogues of molecules composed of [[nucleons]] rather than atoms. For example, the [[astrophysicist]] [[Frank Drake]] once speculated about the possibility of self-replicating organisms composed of such nuclear molecules living on the surface of a [[neutron star]], a suggestion taken up in the [[science fiction]] novel ''[[Dragon's Egg]]'' by the [[physicist]] [[Robert Forward]].&lt;ref&gt;[http://www.daviddarling.info/encyclopedia/N/neutronstarlife.html neutron star, life on&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; It is thought by physicists that nuclear molecules may be possible,&lt;ref&gt;[http://www.aip.org/pnu/1991/split/pnu029-2.htm Physics News Update Number 29 - DO NUCLEAR MOLECULES EXIST?&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref&gt;[http://www.worldscibooks.com/physics/2318.html Nuclear Molecules&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; but they would be very short-lived, and whether they could actually be made to perform complex tasks such as self-replication, or what type of technology could be used to manipulate them, is unknown.
+
+==Applications==
+Practical applications of femtotechnology are currently considered to be unlikely. The spacings between nuclear energy levels require equipment capable of efficiently generating and processing gamma rays, without equipment degradation. The nature of the [[strong interaction]] is such that excited nuclear states tend to be very unstable (unlike the excited electron states in [[Rydberg atom]]s), and there are a finite number of excited states below the nuclear binding energy, unlike the (in principle) infinite number of bound states available to an atom’s electrons. Similarly, what is known about the excited states of individual nucleons seems to indicate that these do not produce behavior that in any way makes nucleons easier to use or manipulate, and indicates instead that these excited states are even less stable and fewer in number than the excited states of atomic nuclei.
+
+==See also==
+* [[Attophysics]]
+* [[Femtochemistry]]
+* [[Mode-locking]], a laser technique producing pulses in the femtosecond range
+* [[Ultrashort pulse]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20041025030505/http://www.cs.usu.edu/~degaris/essays/femtotech.html Femtotech? (Sub)Nuclear Scale Engineering and Computation]
+*[http://www.scipub.org/fulltext/ajeas/ajeas22501-514.pdf Femtotechnology: Nuclear Matter with Fantastic Properties]
+*[https://archive.org/details/FemtotechnologyDesignOfTheStrongestAb-matterForAerospace Femtotechnology: Design of the Strongest AB-Matter for Aerospace]
+*[http://hplusmagazine.com/2011/01/10/theres-plenty-more-room-bottom-beyond-nanotech-femtotech/ There’s Plenty More Room at the Bottom: Beyond Nanotech to Femtotech]
+*[http://hplusmagazine.com/2011/11/01/femtocomputing/ Femtocomputing]
+
+{{Levels of technological manipulation of matter}}
+
+[[Category:Futurology]]
+[[Category:Nanotechnology]]</text>
+      <sha1>rw2ecbhpp47auv79kjp8vc48y8uysjb</sha1>
+    </revision>
+  </page>
+</mediawiki>

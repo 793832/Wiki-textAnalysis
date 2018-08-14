@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <page>
+    <title>Nanoengineering</title>
+    <ns>0</ns>
+    <id>21561</id>
+    <revision>
+      <id>783788938</id>
+      <parentid>783788858</parentid>
+      <timestamp>2017-06-04T17:27:09Z</timestamp>
+      <contributor>
+        <ip>68.101.162.50</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Nanotechnology}}
+'''Nanoengineering''' is the practice of [[engineering]] on the [[nanoscale]]. It derives its name from the [[nanometre]], a unit of measurement equalling one billionth of a meter.
+
+Nanoengineering is largely a synonym for [[nanotechnology]], but emphasizes the engineering rather than the pure science aspects of the field.
+
+==Degree programs==
+
+{{Seealso|Nanotechnology education}}
+
+The first nanoengineering program  was started at the [[University of Toronto]] within the Engineering Science program as one of the options of study in the final years. In 2003, the [[Lund Institute of Technology]] started a program in Nanoengineering. In 2004, the [[College of Nanoscale Science and Engineering]] at [[SUNY Polytechnic Institute]] was established on the campus of the [[University at Albany]]. In 2005, the [[University of Waterloo]] established a unique program which offers a full degree in Nanotechnology Engineering. &lt;ref&gt;{{cite web
+| url = http://www.nanotech.uwaterloo.ca/About_Nano_at_UW/
+| title = Welcome to Nanotechnology Engineering at UW
+| publisher = Department of Nanotechnology Engineering
+| accessdate = 2008-10-07
+}}&lt;/ref&gt; [[Louisiana Tech University]] started the first program in the U.S. in 2005. In 2006 the [[University of Duisburg-Essen]] started a Bachelor and a Master program NanoEngineering. &lt;ref&gt;{{cite web
+| url = http://www.uni-due.de/nanoengineering/| title = NanoEngineering at University of Duisburg-Essen}}&lt;/ref&gt; Unlike early NanoEngineering programs, the first Nanoengineering Department in the world, offering both undergraduate and graduate degrees, was established by the  [[University of California, San Diego]] in 2007.
+In 2009, the [[University of Toronto]] began offering all Options of study in Engineering Science as degrees, bringing the second nanoengineering degree to Canada. Rice University  established in 2016 a Department of Materials Science and NanoEngineering (MSNE).
+DTU Nanotech - the Department of Micro- and Nanotechnology - is a department at the [[Technical University of Denmark]] established in 1990.
+
+In 2013, [[Wayne State University]] began offering a Nanoengineering Undergraduate Certificate Program, which is funded by a Nanoengineering Undergraduate Education (NUE) grant from the [[National Science Foundation]]. The primary goal is to offer specialized undergraduate training in nanotechnology. Other goals are: 1) to teach emerging technologies at the undergraduate level, 2) to train a new adaptive workforce, and 3) to retrain working engineers and professionals.&lt;ref&gt;{{cite web|url=http://engineering.wayne.edu/nano/about.php/|title=Wayne State University Nanoengineering Certificate Program}}&lt;/ref&gt;
+
+== Techniques ==
+
+* [[Scanning tunneling microscope]] (STM) - Can be used to both image, and to manipulate structures as small as a single atom.
+* [[Molecular self-assembly]] - Arbitrary sequences of [[DNA]] can now be synthesized cheaply in bulk, and used to create custom proteins or regular patterns of amino acids. Similarly, DNA strands can bind to other DNA strands, allowing simple structures to be created.
+
+==References==
+
+{{reflist}}
+
+==See also==
+{{Wikiversity}}
+* [[List of nanoengineering topics]]
+* [[Nanotechnology]]
+* [[Picoengineering]]
+* [[Molecular engineering]]
+
+== External links ==
+* [http://www.nanoengineering.com Nanoengineering]
+* [http://www.nano.fraunhofer.de/english/index.htm Alliance of the Fraunhofer Society] 
+
+{{Engineering fields}}
+[[Category:Nanotechnology]] 
+[[Category:Engineering disciplines]]</text>
+      <sha1>283s4szhafjrhih6z683lzi3l2yfcr4</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <page>
+    <title>Agricultural biotechnology</title>
+    <ns>0</ns>
+    <id>93829</id>
+    <revision>
+      <id>788729483</id>
+      <parentid>787929313</parentid>
+      <timestamp>2017-07-03T03:38:28Z</timestamp>
+      <contributor>
+        <ip>106.67.94.132</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Suraj Mondal 
+Microbiology,University of Burdwan 
+ARTD,Ramakrishna Mission Vivekananda University,Faculty Center for IRTDM
+
+
+'''Agricultural biotechnology''', also known as '''agritech''', is an area of [[agricultural science]] involving the use of scientific tools and techniques, including [[genetic engineering]], [[molecular markers]], [[molecular diagnostics]], [[vaccines]], and [[tissue culture]], to modify living organisms: plants, animals, and [[microorganisms]].&lt;ref&gt;{{cite web | url=http://absp2.cornell.edu/resources/briefs/documents/warp_briefs_eng_scr.pdf | title=What is Agricultural Biotechnology? | publisher=Cornell University | accessdate=3 February 2015}}&lt;/ref&gt;
+Crop Biotechnology is one aspect of Agricultural Biotechnology which has been greatly developed upon in recent times. Desired trait are exported from a particular species of Crop to an entirely different species. These Transgene crops possess desirable characteristics in terms of flavor, color of flowers, growth rate, size of harvested products and resistance to diseases and pests.
+
+== History ==
+Farmers have manipulated plants and animals through selective breeding for tens of thousands of years in order to create desired traits. In the 20th century, a surge in technology resulted in an increase in agricultural biotechnology through the selection of traits like increased yield, pest resistance, drought resistance, and herbicide resistance. The first food product produced through biotechnology was sold in 1990, and by 2003 7 million farmers were utilizing biotech crops. More than 85% of these farmers were located in developing countries.&lt;ref&gt;{{Cite web|url=http://absp2.cornell.edu/resources/briefs/documents/warp_briefs_eng_scr.pdf|title=Agricultural Biotechnology|last=|first=|date=2004|website=cornell.edu|publisher=PBS, ABSP II, US Agency for International Development|access-date=1 Dec 2016}}&lt;/ref&gt;
+
+== Crop Modification Techniques ==
+
+=== Traditional Breeding&lt;ref&gt;{{Cite news|url=https://www.biofortified.org/portfolio/infographic-crop-modification-techniques/|title=Infographic: Crop Modification Techniques - Biology Fortified, Inc.|newspaper=Biology Fortified, Inc.|language=en-US|access-date=2016-12-05}}&lt;/ref&gt; ===
+Traditional crossbreeding has been used for centuries to improve crop quality and quantity. Crossbreeding mates two sexually compatible species to create a new variety with the desired traits of the parents. For example, the honeycrisp apple exhibits a specific texture and flavor due to the crossbreeding of its parents.  In traditional practices, pollen from one plant is placed on the female part of another, which leads to a hybrid that contains genetic information from both parent plants. Plant breeders select the plants with the traits they’re looking to pass on and continue to breed those plants. Note that crossbreeding can only be utilized within the same or closely related species.
+
+=== [[Mutation breeding|Mutagenesis]] ===
+Mutations can occur randomly in the DNA of any organism. In order to create variety within crops, scientists can randomly induce mutations within plants. Mutagenesis uses radioactivity to induce random mutations in the hopes of stumbling upon the desired trait. Scientists can use mutating chemicals such as ethyl methanesulfonate, or radioactivity to create random mutations within the DNA. [[Atomic gardening|Atomic gardens]] are used to mutate crops. A radioactive core in located in the center of a circular garden and raised out of the ground to radiate the surrounding crops, generating mutations within a certain radius. Interestingly, mutagenesis through radiation was the process used to produce ruby red grapefruits.
+
+=== Polyploidy ===
+Polyploidy can be induced to modify the number of chromosomes in a crop in order to influence its fertility or size. Usually, organisms have two sets of chromosomes, otherwise known as a diploidy. However, either naturally or through the use of chemicals, that number of chromosomes can change, resulting in fertility changes or size modification within the crop. Seedless watermelons are created in this manner; a 4-set chromosome watermelon is crossed with a 2-set chromosome watermelon to create a sterile (seedless) watermelon with 3 sets of chromosomes.
+
+=== Protoplast Fusion ===
+Protoplast fusion is the joining of cells or cell components to transfer traits between species.  For example, the trait of male sterility is transferred from radishes to red cabbages by protoplast fusion. This male sterility helps plant breeders make hybrid crops.&lt;ref&gt;{{Cite journal|last=De Beuckeleer|first=Mariani|last2=De Beuckeleer|first2=Celestina|last3=De Beuckeleer|first3=Marc|last4=Truettner|first4=Jessie|last5=Leemans|first5=Jan|last6=Goldberg|first6=Robert|year=1990|title=Induction of Male Sterility in Plants by a Chimaeric Ribonuclease Gene.|url=|journal=Nature|volume=437.6295|pages=737–41|via=Google Scholar}}&lt;/ref&gt;
+
+=== RNA Interference ===
+RNA Interference (RNAIi) is the process in which a cell’s RNA to protein mechanism is turned down or off in order to suppress genes. This method of genetic modification works by interfering with messenger RNA to stop the synthesis of proteins, effectively silencing a gene.
+
+=== Transgenics ===
+Transgenics involves the insertion of one piece of DNA into another organism’s DNA in order to introduce a new gene(s) into the original organism. This addition of genes into an organism’s genetic material creates a new variety with desired traits.  The DNA must be prepared and packaged in a test tube and then inserted into the new organism. New genetic information can be inserted with [[biolistics]]. An example of transgenics is the rainbow papaya, which is modified with a gene that gives it resistance to the Papaya Ringspot Virus.
+
+=== Genome Editing ===
+Genome editing is the use of an enzyme system to modify to DNA directly within the cell. Genome editing was used to develop herbicide resistant canola to help farmers control weeds.
+
+== Improved Nutritional Content ==
+Agricultural Biotechnology has been used to improve the nutritional content of a variety of crops in an effort to meet the needs of an increasing population.  Genetic engineering can produce crops with a higher concentration of vitamins. For example, golden rice contains three genes that allow plants to produce compounds that are converted to Vitamin A in the human body. This nutritionally improved rice is designed to combat the world’s leading cause of blindness—Vitamin A deficiency. Similarly, the Banana 21 project&lt;ref&gt;{{Cite web|url=http://www.banana21.org/about.html|title=About Banana21|website=www.banana21.org|access-date=2016-12-05}}&lt;/ref&gt; has worked to improve the nutrition in bananas to combat micronutrient deficiencies in Uganda. By genetically modifying bananas to contain Vitamin A and iron, Banana 21 has helped foster a solution to micronutrient deficiencies through the vessel of a staple food and major starch source in Africa. Additionally, crops can be engineered to reduce toxicity or to produce varieties with removed allergens.
+
+== Genes and Traits of Interest for Crops ==
+
+=== Agronomic Traits ===
+
+==== Insect resistance ====
+
+One highly sought after trait is insect resistance. This trait increases a crop’s resistance to bugs and allows for a higher yield. These genetically engineered crops can now produce their own Bt (''Bacillus thuringiensis),'' which contains toxin-producing proteins that are non-harmful to humans. Bt corn and cotton are now commonplace, and cowpeas, sunflower, soybeans, tomatoes, tobacco, walnut, sugar cane, and rice are all being studied in relation to Bt.
+
+==== Herbicide tolerance ====
+
+Weeds have proven to be an issue for farmers for thousands of years; they compete for soil nutrients, water, and sunlight and prove deadly to crops. Biotechnology has offered a solution in the form of herbicide tolerance. Chemical herbicides are sprayed directly on plants in order to kill weeds and therefore competition, and herbicide resistant crops have to the opportunity to flourish.
+
+==== Disease resistance ====
+
+Often, crops are afflicted by disease spread through insects (like aphids). Spreading disease among crop plants is incredibly difficult to control and was previously only managed by completely removing the affected crop. The field of agricultural biotechnology offers a solution through genetically engineering virus resistance. Developing GE disease-resistant crops now include cassava, maize, and sweet potato.
+
+==== Temperature tolerance ====
+
+Agricultural biotechnology can also provide a solution for plants in extreme temperature conditions. In order to maximize yield and prevent crop death, genes can be engineered that help to regulate cold and heat tolerance. For example, papaya trees have been genetically modified in order to be more tolerant of hot and cold conditions.&lt;ref&gt;{{Cite journal|last=Figueroa-Yañez|first=Luis|last2=Pereira-Santana|first2=Alejandro|last3=Arroyo-Herrera|first3=Ana|last4=Rodriguez-Corona|first4=Ulises|last5=Sanchez-Teyer|first5=Felipe|last6=Espadas-Alcocer|first6=Jorge|last7=Espadas-Gil|first7=Francisco|last8=Barredo-Pool|first8=Felipe|last9=Castaño|first9=Enrique|date=2016-10-20|title=RAP2.4a Is Transported through the Phloem to Regulate Cold and Heat Tolerance in Papaya Tree (Carica papaya cv. Maradol): Implications for Protection Against Abiotic Stress|url=http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165030|journal=PLOS ONE|volume=11|issue=10|pages=e0165030|doi=10.1371/journal.pone.0165030|issn=1932-6203|pmc=5072549|pmid=27764197}}&lt;/ref&gt; Other traits include water use efficiency, Nitrogen use efficiency and salt tolerance.
+
+=== Quality Traits ===
+Quality traits include increased nutritional or dietary value, improved food processing and storage, or the elimination of toxins and allergens in crop plants.
+
+== Common GMO Crops ==
+Currently, only a small number of [[genetically modified crops]] are available for purchase and consumption in the United States. The USDA has approved soybeans, corn, canola, sugar beets, papaya, squash, alfalfa, cotton, apples, and potatoes.&lt;ref&gt;{{Cite web|url=http://mvgs.iaea.org/|title=MVD|website=mvgs.iaea.org|access-date=2016-12-05}}&lt;/ref&gt; GMO apples (arctic apples) are non-browning apples and eliminate the need for anti-browning treatments, reduce food waste, and bring out flavor. The production of Bt cotton has skyrocketed in India, with 10 million hectares planted for the first time in 2011, resulting in a 50% insecticide application reduction. In 2014, Indian and Chinese farmers planted more than 15 million hectares of Bt cotton.&lt;ref&gt;{{Cite web|url=http://www.isaaa.org|title=International Service for the Acquisition of Agri-biotech Applications - ISAAA.org|website=www.isaaa.org|access-date=2016-12-05}}&lt;/ref&gt;
+
+== Safety Testing and Government Regulations ==
+Agricultural Biotechnology regulation falls under three main government agencies: The Department of Agriculture (USDA), the Environmental Protection Agency (EPA), and the Food and Drug Administration (FDA). The USDA must approve the release of any new GMOs, EPA controls the regulation of insecticide, and the FDA evaluates the safety of a particular crop sent to market. On average, it takes nearly 13 years and $130 million of research and development for a genetically modified organism to come to market. The regulation process takes up to 8 years in the United States.&lt;ref&gt;{{Cite news|url=http://gmo.geneticliteracyproject.org/FAQ/what-does-it-take-to-bring-a-new-gm-product-to-market/|title=What does it take to bring a new GM product to market? #GMOFAQ|newspaper=GMO FAQ|language=en-US|access-date=2016-12-05}}&lt;/ref&gt; The safety of GMOs has become a topic of debate worldwide, but scientific articles are being conducted to test the safety of consuming GMOs in addition to the FDA’s work. In one such article, it was concluded that Bt rice did not adversely affect digestion and did not induce horizontal gene transfer.&lt;ref&gt;{{Cite journal|last=Zhao|first=Kai|last2=Ren|first2=Fangfang|last3=Han|first3=Fangting|last4=Liu|first4=Qiwen|last5=Wu|first5=Guogan|last6=Xu|first6=Yan|last7=Zhang|first7=Jian|last8=Wu|first8=Xiao|last9=Wang|first9=Jinbin|date=2016-10-05|title=Edible Safety Assessment of Genetically Modified Rice T1C-1 for Sprague Dawley Rats through Horizontal Gene Transfer, Allergenicity and Intestinal Microbiota|url=http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163352|journal=PLOS ONE|volume=11|issue=10|pages=e0163352|doi=10.1371/journal.pone.0163352|issn=1932-6203|pmc=5051820|pmid=27706188}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+#
+
+2. Momoh James Osamede (2016). Crop Biotechnology in Nigeria. Procedure for Postgraduate workshop, UNIBEN, Nigeria 27 April 2016. BENIN CITY , Nigeria
+
+[[Category:Agricultural technology|Biotechnology]]
+[[Category:Biotechnology]]
+[[Category:Life sciences industry]]</text>
+      <sha1>8f55n15rfdermertimjjj91cttj1pf6</sha1>
+    </revision>
+  </page>
+</mediawiki>
